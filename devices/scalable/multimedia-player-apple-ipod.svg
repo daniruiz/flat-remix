@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="multimedia-player-apple-ipod.svg"
+   viewBox="0 0 511.99999 511.99999">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview11"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="8.2557173"
+     inkscape:cx="-15.002792"
+     inkscape:cy="14.799962"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="matrix(10.908634,0,0,10.908634,3.4122022,-11.744002)">
+    <path
+       id="shape0"
+       transform="translate(11.2621,3.91837)"
+       d="M 1.91127,1.63132e-5 C 0.955487,-0.00476564 -1.45091e-4,1.04256 1.65232e-8,2.09467 L 0.00511168,39.157 C 0.00525678,40.2091 0.961179,41.2565 1.91696,41.2517 L 21.8776,41.152 c 0.9557,-0.0047 1.9097,-1.0616 1.9079,-2.1138 L 23.721,2.21333 C 23.7192,1.16122 22.7615,0.104335 21.8057,0.0995527 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       id="shape1"
+       transform="translate(12.2014,9.77566)"
+       d="M 0,0 0,27.1 21.8666,27.0248 21.8059,0.075278 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#2980b9;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel" />
+    <circle
+       id="shape01"
+       transform="translate(20.6489,38.5406)"
+       r="1.9266609pt"
+       cx="1.9266609pt"
+       cy="1.9266609pt"
+       stroke-miterlimit="2.01260185242"
+       style="fill:#a8b2b8;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+    <rect
+       id="shape11"
+       transform="translate(18.8844,6.14966)"
+       stroke-miterlimit="2.01260185242"
+       width="6.7918367pt"
+       height="1.0448979pt"
+       rx="0.53333336pt"
+       ry="0.52244896pt"
+       x="0"
+       y="0"
+       style="fill:#435564;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+  </g>
+</svg>

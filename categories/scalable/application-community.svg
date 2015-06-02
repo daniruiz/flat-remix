@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   width="48"
+   height="48"
+   sodipodi:docname="emblem-favorite.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.895833"
+     inkscape:cx="12.95937"
+     inkscape:cy="23.999999"
+     inkscape:window-width="1274"
+     inkscape:window-height="879"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:current-layer="svg1"
+     inkscape:document-units="px"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
+     inkscape:grid-points="true"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="1px"
+       spacingy="1px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luca Ferretti</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>emblem favouries</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:nodetypes="czczc"
+     id="path2201"
+     d="M 24,12 C 33.288673,2.7151975 44.083965,9.1945377 44,18 C 43.923241,26.049724 39.419303,27.68195 24,42 C 7.8606329,28.680116 3.9160346,27.550728 4,18 C 4.0839653,8.1135477 13.605704,3.0528803 24,12 z "
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:#e04613;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999987999999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 24,12 C 33.288673,2.7151975 44.083965,9.1945377 44,18 C 43.923241,26.049724 39.419303,27.68195 24,42 C 7.8606329,28.680116 3.9160346,27.550728 4,18 C 4.0839653,8.1135477 13.605704,3.0528803 24,12 z "
+     id="path920"
+     sodipodi:nodetypes="czczc" />
+</svg>
