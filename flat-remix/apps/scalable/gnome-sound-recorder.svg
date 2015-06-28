@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="gnome-sound-recorder.svg"
+   viewBox="0 0 512 512">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     id="namedview14"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="0.86915208"
+     inkscape:cx="225.98687"
+     inkscape:cy="317.72484"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-global="false"
+     inkscape:document-units="px" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3763"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff2608;stop-opacity:1;"
+         offset="0"
+         id="stop3765" />
+    </linearGradient>
+  </defs>
+  <circle
+     style="fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:#d41a1a;stroke-width:26.28672028;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-opacity:1"
+     id="path3769"
+     cx="256"
+     cy="256"
+     r="211.85664" />
+  <g
+     id="layer1"
+     transform="matrix(7.7828202,0,0,7.7828202,69.022227,50.933585)"
+     style="fill:#ff0000">
+    <rect
+       ry="6.5488758"
+       rx="5.1692877"
+       height="24.191668"
+       width="10.338575"
+       stroke-miterlimit="2.01260185242"
+       transform="translate(18.6852,8.70176)"
+       id="shape0"
+       x="0"
+       y="0"
+       style="fill:#d41a1a;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+    <path
+       d="M 0,3.34357 14.4175,3.39142 C 10.6819,-1.15464 3.83662,-1.09035 0,3.34357 Z"
+       transform="translate(16.6698,42.942)"
+       id="shape01"
+       inkscape:connector-curvature="0"
+       style="fill:#d41a1a;fill-opacity:1;fill-rule:evenodd;stroke:#4c4c4c;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel" />
+    <rect
+       height="5.3010249"
+       width="3.0987344"
+       stroke-miterlimit="2.01260185242"
+       transform="translate(22.3506,37.8078)"
+       id="rect3005"
+       x="0"
+       y="0"
+       style="fill:#d41a1a;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+    <path
+       d="M 0,0.0143056 3.24091,0 C 3.85772,10.5442 18.1809,10.4685 18.7346,0 l 3.2922,0.0193159 C 21.0937,15.2659 0.628167,14.7098 0,0.0143056 Z"
+       stroke-miterlimit="2.00000000000"
+       transform="translate(12.83,27.6152)"
+       id="shape02"
+       inkscape:connector-curvature="0"
+       style="fill:#d41a1a;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
+  </g>
+</svg>
