@@ -1,8 +1,0 @@
-<svg width="256" xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#268bd2" d="M 240 16 L 240 240 L 96 128 Z "/>
-<path style="fill:#000;fill-opacity:.102" d="M 240 16 L 240 240 L 96 128 Z "/>
-<g style="fill:#268bd2">
-<path d="M 160 16 L 160 240 L 16 128 Z "/>
-<path d="M 64 16 L 16 16 L 16 240 L 64 240 Z "/>
-</g>
-</svg>
