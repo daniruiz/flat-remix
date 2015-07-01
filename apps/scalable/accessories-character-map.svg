@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.0"
+   id="svg2"
+   height="512"
+   width="512"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="kcharselect.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1.6523438"
+     inkscape:cx="147.36643"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4132">
+      <stop
+         id="stop4134"
+         offset="0"
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
+      <stop
+         id="stop4136"
+         offset="1"
+         style="stop-color:#f2f2f2;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3155">
+      <stop
+         id="stop3157"
+         offset="0"
+         style="stop-color:#303030;stop-opacity:1;" />
+      <stop
+         id="stop3159"
+         offset="1"
+         style="stop-color:#303030;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6067">
+      <stop
+         id="stop6069"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop6071"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3142">
+      <stop
+         id="stop3144"
+         offset="0"
+         style="stop-color:#303030;stop-opacity:1;" />
+      <stop
+         id="stop3146"
+         offset="1"
+         style="stop-color:#303030;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1.6258627,0,0,1.6258627,-28.787153,-52.145846)"
+       gradientUnits="userSpaceOnUse"
+       y2="110.71667"
+       x2="92.804863"
+       y1="75.855133"
+       x1="92.804863"
+       id="linearGradient3148"
+       xlink:href="#linearGradient3142" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="119.78299"
+       x2="29.731594"
+       y1="96.211563"
+       x1="29.731594"
+       id="linearGradient6073"
+       xlink:href="#linearGradient6067" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="124.82345"
+       x2="100.75668"
+       y1="85.389313"
+       x1="100.75668"
+       id="linearGradient3161"
+       xlink:href="#linearGradient3155" />
+    <linearGradient
+       gradientTransform="translate(-2.2728432)"
+       gradientUnits="userSpaceOnUse"
+       y2="-115.67227"
+       x2="96.899597"
+       y1="-101.65641"
+       x1="96.899597"
+       id="linearGradient4138"
+       xlink:href="#linearGradient4132" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       id="filter3004">
+      <feColorMatrix
+         result="result2"
+         type="saturate"
+         in="SourceGraphic"
+         values="1"
+         id="feColorMatrix3006" />
+      <feFlood
+         result="result1"
+         flood-opacity="1"
+         flood-color="rgb(254,102,0)"
+         id="feFlood3008" />
+      <feBlend
+         result="result3"
+         in="result1"
+         mode="multiply"
+         in2="result2"
+         id="feBlend3010" />
+      <feComposite
+         result="result4"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite3012" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#d41a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538"
+     id="rect4444"
+     width="450"
+     height="450"
+     x="31"
+     y="31"
+     rx="54.3265"
+     ry="66.489136" />
+  <g
+     style="font-style:normal;font-weight:normal;font-size:230.9047699px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.77261877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text4163">
+    <path
+       d="m 277.73571,338.31757 -69.04053,-167.86777 -18.93419,0 -69.50233,167.86777 23.78319,0 21.47414,-55.18624 66.26967,0 21.93595,55.18624 24.0141,0 z m -54.26262,-73.88953 -49.87543,0 25.63043,-68.80962 24.245,68.80962 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.77261877px"
+       id="path4167" />
+    <path
+       d="m 328.01161,341.55023 c 14.77791,0 28.17038,-5.31081 39.94653,-15.47062 l 3.46357,15.47062 20.31962,-4.38719 c -3.23267,-11.54524 -4.849,-21.70505 -4.849,-30.47943 l 0,-39.25381 c 0,-33.71209 -16.16334,-50.56814 -49.18272,-50.56814 -14.08519,0 -29.094,2.30904 -44.79552,6.92714 l 2.30904,19.62691 c 15.00881,-5.77262 28.8631,-8.54348 41.33196,-8.54348 16.85605,0 26.32314,8.77438 28.63219,26.09224 -52.64629,0.69271 -78.96943,15.70152 -78.96943,45.02643 0,22.16686 18.70328,35.55933 41.79376,35.55933 z m 37.17567,-40.63924 c 0,12.69977 -21.93595,21.47415 -36.25205,21.47415 -13.62338,0 -20.55052,-6.23443 -20.55052,-18.47238 0,-15.23972 19.16509,-23.32139 56.80257,-24.0141 l 0,21.01233 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.77261877px"
+       id="path4169" />
+  </g>
+</svg>

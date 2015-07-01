@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="drive-removable-media-usb-symbolic-1.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient3880">
+      <stop
+         id="stop3882"
+         offset="0"
+         style="stop-color:#da0000;stop-opacity:1;" />
+      <stop
+         id="stop3884"
+         offset="1"
+         style="stop-color:#ff4200;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-0.25,-31.5)"
+       gradientUnits="userSpaceOnUse"
+       y2="28"
+       x2="272"
+       y1="284"
+       x1="272"
+       id="linearGradient3965"
+       xlink:href="#linearGradient3880"
+       inkscape:collect="always" />
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="268.33"
+       y1="279.096"
+       id="linearGradient3006"
+       xlink:href="#linearGradient4460"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" />
+    <linearGradient
+       id="linearGradient4460">
+      <stop
+         id="stop7"
+         style="stop-color:#dadada;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop9"
+         style="stop-color:#f7f7f7;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="67.825682"
+     inkscape:cx="7.9996727"
+     inkscape:cy="16.758281"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3790" />
+  </sodipodi:namedview>
+  <g
+     id="g3854">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 7,3 7,5.6061995 4.2617915,7.675809 C 4.102729,7.772119 3.9984612,7.83778 4,8 L 4,9 3,9 3,12 6,12 6,9 5,9 5,8.5 7,6.75 7,13 5,13 8.0000015,16 11,13 9,13 9,5.35 11,6.75 11,9 12,9 12,6.5 C 12.0025,6.347082 11.973695,6.154415 11.830592,6.056452 L 9,4 9,3 z"
+       id="path4707-3" />
+    <path
+       transform="matrix(1.5417427,0,0,1.4280358,3.8330293,-2.8560717)"
+       d="m 4,3.2254596 a 1.2972333,1.2254595 0 1 1 -2.5944667,0 1.2972333,1.2254595 0 1 1 2.5944667,0 z"
+       sodipodi:ry="1.2254595"
+       sodipodi:rx="1.2972333"
+       sodipodi:cy="3.2254596"
+       sodipodi:cx="2.7027667"
+       id="path3792"
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path3813"
+       sodipodi:cx="2.7027667"
+       sodipodi:cy="3.2254596"
+       sodipodi:rx="1.2972333"
+       sodipodi:ry="1.2254595"
+       d="m 4,3.2254596 a 1.2972333,1.2254595 0 1 1 -2.5944667,0 1.2972333,1.2254595 0 1 1 2.5944667,0 z"
+       transform="matrix(1.156307,0,0,1.2240307,8.374772,5.5519385)" />
+  </g>
+</svg>
