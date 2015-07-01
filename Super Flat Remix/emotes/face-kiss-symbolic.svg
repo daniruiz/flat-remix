@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="g71291" transform="translate(-865 159)">
+  <path id="path7970" style="color:#bebebe;enable-background:accumulate;fill:#555" d="m873-158c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm4.0938 3.375c0.01-0.023 0.4323 0.0833 0.5 0.625 0.067 0.542-0.40625 1-0.40625 1s-3.1765 0.017-3.1875 0c-0.192-0.2918-0.2751-0.7658 0.0625-1.0625 0.019 0 3.0268-0.5406 3.0312-0.5625zm-8.4062 0.0312c0.0424-0.015 0.06-0.006 0.0625 0 0.005 0.0219 2.981 0.5625 3 0.5625 0.3376 0.2967 0.2858 0.7707 0.0937 1.0625-0.0109 0.017-3.1875 0-3.1875 0s-0.47325-0.458-0.40625-1c0.0506-0.40627 0.31042-0.58006 0.4375-0.625zm5.6875 3.8971c0.5281 0.091 0.85134 0.57183 1.2773 0.85157 0.4234 0.32227 0.90238 0.5632 1.3301 0.87695-0.2021 0.20917-0.64509 0.33301-0.90039 0.56445-0.4147 0.33204-0.69441 0.79757-1.0664 1.1738-0.4026 0.44495-0.9266 0.83412-1.5332 0.92188-0.3271 0.0289-0.65612 0.0255-0.98242-0.0137-0.182 0.0454-0.49171-0.1335-0.69531-0.23242-0.9209-0.48261-1.332-1.541-2.2246-2.0605-0.162-0.1364-0.45796-0.20554-0.56446-0.34766 0.72011-0.41719 1.4058-0.89669 2.0254-1.4531 0.2525-0.19094 0.59664-0.33773 0.90234-0.17578 0.4851 0.23862 1.0504 0.41984 1.584 0.22852 0.2971-0.073 0.54976-0.27266 0.84766-0.33399zm-1.9062 1.7188c-0.271 0.11558-0.5557 0.25709-0.8125 0.375 0.1567 0.13071 0.46757 0.2025 0.66797 0.33594 0.316 0.21175 0.72878 0.22632 1.084 0.12109 0.3204-0.1413 0.62723-0.31646 0.95703-0.43554-0.1945-0.13166-0.53614-0.24101-0.77734-0.37891-0.3745 0.0118-0.73954 0.0937-1.1191-0.0176z"/>
+ </g>
+</svg>

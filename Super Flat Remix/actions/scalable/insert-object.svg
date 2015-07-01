@@ -1,0 +1,9 @@
+<svg width="256" xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path style="fill:#6c71c4" d="M 16 0 L 240 0 L 240 256 L 16 256 Z "/>
+<path style="fill:#fff;fill-opacity:.902" d="M 32 16 L 32 240 L 224 240 L 224 16 Z "/>
+<g style="fill:#6c71c4">
+<path d="M 64 48 L 192 48 L 192 64 L 64 64 Z "/>
+<path d="M 64 96 L 64 208 L 192 208 L 192 96 Z "/>
+</g>
+<path style="fill:#b58900" d="M 96 160 L 256 160 L 176 256 Z "/>
+</svg>

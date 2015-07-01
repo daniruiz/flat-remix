@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512"
+   version="1.1"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     ry="0"
+     y="352.8588"
+     x="210.89912"
+     height="75.477806"
+     width="90.201744"
+     id="rect4147"
+     style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:5.65382528;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:22.61530156, 22.61530156;stroke-dashoffset:42;stroke-opacity:1" />
+  <path
+     id="rect4147-1"
+     d="m 210.76698,353.41547 90.46603,0 0,74.71138 z"
+     style="opacity:1;fill:#c3c3c3;fill-opacity:1;stroke:none;stroke-width:5.63328028;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:22.53312289, 22.53312289;stroke-dashoffset:42;stroke-opacity:1" />
+  <rect
+     y="63.004776"
+     x="24.947838"
+     height="295.08395"
+     width="462.39835"
+     id="rect4143-3"
+     style="opacity:1;fill:#3c3c3c;fill-opacity:0.32007165;stroke:none;stroke-width:5.62832594;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:22.51330515, 22.51330515;stroke-dashoffset:42;stroke-opacity:1" />
+  <path
+     id="rect4143"
+     d="m 20.999999,56.313621 0,297.260179 470.000001,0 0,-297.260179 -470.000001,0 z m 150.667451,371.873369 0,13.02847 168.66509,0 0,-13.02847 -168.66509,0 z"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.69529057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:22.78116275, 22.78116275;stroke-dashoffset:42;stroke-opacity:1" />
+  <path
+     id="path4167"
+     d="m 467.8841,83.235546 -426.953998,0.40306 10.768402,5.4569 -10.821775,-5.40721 1.034326,217.955714 0,0.009 0.01841,-0.009 425.067545,-1.70609 0.87789,-216.696854 0.009,-0.006 z"
+     style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94230425px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

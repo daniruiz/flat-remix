@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16.531" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer10" transform="translate(-260.75 -467)">
+  <path id="path8540" style="block-progression:tb;text-indent:0;color:#000000;enable-background:new;text-transform:none;fill:#bebebe" d="m269 467-1.0019 0.0275 0.0312 0.5c0.0471 0.46556-0.20254 0.96951-0.59375 1.2188-0.35305 0.24895-0.90493 0.1983-1.5938 0.21875-0.34855 0.003-0.70297 0.0839-1.0312 0.28125-0.32828 0.19733-0.64985 0.5469-0.71875 1-0.15832 0.89239 0.45382 1.6334 1.1562 1.7812 0.80729 0.17604 1.6445 0.0756 2.625 0 0.25579-0.0197 0.60056 0.0205 0.8125 0.125 0.33374 0.26075 0.28443 0.40291 0.28125 0.875h-4.9062-0.75l-0.21875 0.71875-1.9688 7-0.375 1.2812h1.3438 13.875 1.3125l-0.375-1.2812-1.9062-6.8125-1.4688 2.2188 1.125 3.875h-11.281l1.4375-5h3.25c0.0102-0.0106 0.0207-0.0211 0.0312-0.0312l1.3438-0.875 0.53125-1.0625v-0.0312-0.46875c-0.003-0.61146-0.40574-1.0966-0.84375-1.3125-0.43801-0.21594-0.93011-0.25063-1.3438-0.21875-0.99591 0.0768-1.7395 0.12494-2.3125 0h-0.0312c-0.19949-0.042-0.41743-0.20971-0.34375-0.625 0.0189-0.12428 0.0777-0.19648 0.21875-0.28125 0.14101-0.0848 0.35246-0.15487 0.53125-0.15625h0.0312c0.56397-0.0167 1.377 0.11764 2.0938-0.40625 0.81874-0.59848 1.1537-1.3952 1.0625-2.125z"/>
+  <path id="path8552" style="block-progression:tb;text-indent:0;color:#000000;enable-background:new;text-transform:none;fill:#bebebe" d="m274.13 469.07s-2.5192 3.5064-4.0403 5.969l-1.4057 1.1673 0.0373 1.5739-0.76313 1.2452 0.69536-0.001 0.74028-0.58334 1.675-0.4626 0.5949-1.481 4.185-6.3646z"/>
+  <path id="path8566" style="color:#000000;enable-background:new;fill:#bebebe" d="m34.648 252.44a0.57452 0.57452 0 1 1 -1.149 0 0.57452 0.57452 0 1 1 1.149 0z" transform="matrix(1.1306 0 0 1.1306 236.55 184.03)"/>
+ </g>
+</svg>
