@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="g71291" transform="translate(-725 139)">
+  <path id="path7981" style="color:#bebebe;enable-background:accumulate;fill:#555" d="m733-138c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm-3 4.0039c0.55407 0 1 0.44945 1 1 0 0.55064-0.44593 1-1 1-0.55424 0-1-0.44936-1-1 0-0.55055 0.44576-1 1-1zm6 0c0.55415 0 1 0.44945 1 1 0 0.55064-0.44585 1-1 1-0.55407 0-1-0.44936-1-1 0-0.55055 0.44593-1 1-1zm0.6875 4.5273c0.21054-0.01 0.6444 0.0372 0.84375 0.40625 0.2659 0.4922-0.34375 1.125-0.34375 1.125s-4.947 1.355-4.9688 1.3438c-0.3863-0.1995-0.6263-0.6356-0.1875-1.0625 0.03-0.01 4.5308-1.7582 4.5312-1.7812 0-0.006 0.0548-0.0279 0.125-0.0312z"/>
+ </g>
+</svg>

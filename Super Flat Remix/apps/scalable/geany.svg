@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="geany.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="946"
+     inkscape:window-height="633"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="15"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Geany Icon</title>
+  <desc
+     id="desc6">This icon is a part of Clarity icon theme for gtk</desc>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Geany Icon</dc:title>
+        <dc:description>This icon is a part of Clarity icon theme for gtk</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2010</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://www.gnu.org/copyleft/gpl.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <linearGradient
+       x1="0"
+       y1="128"
+       x2="128"
+       y2="0"
+       id="gradient"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="start"
+         style="stop-color:#dbdbdb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop"
+         style="stop-color:#757575;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <circle
+     style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path3340"
+     cx="63.728817"
+     cy="64.81356"
+     r="59.389832" />
+  <path
+     style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+     d="m 102.23253,8.2543609 c 0,0 -8.875188,1.8316111 -19.100271,4.1522321 -7.880351,1.788477 -18.977803,4.989443 -23.949012,11.465523 -4.229453,5.50978 -14.818222,13.418185 -26.440352,20.948688 7.314649,-1.828662 14.464487,-3.986159 21.779136,-9.804629 9.847378,-7.833142 13.462287,-13.451099 21.109419,-15.778489 7.647131,-2.327387 19.452682,-3.169952 26.60108,-10.9833251 z"
+     id="path3349"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+     d="m 84.063259,22.05049 c -9.417562,8.717466 -12.677876,12.570903 -25.422385,18.966332 -9.353641,4.693829 -18.630199,5.983352 -28.77096,7.313289 -10.140762,1.329936 -12.581261,1.358598 -15.778488,5.652395 -2.4973,3.353815 -2.670619,11.252473 4.473698,15.778491 0,0 -3.49354,-3.816699 -3.161056,-7.474024 0.332484,-3.657323 3.016258,-8.142972 9.00097,-8.974182 5.984713,-0.83121 12.457035,-0.661916 23.761493,-3.321786 11.304455,-2.659873 15.380954,-4.923039 21.45767,-8.974183 4.488535,-2.992355 10.283009,-9.158053 14.439058,-18.966332 z"
+     id="path3347"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#c7b71f;fill-opacity:1;stroke:none"
+     d="m 102.44389,69.169242 c -2.35942,-0.05635 -5.242085,0.6728 -8.510255,2.949699 -2.770465,1.930147 -7.992442,4.296146 -10.945746,5.552364 -2.953305,1.256218 -7.108141,2.145927 -9.713997,1.966467 -2.605857,-0.179463 -6.611601,-0.709418 -7.306495,-2.862944 -0.694896,-2.153515 0.861265,-3.411566 1.903608,-4.308873 1.042342,-0.897296 1.742198,-2.336447 0.699855,-2.515908 -1.042342,-0.179462 -10.260769,-1.087838 -12.345456,-0.549453 -2.084684,0.538373 -2.929473,2.335628 -1.539682,3.412385 1.38979,1.076768 6.576077,3.428595 3.275325,4.684814 -3.300751,1.256219 -5.714189,1.792125 -8.146322,2.689431 -2.432132,0.897297 -4.181061,3.596159 -5.570851,5.031839 -1.38979,1.43569 -5.19949,2.064598 -8.510246,0.520526 C 31.02812,83.545042 24.98255,79.129695 21.148634,73.18892 l -5.402887,1.069989 c -0.396967,0 4.708563,8.612801 12.009525,13.996598 6.957135,5.130272 12.833049,10.756076 18.39221,12.550673 5.559159,1.79461 14.789279,0.92458 17.916307,1.82187 3.127028,0.8973 9.543639,0.70247 12.149496,-2.1689 2.605856,-2.871349 7.632678,-7.709541 12.149496,-14.170098 4.516818,-6.460567 6.794454,-9.530423 9.574024,-10.786642 2.779585,-1.256219 4.211235,-1.17892 6.074765,-0.347024 2.15071,0.960109 4.86192,3.18671 4.50706,5.552375 -0.39385,2.625583 -1.031,4.308862 -6.24271,4.308862 -2.785015,0 -6.606645,0.549454 -6.606645,0.549454 -1.91096,0 -1.37747,2.329689 -1.20375,3.585918 0.17372,1.25622 1.72908,2.168896 2.77143,2.168896 1.04234,0 9.381435,0.354611 11.813565,-1.619442 2.43213,-1.974055 4.24425,-4.720566 4.70304,-8.097212 0.56185,-4.135264 -2.25861,-7.456404 -5.03897,-10.034749 -1.05075,-0.974399 -3.23719,-2.327792 -6.2707,-2.400246 z"
+     id="path15"
+     inkscape:connector-curvature="0" />
+</svg>

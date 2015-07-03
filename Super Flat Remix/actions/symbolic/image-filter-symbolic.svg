@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-465 -141)">
+  <rect id="rect46078" style="color:#000000;enable-background:new;fill:#555" rx="0" ry="0" height="14" width="2" y="142" x="466"/>
+  <rect id="rect46080" style="color:#000000;enable-background:new;fill:#555" rx="0" ry="0" transform="rotate(90)" width="2" y="-480" x="154" height="14"/>
+  <path id="path46082" style="block-progression:tb;text-indent:0;color:#000000;enable-background:new;text-transform:none;fill:#555" d="m478.44 142.06a0.50005 0.50005 0 0 0 -0.44 0.53c0.0174 1.1818-0.0427 2.2919-0.6875 3.2188-0.64481 0.92683-1.9108 1.742-4.4375 2.25-2.7203 0.54687-4.3482 1.6884-5.3125 3.0625-0.96427 1.3741-1.2786 2.9308-1.5625 4.2812a0.51182 0.51182 0 1 0 1 0.21875c0.28448-1.3532 0.58971-2.7426 1.4062-3.9062 0.81654-1.1636 2.1191-2.1462 4.6562-2.6562 2.6739-0.53756 4.2306-1.4917 5.0625-2.6875 0.83193-1.1958 0.89324-2.5745 0.875-3.8125a0.50005 0.50005 0 0 0 -0.5625 -0.5z"/>
+  <path id="path46084" style="opacity:0.33;color:#000000;enable-background:new;fill:#555" d="m466.5 155.51c0.5684-2.7037 1.2581-5.3669 6.4967-6.5138 5.218-0.9552 5.0855-3.6476 6-6v12.558z"/>
+ </g>
+</svg>
