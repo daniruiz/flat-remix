@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91+devel r14221 custom"
    viewBox="0 0 144.49777 144.49779"
    sodipodi:docname="preferences-desktop-keyboard.svg">
   <defs
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="377.03946"
-     inkscape:cy="227.89473"
+     inkscape:zoom="1.6347656"
+     inkscape:cx="256"
+     inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,9 +40,9 @@
      fit-margin-bottom="0"
      showguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="32"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="-6.6748425e-06,47.999999"
@@ -173,7 +173,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -190,7 +190,7 @@
        x="-29.370262"
        y="275.6427" />
     <rect
-       style="fill:#95a5a6;fill-opacity:1;stroke:none;stroke-width:3.92670584"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.92670584;opacity:0.3"
        id="rect4139"
        width="107.94999"
        height="107.94974"
@@ -202,9 +202,9 @@
        height="107.94974"
        width="107.94999"
        id="rect4120"
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:3.92670584" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.92670584" />
     <path
-       style="fill:#7f8c8d;fill-opacity:1;stroke:none;stroke-width:3.92670584"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:3.92670584"
        d="m 34.129809,310.56847 -4.489646,4.48963 -24.0853531,24.0853 0,6.34999 14.2875001,0 0,15.87499 0,6.34999 6.349999,0 15.874997,0 6.349999,0 0,-6.34999 0,-15.87499 14.2875,0 0,-6.34999 -24.08535,-24.0853 -4.489646,-4.48963 z m 0,8.97927 19.5957,19.59566 -11.658203,0 0,6.34999 0,15.87499 -15.874997,0 0,-15.87499 0,-6.34999 -11.658203,0 19.595703,-19.59566 z"
        id="rect4125"
        inkscape:connector-curvature="0" />

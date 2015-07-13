@@ -1,4 +1,27 @@
-<svg width="256" xmlns="http://www.w3.org/2000/svg" height="256" viewBox="0 0 256 256" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#268bd2;fill-rule:evenodd" d="M 127.980469 256 C 57.296875 255.988281 0 198.683594 0 128 C 0 57.316406 57.296875 0.0117188 127.980469 0 C 198.679688 -0.0117188 256 57.300781 256 128 C 256 198.699219 198.679688 256.011719 127.980469 256 Z "/>
-<path style="fill:#fff;fill-opacity:.902" d="M 207.945312 130.5 C 208.1875 123.066406 203.953125 116.398438 196.945312 113.5 C 189.9375 110.601562 181.726562 112.171875 176.445312 117.5 L 143.945312 149 L 143.945312 48 L 111.945312 48 L 111.945312 149 L 79.445312 117.5 C 72.246094 110.488281 60.648438 110.488281 53.445312 117.5 C 46.246094 124.511719 46.246094 135.988281 53.445312 143 L 114.945312 202.5 C 118.402344 205.914062 123.046875 208 127.945312 208 C 132.84375 208 137.488281 205.914062 140.945312 202.5 L 202.445312 143 C 205.855469 139.773438 207.800781 135.175781 207.945312 130.5 Z "/>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='go-down.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='177.86453' inkscape:cy='-178.05657' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#f7f7f7' inkscape:pageopacity='0' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='true' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='true' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='706' inkscape:window-maximized='1' inkscape:window-width='1366' inkscape:window-x='0' inkscape:window-y='32' inkscape:zoom='1'>
+    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-124.0002' originy='-316.00334' snapvisiblegridlinesonly='true' spacingx='0.25px' spacingy='0.25px' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Paper Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-365.0004,99.003343)'>
+    
+    <path inkscape:connector-curvature='0' d='m 367.00089,-90.79184 1.38585,-1.38509 3.63476,3.63493 -0.0211,-8.46136 2,0 0.0211,8.46136 3.63439,-3.63493 1.38509,1.38509 -6.04061,6.00086 z' id='path5873' sodipodi:nodetypes='cccccccccc' style='opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none'/>
+  </g>
 </svg>

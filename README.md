@@ -18,4 +18,4 @@ Official webpage: http://the-ilife.com/post/127
 ##Instalation
      Uncompress the zip file.
      Copy the folder "Super Flat Remix" to .icons in your home directory.
-     Select Flat-Remix as icons in the Aparience page of your system configuration.
+     Select "Super Flat Remix" as icons in the Aparience page of your system configuration.

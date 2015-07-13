@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91+devel r14221 custom"
    width="512"
    height="512"
-   sodipodi:docname="preferences-system.svg"
+   sodipodi:docname="configuration_section.svg"
    viewBox="0 0 512 512">
   <metadata
      id="metadata8">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,41 +40,44 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.1508772"
-     inkscape:cx="66.813924"
-     inkscape:cy="403.81712"
+     inkscape:zoom="1.6347656"
+     inkscape:cx="256"
+     inkscape:cy="256"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:document-units="px" />
-  <g
-     id="g3772"
-     transform="matrix(0.89756593,0,0,0.89756593,118.08882,-10.911765)">
-    <rect
-       ry="42.599998"
-       y="46.694916"
-       x="254.36441"
-       height="501.35593"
-       width="74.957626"
-       id="rect2982"
-       style="fill:#5c717c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       inkscape:transform-center-y="-124.55176"
-       inkscape:transform-center-x="139.60129"
-       ry="32.554001"
-       y="60.065163"
-       x="266.03812"
-       height="474.92636"
-       width="51.610172"
-       id="rect2982-6"
-       style="fill:#2d4453;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-  </g>
+  <rect
+     style="fill:#223656;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659"
+     id="rect2982"
+     width="67.279411"
+     height="450"
+     x="346.39764"
+     y="31"
+     ry="38.236309" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.3"
+     id="rect2982-6"
+     width="46.323532"
+     height="426.27771"
+     x="356.87558"
+     y="43.000679"
+     ry="29.219362"
+     inkscape:transform-center-x="139.60129"
+     inkscape:transform-center-y="-124.55176" />
+  <ellipse
+     style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04400539"
+     id="path3776-1-3"
+     cx="382.70291"
+     cy="170.13251"
+     rx="59.953571"
+     ry="59.953575" />
   <ellipse
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04400539"
      id="path3776-1"
@@ -82,28 +85,31 @@
      cy="160.13251"
      rx="59.953571"
      ry="59.953575" />
-  <g
-     id="g3772-6"
-     transform="matrix(0.89756593,0,0,0.89756593,-6.707856,-10.911765)">
-    <rect
-       ry="42.599998"
-       y="46.694916"
-       x="254.36441"
-       height="501.35593"
-       width="74.957626"
-       id="rect2982-2"
-       style="fill:#5c717c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       inkscape:transform-center-y="-124.55176"
-       inkscape:transform-center-x="139.60129"
-       ry="32.554001"
-       y="60.065163"
-       x="266.03812"
-       height="474.92636"
-       width="51.610172"
-       id="rect2982-6-3"
-       style="fill:#2d4453;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-  </g>
+  <rect
+     style="fill:#223656;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659"
+     id="rect2982-2"
+     width="67.279411"
+     height="450"
+     x="221.60097"
+     y="31"
+     ry="38.236309" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.3"
+     id="rect2982-6-3"
+     width="46.323532"
+     height="426.27771"
+     x="232.07889"
+     y="43.000679"
+     ry="29.219362"
+     inkscape:transform-center-x="139.60129"
+     inkscape:transform-center-y="-124.55176" />
+  <ellipse
+     style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04400539"
+     id="path3776-1-3-3"
+     cx="254.31598"
+     cy="301.15521"
+     rx="59.953571"
+     ry="59.953575" />
   <ellipse
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04400539"
      id="path3776-1-8"
@@ -111,28 +117,31 @@
      cy="291.15521"
      rx="59.953571"
      ry="59.953575" />
-  <g
-     id="g3772-7"
-     transform="matrix(0.89756593,0,0,0.89756593,-131.72675,-10.911765)">
-    <rect
-       ry="42.599998"
-       y="46.694916"
-       x="254.36441"
-       height="501.35593"
-       width="74.957626"
-       id="rect2982-1"
-       style="fill:#5c717c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       inkscape:transform-center-y="-124.55176"
-       inkscape:transform-center-x="139.60129"
-       ry="32.554001"
-       y="60.065163"
-       x="266.03812"
-       height="474.92636"
-       width="51.610172"
-       id="rect2982-6-6"
-       style="fill:#2d4453;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-  </g>
+  <rect
+     style="fill:#223656;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659"
+     id="rect2982-1"
+     width="67.279411"
+     height="450"
+     x="96.582077"
+     y="31"
+     ry="38.236309" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.3"
+     id="rect2982-6-6"
+     width="46.323532"
+     height="426.27771"
+     x="107.06"
+     y="43.000679"
+     ry="29.219362"
+     inkscape:transform-center-x="139.60129"
+     inkscape:transform-center-y="-124.55176" />
+  <ellipse
+     style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04400539"
+     id="path3776-1-3-4"
+     cx="129.29709"
+     cy="132.43474"
+     rx="59.953571"
+     ry="59.953575" />
   <ellipse
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04400539"
      id="path3776-1-9"
