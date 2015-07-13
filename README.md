@@ -15,3 +15,7 @@ Official webpage: http://the-ilife.com/post/127
 
 ![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/2.jpg~original)
 
+##Instalation
+     Uncompress the zip file.
+    Copy the folder "Super Flat Remix" to .icons in your home directory.
+    Select Flat-Remix as icons in the Aparience page of your system configuration.
