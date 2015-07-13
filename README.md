@@ -13,5 +13,9 @@ This theme was made to fit with the [Super Flat Remix GNOME theme](http://the-il
 
 Official webpage: http://the-ilife.com/post/127
 
-![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/2.jpg~original)
+![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/Captura%20de%20pantalla%20de%202015-07-13%2020-59-09.png~original)
 
+##Instalation
+     Uncompress the zip file.
+     Copy the folder "Super Flat Remix" to .icons in your home directory.
+     Select Flat-Remix as icons in the Aparience page of your system configuration.
