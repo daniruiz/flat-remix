@@ -3,7 +3,7 @@ Super Flat Remix
 
 All icons are available for use under a Creative Commons ShareAlike license. 
 
-Super Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper](http://snwh.org/paper/), [Flattr](https://nitrux.in/store/flattr-icon-theme/) and [EvoPop](https://github.com/solus-project/evopop-icon-theme) icon themes. Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
+Super Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper](http://snwh.org/paper/) and [EvoPop](https://github.com/solus-project/evopop-icon-theme) icon themes. Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
 
 ![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/drawing_2.png~original)
 
