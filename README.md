@@ -1,4 +1,4 @@
-Super Flat Remix
+Super Flat Remix  V1.07
 ===========
 
 All icons are available for use under a Creative Commons ShareAlike license. 
