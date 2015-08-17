@@ -13,7 +13,7 @@
    width="512"
    height="512"
    id="svg2408"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91+devel r14221 custom"
    sodipodi:docname="shotwell.svg"
    viewBox="0 0 512 512">
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-height="1017"
      id="namedview128"
      showgrid="false"
      inkscape:zoom="1.625"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:cx="284.80737"
+     inkscape:cy="344.60526"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5602"
      showguides="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,7 +92,7 @@
      id="g5602"
      transform="translate(0,416)">
     <circle
-       style="opacity:0.3;fill:#a9a9a9;fill-opacity:1;stroke:none;stroke-width:6.62912655"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.62912655"
        id="path4795"
        cx="256"
        cy="-160"
@@ -134,12 +134,12 @@
          r="33.941124" />
     </g>
     <path
-       style="fill:#87aade;fill-opacity:1;stroke:none;stroke-width:3.71642351"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.71642351;opacity:0.9"
        d="m 256.00001,-269.85655 c -30.85885,0 -58.70915,12.79922 -78.67147,33.31134 l 56.34579,41.63918 c 15.02002,-13.99612 33.92512,-23.76713 54.92827,-27.64133 l 0,-42.34793 c -10.2993,-3.21971 -21.21453,-4.96126 -32.60259,-4.96126 z m -88.41681,44.82856 c -13.41528,18.21542 -21.43975,40.68872 -21.43975,65.028 0,1.84844 0.0859,3.66861 0.17717,5.49282 l 59.88954,0 c 4.18564,-10.65804 9.89247,-20.48033 17.01004,-29.23601 l -55.637,-41.28481 z"
        id="path4233"
        inkscape:connector-curvature="0" />
     <ellipse
-       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:5.67001581"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.67001581;opacity:0.9"
        id="path5020"
        transform="rotate(-41.158506)"
        cx="311.66913"
