@@ -14,9 +14,9 @@
    height="512"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    version="1.0"
-   sodipodi:docname="gnome-settings-font.svg"
+   sodipodi:docname="fonts.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    viewBox="0 0 512 512">
   <defs
@@ -148,9 +148,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="665.94697"
-     inkscape:cy="285.78837"
+     inkscape:zoom="1.979899"
+     inkscape:cx="481.81101"
+     inkscape:cy="168.62695"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -158,10 +158,10 @@
      height="128px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="3840"
+     inkscape:window-height="2040"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="64"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -201,5 +201,15 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230.9047699px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.77261877px"
          id="path4165" />
     </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538;opacity:0.3"
+       d="M 31 404.51172 L 31 414.51172 C 31 451.3467 55.229291 481 85.326172 481 L 426.67383 481 C 456.77071 481 481 451.3467 481 414.51172 L 481 404.51172 C 481 441.3467 456.77071 471 426.67383 471 L 85.326172 471 C 55.229291 471 31 441.3467 31 404.51172 z "
+       transform="translate(0,-384)"
+       id="rect4444-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.86228538;opacity:0.3"
+       d="M 85.326172 31 C 55.229291 31 31 60.6533 31 97.488281 L 31 107.48828 C 31 70.6533 55.229291 41 85.326172 41 L 426.67383 41 C 456.77071 41 481 70.6533 481 107.48828 L 481 97.488281 C 481 60.6533 456.77071 31 426.67383 31 L 85.326172 31 z "
+       transform="translate(0,-384)"
+       id="rect4444-63" />
   </g>
 </svg>

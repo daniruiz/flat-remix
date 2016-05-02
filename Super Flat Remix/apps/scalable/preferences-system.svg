@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r14221 custom"
+   inkscape:version="0.91+devel r14446 custom"
    width="512"
    height="512"
-   sodipodi:docname="configuration_section.svg"
+   sodipodi:docname="gtk-preferences.svg"
    viewBox="0 0 512 512">
   <metadata
      id="metadata8">
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1018"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.6347656"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="0.8173828"
+     inkscape:cx="93.012736"
+     inkscape:cy="242.21749"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -62,7 +62,7 @@
      y="31"
      ry="38.236309" />
   <rect
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.3"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.5"
      id="rect2982-6"
      width="46.323532"
      height="426.27771"
@@ -94,7 +94,7 @@
      y="31"
      ry="38.236309" />
   <rect
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.3"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.5"
      id="rect2982-6-3"
      width="46.323532"
      height="426.27771"
@@ -126,7 +126,7 @@
      y="31"
      ry="38.236309" />
   <rect
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.3"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8975659;opacity:0.5"
      id="rect2982-6-6"
      width="46.323532"
      height="426.27771"
