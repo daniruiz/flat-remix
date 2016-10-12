@@ -1,6 +1,7 @@
 [Icon Theme]
 Name=Flat Remix
 Comment=An icon theme for Gnome Shell, the set is inspired by the latest flat design trend.
+Inherits=Numix-Circle
 Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/small,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status
 
 [actions/scalable]
