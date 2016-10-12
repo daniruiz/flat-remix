@@ -7,7 +7,7 @@ Super Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [
 
 ![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/drawing_2.png~original)
 
-It has been designed specially in gnome shell 3.16 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
+It has been designed specially in gnome shell 3.22 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
 
 This theme was made to fit with the [Super Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
 
