@@ -14,6 +14,20 @@ This theme was made to fit with the [Super Flat Remix GNOME theme](https://githu
 ![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/Flat_Remix_GnomeTheme.png~original)
 
 ##Installation
-     Uncompress the zip file.
-     Copy the folder "Super Flat Remix" to .icons in your home directory.
-     Select "Super Flat Remix" as icons in the appearance page of your system configuration.
+
+If you want to install it manually:
+
+     Download and uncompress the zip file.
+     Move "Flat Remix" folder to ".icons" in your home directory.
+     Select "Flat Remix" as icon theme in your tweak tools application.
+
+If you prefer to use the terminal:
+
+     cd /tmp
+     git clone https://github.com/daniruiz/Flat-Remix
+     mkdir -p ~/.icons
+     mv "Flat-Remix/Flat Remix" ~/.icons
+
+##Donate
+
+You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S8V26CR79A29W). And I'll give you some candys :)
