@@ -18,16 +18,15 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 If you want to install it manually:
 
      Download and uncompress the zip file.
-     Move "Flat Remix" folder to ".themes" in your home directory.
-     Select "Flat Remix" as shell theme in your tweak tools application.
+     Move "Flat Remix" folder to ".icons" in your home directory.
+     Select "Flat Remix" as icon theme in your tweak tools application.
 
 If you prefer to use the terminal:
 
      cd /tmp
      git clone https://github.com/daniruiz/Flat-Remix
-     mkdir -p ~/.themes
-     mv "Flat-Remix-GNOME-theme/Flat Remix" ~/.themes
-
+     mkdir -p ~/.icons
+     mv "Flat-Remix/Flat Remix" ~/.icons
 
 ##Donate
 
