@@ -9,7 +9,7 @@ Super Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [
 
 It has been designed specially in gnome shell 3.22 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
 
-This theme was made to fit with the [Super Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
+This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
 
 ![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/Flat_Remix_GnomeTheme.png~original)
 
@@ -18,15 +18,15 @@ This theme was made to fit with the [Super Flat Remix GNOME theme](https://githu
 If you want to install it manually:
 
      Download and uncompress the zip file.
-     Move "Flat Remix" folder to ".icons" in your home directory.
-     Select "Flat Remix" as icon theme in your tweak tools application.
+     Move "Flat Remix" folder to ".themes" in your home directory.
+     Select "Flat Remix" as shell theme in your tweak tools application.
 
 If you prefer to use the terminal:
 
      cd /tmp
      git clone https://github.com/daniruiz/Flat-Remix
-     mkdir -p ~/.icons
-     mv "Flat-Remix/Flat Remix" ~/.icons
+     mkdir -p ~/.themes
+     mv "Flat-Remix-GNOME-theme/Flat Remix" ~/.themes
 
 ##Donate
 
