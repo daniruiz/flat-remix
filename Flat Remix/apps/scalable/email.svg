@@ -18,8 +18,8 @@
    height="512"
    viewBox="0 0 512 512"
    enable-background="new 0 0 1024 1024"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="geary.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="email.svg">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -41,33 +41,60 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="3840"
+     inkscape:window-height="2092"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1.6464844"
-     inkscape:cx="228.97272"
-     inkscape:cy="256"
+     inkscape:zoom="1.1642403"
+     inkscape:cx="-238.00497"
+     inkscape:cy="343.44543"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="68"
      inkscape:window-maximized="1"
      inkscape:current-layer="Mail" />
   <defs
      transform="matrix(1 0 0 1 0 0) "
-     id="defs3" />
+     id="defs3">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4227"
+       x="-0.20029319"
+       width="1.4005864"
+       y="-0.14961283"
+       height="1.2992257">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="19.732572"
+         id="feGaussianBlur4229" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4231"
+       x="-0.10200693"
+       width="1.2040139"
+       y="-0.14866322"
+       height="1.2973264">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="19.732572"
+         id="feGaussianBlur4233" />
+    </filter>
+  </defs>
   <g
-     style="overflow:visible;fill:#b3b3b3"
+     style="overflow:visible;fill:#f1f1f1;fill-opacity:1"
      overflow="visible"
      id="Symbole.__211_2"
      transform="matrix(0.82528531,0,0,0.82528531,-166.54609,-186.09077)">
     <g
        id="Calque.__212"
-       style="fill:#b3b3b3">
+       style="fill:#f1f1f1;fill-opacity:1">
       <g
          id="shape59"
-         style="fill:#b3b3b3">
+         style="fill:#f1f1f1;fill-opacity:1">
         <path
-           style="fill:#b3b3b3;fill-opacity:1"
+           style="fill:#f1f1f1;fill-opacity:1"
            inkscape:connector-curvature="0"
            d="m 227.25,408.1 q 0,0.45 0,0.9 l 283,192.5 286.5,-193.4 -569.5,0 z"
            id="path69" />
@@ -142,13 +169,23 @@
     </g>
   </g>
   <path
+     id="path81-5"
+     d="m 491,151.45093 q 0,-0.37138 0,-0.74277 L 254.55575,310.31834 485.26426,467.24635 C 489.06058,464.6467 491,460.06637 491,453.50534 l 0,-302.05441 z"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.82528532;image-rendering:optimizeSpeed;opacity:0.1;filter:url(#filter4227)" />
+  <path
      id="path81"
      d="m 491,151.45093 q 0,-0.37138 0,-0.74277 L 254.55575,310.31834 485.26426,467.24635 C 489.06058,464.6467 491,460.06637 491,453.50534 l 0,-302.05441 z"
      inkscape:connector-curvature="0"
-     style="fill:#cccccc;fill-opacity:1;stroke-width:0.82528532" />
+     style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.82528532" />
+  <path
+     id="path82-7"
+     d="m 474.49428,470.01106 c 4.45655,0 8.04655,-0.90783 10.76998,-2.76471 L 254.55575,310.31834 21.000001,151.45093 l 0,302.05441 c 0,5.3231 1.2792,9.36701 3.71379,11.92537 2.88848,3.09483 7.09745,4.58035 12.79192,4.58035 l 436.988569,0 z"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.82528532;image-rendering:optimizeSpeed;opacity:0.1;filter:url(#filter4231)" />
   <path
      id="path82"
      d="m 474.49428,470.01106 c 4.45655,0 8.04655,-0.90783 10.76998,-2.76471 L 254.55575,310.31834 21.000002,151.45093 l 0,302.05441 c 0,5.3231 1.2792,9.36701 3.713798,11.92537 2.888476,3.09483 7.097444,4.58035 12.79192,4.58035 l 436.98856,0 z"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.82528532" />
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.82528532" />
 </svg>
