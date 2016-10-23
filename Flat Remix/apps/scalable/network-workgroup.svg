@@ -14,7 +14,7 @@
    viewBox="0 0 135.46666 135.46666"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r14080 custom"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="network-workgroup.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="0.22192383"
+     inkscape:cx="-4023.3583"
+     inkscape:cy="824.07634"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="3840"
+     inkscape:window-height="2092"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="68"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

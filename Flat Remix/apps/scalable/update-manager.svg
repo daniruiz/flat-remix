@@ -14,8 +14,8 @@
    viewBox="0 0 512 512.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="system-software-update.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mint-update.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6230469"
+     inkscape:zoom="2.5107815"
      inkscape:cx="256"
      inkscape:cy="256"
      inkscape:document-units="px"
@@ -34,10 +34,10 @@
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-width="3840"
+     inkscape:window-height="2092"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="68"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -77,8 +77,13 @@
        id="rect4159"
        style="fill:#1abc9c;fill-opacity:1;stroke:none;stroke-width:8.33333302" />
     <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.33333302;opacity:0.3"
+       d="m 256,751.5196 c -69.25,0 -125,55.75001 -125,125 0,69.25001 55.75,125 125,125 69.25,0 125,-55.74999 125,-125 0,-69.24999 -55.75,-125 -125,-125 z m 0,25.00001 c 55.4,0 100,44.6 100,99.99999 0,55.40001 -44.6,100.00001 -100,100.00001 -55.40001,0 -100,-44.6 -100,-100.00001 0,-55.39999 44.6,-99.99999 100,-99.99999 z m 0,41.66667 -58.33334,58.33332 33.33334,0 0,58.33334 50,0 0,-58.33334 33.33333,0 L 256,818.18628 Z"
+       id="rect4149-7"
+       inkscape:connector-curvature="0" />
+    <path
        style="fill:#223656;fill-opacity:1;stroke:none;stroke-width:8.33333302"
-       d="m 256,741.51914 c -69.25,0 -125.00001,55.75001 -125.00001,125 0,69.25001 55.75001,125 125.00001,125 69.24999,0 125,-55.74999 125,-125 0,-69.24999 -55.75001,-125 -125,-125 z m 0,25.00001 c 55.4,0 99.99999,44.6 99.99999,99.99999 0,55.40001 -44.59999,100.00001 -99.99999,100.00001 -55.40001,0 -100.00001,-44.6 -100.00001,-100.00001 0,-55.39999 44.6,-99.99999 100.00001,-99.99999 z m 0,41.66667 -58.33334,58.33332 33.33334,0 0,58.33334 49.99999,0 0,-58.33334 33.33333,0 L 256,808.18582 Z"
+       d="m 256,741.5196 c -69.25,0 -125.00001,55.75001 -125.00001,125 0,69.25001 55.75001,125 125.00001,125 69.25,0 125,-55.74999 125,-125 0,-69.24999 -55.75,-125 -125,-125 z m 0,25.00001 c 55.4,0 100,44.6 100,99.99999 0,55.40001 -44.59999,100.00001 -100,100.00001 -55.40001,0 -100.00001,-44.6 -100.00001,-100.00001 0,-55.39999 44.6,-99.99999 100.00001,-99.99999 z m 0,41.66667 -58.33334,58.33332 33.33334,0 0,58.33334 50,0 0,-58.33334 33.33332,0 L 256,808.18628 Z"
        id="rect4149"
        inkscape:connector-curvature="0" />
   </g>
