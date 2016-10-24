@@ -11,7 +11,7 @@ It has been designed specially in gnome shell 3.22 but it should work with most 
 
 This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
 
-![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/Flat_Remix_GnomeTheme.png~original)
+![alt tag](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Flat%20Remix/preview.png?raw=true)
 
 ##Installation
 
