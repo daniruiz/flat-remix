@@ -1,9 +1,9 @@
-Flat Remix  V1.10
+Flat Remix
 ===========
 
 All icons are available for use under a Creative Commons ShareAlike license.
 
-Super Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper](http://snwh.org/paper/), [EvoPop](https://github.com/solus-project/evopop-icon-theme) and [Numix-Circle](https://github.com/numixproject/numix-icon-theme-circle) icon themes. Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
+Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper](http://snwh.org/paper/), [EvoPop](https://github.com/solus-project/evopop-icon-theme) and [Numix-Circle](https://github.com/numixproject/numix-icon-theme-circle) icon themes. Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
 
 ![alt tag](http://i1123.photobucket.com/albums/l553/mikelon1/drawing_2.png~original)
 
