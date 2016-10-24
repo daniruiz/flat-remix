@@ -1,4 +1,4 @@
-![alt tag](https://github.com/daniruiz/Flat-Remix/blob/master/Flat%20Remix/logo.svg)
+![alt tag](https://cdn.rawgit.com/daniruiz/Flat-Remix/master/Flat%20Remix/logo.svg)
 
 
 All icons are available for use under a Creative Commons ShareAlike license.
