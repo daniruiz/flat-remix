@@ -12,7 +12,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="application-drawing.svg">
   <metadata
      id="metadata16">
@@ -60,21 +60,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="959"
-     inkscape:window-height="1026"
+     inkscape:window-height="768"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="8.141321"
-     inkscape:cx="13.557996"
+     inkscape:cx="18.571069"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <path
      d="m 9.7976689,4.203584 c -0.8944343,0 -1.73913,0.8446957 -1.73913,1.7391304 l 0,36.5217396 c 0,0.844721 0.8944348,1.73913 1.73913,1.73913 l 27.8260871,0 c 0.844722,0 1.739131,-0.894435 1.739131,-1.73913 l 0,-26.956522 L 28.058539,4.203584 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#f9de69;fill-opacity:1;stroke-width:0.86956519" />
+     style="fill:#ecaf02;fill-opacity:1;stroke-width:0.86956519" />
   <path
      d="m 16.173913,34.434783 0,-15.652174 15.652174,0 0,15.652174 -8.695652,0 0,-7.826087 4.347826,0 0,2.608695 -1.739131,0 0,2.608696 3.478261,0 0,-10.434783 -10.434782,0 0,13.043479 z"
      id="path10"
@@ -91,5 +91,5 @@
      d="m 28.058539,4.203584 11.304348,11.304348 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.565217 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:#ffeea1;fill-opacity:1;stroke-width:0.86956519" />
+     style="fill:#f6cc53;fill-opacity:1;stroke-width:0.86956519" />
 </svg>
