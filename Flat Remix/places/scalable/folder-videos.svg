@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r14055 custom"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
    sodipodi:docname="folder-videos.svg"
@@ -53,20 +53,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.46003898"
-     inkscape:cx="222.04053"
-     inkscape:cy="151.09593"
+     inkscape:zoom="0.65059336"
+     inkscape:cx="-261.25839"
+     inkscape:cy="377.73447"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4671"
-     inkscape:document-units="px" />
+     inkscape:document-units="px">
+    <sodipodi:guide
+       position="100.67733,328.9305"
+       orientation="1,0"
+       id="guide4145" />
+  </sodipodi:namedview>
   <g
      transform="translate(226.5678,444.61441)"
      id="g3926">
@@ -110,7 +115,7 @@
                 <path
                    inkscape:connector-curvature="0"
                    style="fill:#ffffff;fill-opacity:1"
-                   d="m 381.17527,-201.64632 c -5.38269,0 -9.71605,4.33336 -9.71605,9.71606 l 0,77.72844 c 0,5.3827 4.33336,9.71606 9.71605,9.71606 l 97.16055,0 c 5.38269,0 9.71605,-4.33336 9.71605,-9.71606 l 0,-19.43211 38.86423,19.43211 0,-77.72844 -38.86423,19.4321 0,-19.43209 c 0,-5.3827 -4.33336,-9.71606 -9.71605,-9.71606 l -97.16056,0 z"
+                   d="m 304.32235,-199.34073 c -5.38269,0 -9.71605,4.33336 -9.71605,9.71606 l 0,77.72844 c 0,5.3827 4.33336,9.71606 9.71605,9.71606 l 97.16055,0 c 5.38269,0 9.71605,-4.33336 9.71605,-9.71606 l 0,-19.43211 38.86423,19.43211 0,-77.72844 -38.86423,19.4321 0,-19.43209 c 0,-5.3827 -4.33336,-9.71606 -9.71605,-9.71606 l -97.16056,0 z"
                    id="path3623" />
               </g>
             </g>

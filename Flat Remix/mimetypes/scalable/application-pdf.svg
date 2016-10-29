@@ -12,7 +12,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="application-pdf.svg">
   <metadata
      id="metadata24">
@@ -59,16 +59,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="4.1313825"
-     inkscape:cx="2.7786735"
-     inkscape:cy="17.55297"
-     inkscape:window-x="960"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:zoom="11.685314"
+     inkscape:cx="9.4706293"
+     inkscape:cy="25.571113"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
      d="m 9.797669,4.203584 c -0.8944343,0 -1.73913,0.8446957 -1.73913,1.7391304 l 0,36.5217396 c 0,0.844721 0.8944348,1.73913 1.73913,1.73913 l 27.826087,0 c 0.844722,0 1.739131,-0.894435 1.739131,-1.73913 l 0,-26.956522 L 28.058539,4.203584 Z"
