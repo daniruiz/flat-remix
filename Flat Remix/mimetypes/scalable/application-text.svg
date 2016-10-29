@@ -12,7 +12,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="application-text.svg">
   <metadata
      id="metadata34">
@@ -59,21 +59,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="5.8453225"
-     inkscape:cx="36.942354"
-     inkscape:cy="34.182943"
-     inkscape:window-x="960"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:zoom="11.690645"
+     inkscape:cx="17.345625"
+     inkscape:cy="23.089774"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
      id="g4182">
     <path
-       style="fill:#ece9d8;fill-opacity:1;stroke-width:0.86956519"
+       style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.1;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path4"
        d="m 9.797669,4.203584 c -0.8944343,0 -1.73913,0.8446957 -1.73913,1.7391304 l 0,36.5217396 c 0,0.844721 0.8944348,1.73913 1.73913,1.73913 l 27.826087,0 c 0.844722,0 1.739131,-0.894435 1.739131,-1.73913 l 0,-26.956522 L 28.058539,4.203584 Z" />
@@ -85,7 +85,7 @@
        id="path8-3"
        d="m 28.248139,4.2710929 11.304348,11.3043481 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.5652171 z" />
     <path
-       style="fill:#f9f8f2;fill-opacity:1;stroke-width:0.86956519"
+       style="fill:#ffffff;fill-opacity:0.80882353;stroke-width:0.86956519"
        inkscape:connector-curvature="0"
        id="path8"
        d="m 28.058539,4.203584 11.304348,11.304348 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.565217 z" />
@@ -93,31 +93,31 @@
   <g
      id="g10"
      transform="matrix(0.86956522,0,0,0.86956522,3.1304347,3.1304348)"
-     style="fill:#000000;fill-opacity:0.35104015">
+     style="fill:#888888;fill-opacity:1">
     <path
        d="m 14,19 0,1 20,0 0,-1 z"
        id="path12"
        inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0.35104015" />
+       style="fill:#888888;fill-opacity:1" />
     <path
        d="m 14,23 0,1 20,0 0,-1 z"
        id="path16"
        inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0.35104015" />
+       style="fill:#888888;fill-opacity:1" />
     <path
        d="m 14,27 0,1 20,0 0,-1 z"
        id="path20"
        inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0.35104015" />
+       style="fill:#888888;fill-opacity:1" />
     <path
        d="m 14,31 0,1 20,0 0,-1 z"
        id="path24"
        inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0.35104015" />
+       style="fill:#888888;fill-opacity:1" />
     <path
        d="m 14,35 0,1 11.814368,0 0,-1 z"
        id="path28"
        inkscape:connector-curvature="0"
-       style="stroke-width:0.76858205;fill:#000000;fill-opacity:0.35104015" />
+       style="stroke-width:0.76858205;fill:#888888;fill-opacity:1" />
   </g>
 </svg>

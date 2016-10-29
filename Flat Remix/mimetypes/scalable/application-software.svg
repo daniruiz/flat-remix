@@ -12,8 +12,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r14055 custom"
-   sodipodi:docname="application-x-deb.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="application-software.svg">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -36,22 +36,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="9.0529102"
-     inkscape:cx="-1.0709858"
+     inkscape:cx="-16.590857"
      inkscape:cy="32.120903"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
      d="M 6.2857162,4 C 5.1429416,4 4.0000559,5.1428857 4.0000559,6.2856603 l 0,35.4921237 C 4.0000559,42.857148 5.1429416,44 6.2222719,44 l 35.5554561,0 c 1.079364,0 2.222216,-1.142885 2.222216,-2.222216 l 0,-35.5554569 c 0,-1.0793302 -1.14333,-2.2222159 -2.222216,-2.2222159 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#cd9c6d;stroke-width:1.04609632;fill-opacity:1" />
+     style="fill:#c19553;stroke-width:1.04609632;fill-opacity:0.99215686" />
   <path
      style="fill:#ffffff;fill-opacity:0.19599998;stroke-width:1.11110795"
      inkscape:connector-curvature="0"
