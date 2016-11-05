@@ -30,4 +30,4 @@ If you prefer to use the terminal:
 
 ##Donate
 
-You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ). And I'll give you some candys :)
+You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ). And I'll give you some candies :)
