@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="input-tablet.svg"
+   sodipodi:docname="tablet.svg"
    viewBox="0 0 511.99999 511.99999">
   <metadata
      id="metadata15">
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="960"
-     inkscape:window-height="1046"
+     inkscape:window-height="1012"
      id="namedview13"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.64257812"
-     inkscape:cx="256"
-     inkscape:cy="256"
-     inkscape:window-x="3008"
+     inkscape:cx="171.18541"
+     inkscape:cy="386.72341"
+     inkscape:window-x="2880"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
@@ -68,7 +68,7 @@
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#d1d5db;fill-opacity:1;stroke:none;stroke-width:21.36363602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:21.36363602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 85.090872,63.72727 0,384.54546 373.863638,0 C 476.70768,448.27273 491,433.98046 491,416.22728 L 491,95.77272 C 491,78.01954 476.70768,63.72727 458.95451,63.72727 l -373.863638,0 z"
      id="rect4169" />
   <path

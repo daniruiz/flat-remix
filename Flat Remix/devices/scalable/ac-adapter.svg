@@ -15,7 +15,7 @@
    height="512"
    id="svg2"
    style="display:inline"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="ac-adapter.svg"
    viewBox="0 0 512 512">
   <sodipodi:namedview
@@ -28,14 +28,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1046"
      id="namedview26"
      showgrid="true"
      inkscape:zoom="0.88499743"
-     inkscape:cx="123.44997"
-     inkscape:cy="329.81419"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="322.62057"
+     inkscape:cy="185.0023"
+     inkscape:window-x="1920"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="true"
@@ -135,13 +135,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
      style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:42;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-     d="M 256,31 C 131.35,31 31,131.35 31,256 31,380.65 131.35,481 256,481 380.65,481 481,380.65 481,256 481,131.35 380.65,31 256,31 Z m 0,60 c 91.41,0 165,73.59 165,165 0,91.41 -73.59,165 -165,165 C 164.59,421 91,347.41 91,256 91,164.59 164.59,91 256,91 Z m -90,75 0,75 30,0 0,-75 -30,0 z m 150,0 0,75 30,0 0,-75 -30,0 z m -97.5,165 0,30 75,0 0,-30 -75,0 z"
+     d="M 256,481 C 131.35,481 31,380.65 31,256 31,131.35 131.35,31 256,31 380.65,31 481,131.35 481,256 481,380.65 380.65,481 256,481 Z m 0,-60 C 347.41,421 421,347.41 421,256 421,164.59 347.41,91 256,91 164.59,91 91,164.59 91,256 c 0,91.41 73.59,165 165,165 z m -90,-75 0,-75 30,0 0,75 -30,0 z m 150,0 0,-75 30,0 0,75 -30,0 z m -97.5,-165 0,-30 75,0 0,30 -75,0 z"
      id="rect4116"
      inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:42;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+     d="M 256 31 C 131.35 31 31 131.35 31 256 C 31 380.65 131.35 481 256 481 C 380.65 481 481 380.65 481 256 C 481 131.35 380.65 31 256 31 z M 256 42.298828 C 374.39009 42.298828 469.70117 137.60991 469.70117 256 C 469.70117 374.39009 374.39009 469.70117 256 469.70117 C 137.60991 469.70117 42.298828 374.39009 42.298828 256 C 42.298828 137.60991 137.60991 42.298828 256 42.298828 z M 218.5 151 L 218.5 181 L 220.38281 181 L 220.38281 156.27344 L 291.61719 156.27344 L 291.61719 181 L 293.5 181 L 293.5 151 L 218.5 151 z M 166 271 L 166 346 L 196 346 L 196 341.48047 L 170.51953 341.48047 L 170.51953 271 L 166 271 z M 341.48047 271 L 341.48047 341.48047 L 316 341.48047 L 316 346 L 346 346 L 346 271 L 341.48047 271 z "
+     id="rect4116-3" />
 </svg>
