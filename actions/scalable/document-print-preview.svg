@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='document-print-preview.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='57.86433' inkscape:cy='-198.05995' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#f7f7f7' inkscape:pageopacity='0' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='true' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='true' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='706' inkscape:window-maximized='1' inkscape:window-width='1366' inkscape:window-x='0' inkscape:window-y='32' inkscape:zoom='1'>
+    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-244.0004' originy='-336.00672' snapvisiblegridlinesonly='true' spacingx='0.25px' spacingy='0.25px' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Paper Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-485.0006,119.00672)'>
+    
+    <path inkscape:connector-curvature='0' d='m 489.0008,-118.00672 0,2 8,0 0,-2 z m -2,3 c -0.5,0 -1,0.5 -1,1 l 0,4 c 0,0.5 0.5,1 1,1 l 1,0 0,-2 5.125,0 c 0.66316,-0.63263 1.55072,-1.03125 2.53125,-1.03125 1.78152,0 3.29058,1.27976 3.625,2.96875 0.39275,-0.13746 0.71875,-0.53064 0.71875,-0.9375 l 0,-4 c 0,-0.5 -0.5,-1 -1,-1 z m 2,5 0,5 5.09375,0 c -1.25368,-0.5913 -2.125,-1.87524 -2.125,-3.34375 0,-0.59537 0.15156,-1.15644 0.40625,-1.65625 z' id='path27294' sodipodi:nodetypes='cccccsssscccscsssscccscc' style='opacity:0.5;fill:#000000;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 495.65705,-111.06922 c -1.4956,0 -2.71875,1.22315 -2.71875,2.71875 0,1.4956 1.22315,2.71875 2.71875,2.71875 0.4871,0 0.94729,-0.14835 1.34375,-0.375 a 0.750075,0.750075 0 0 0 0.15625,0.21875 l 1.84375,1.8125 a 0.75130096,0.75130096 0 1 0 1.0625,-1.0625 l -1.84375,-1.8125 a 0.750075,0.750075 0 0 0 -0.21875,-0.15625 c 0.22665,-0.39646 0.375,-0.85664 0.375,-1.34375 0,-1.4956 -1.22315,-2.71875 -2.71875,-2.71875 z m 0,1 c 0.95516,0 1.71875,0.76359 1.71875,1.71875 0,0.95516 -0.76359,1.71875 -1.71875,1.71875 -0.95516,0 -1.71875,-0.76359 -1.71875,-1.71875 0,-0.95516 0.76359,-1.71875 1.71875,-1.71875 z' id='path27332' style='color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:new'/>
+  </g>
+</svg>

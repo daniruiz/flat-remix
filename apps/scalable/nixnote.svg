@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Evernote"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   style="background-color:#FFFFFF"
+   x="0px"
+   y="0px"
+   width="1024px"
+   height="1024px"
+   viewBox="0 0 1024 1024"
+   enable-background="new 0 0 1024 1024"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="nixnote.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="0.23046875"
+     inkscape:cx="512"
+     inkscape:cy="512"
+     inkscape:window-x="15"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Evernote" />
+  <defs
+     transform="matrix(1 0 0 1 0 0) "
+     id="defs3" />
+  <g
+     id="circle"
+     style="fill:#98c62e;fill-opacity:1">
+    <g
+       id="shape2"
+       style="fill:#98c62e;fill-opacity:1">
+      <path
+         id="path1"
+         fill="#589557"
+         fill-opacity="1"
+         d="M969.2,393.1 Q939.25,271.9 844.9,177.55 C752.9,85.55 641.8,39.5 511.65,39.5 381.55,39.5 270.4,85.55 178.45,177.55 86.45,269.5 40.4,380.65 40.4,510.75 40.4,640.9 86.45,752 178.45,844 270.4,936 381.55,982 511.65,982 529.55,982 547.15,981.15 563.45,979.55 672,968.5 765.55,923.35 844.9,844 936.9,752 982.9,640.9 982.9,510.75 982.9,469.85 978.35,430.85 969.2,393.1z"
+         style="fill:#98c62e;fill-opacity:1" />
+    </g>
+  </g>
+  <g
+     id="ico">
+    <g
+       id="group">
+      <g
+         id="drawingObject">
+        <path
+           id="path3"
+           fill="#333333"
+           fill-opacity="1"
+           d="M755.8,532.05 C784.45,416 907.9,254.5 761.45,205.95 Q693.4,183.4 638.95,184.6 597.3,185.5 572.4,199.3 C551.65,208.8 529.45,197.55 506.9,198.15 484.5,197.55 462.25,208.8 441.55,199.3 415.15,184.7 353.35,172.45 252.5,205.95 106.05,254.5 229.4,416 258.05,532.05 280.15,621.75 306.35,649.7 366.85,614.3 424.95,580.55 426.6,615.4 439.25,665.6 451.9,715.85 480.25,882.75 480.25,882.75 L478,885.55 L480.25,882.75 C480.25,882.75 460.3,900.15 511.55,900.15 560.95,900.15 540.6,884.85 540.6,884.85 L542.95,887.2 L540.6,884.85 C540.6,884.85 561.95,715.85 574.55,665.6 587.2,615.4 589,580.55 646.95,614.3 707.6,649.7 733.8,621.75 755.8,532.05z" />
+      </g>
+      <g
+         id="drawingObject1">
+        <path
+           id="path4"
+           fill="#FFFFFF"
+           fill-opacity="1"
+           d="M439.164,605.135 C435.806,588.74 404.399,591.802 401.436,602.666 Q399.066,611.357 407.461,660.147 415.856,709.529 420.695,709.529 C427.51,709.529 442.522,621.629 439.164,605.135z" />
+      </g>
+      <g
+         id="drawingObject2">
+        <path
+           id="path5"
+           fill="#FFFFFF"
+           fill-opacity="1"
+           d="M612.495,602.666 C609.532,591.802 578.026,588.74 574.668,605.135 571.31,621.629 586.421,709.529 593.137,709.529 Q597.976,709.529 606.47,660.147 614.865,611.357 612.495,602.666z" />
+      </g>
+      <g
+         id="drawingObject3">
+        <path
+           id="path6"
+           fill="#FFFFFF"
+           fill-opacity="1"
+           d="M418.627,468.453 C431.367,468.453 453.589,466.774 464.256,466.082 L392.454,437.243 Q385.837,442.28 387.417,451.366 C388.998,460.848 399.565,468.453 418.627,468.453z" />
+      </g>
+      <g
+         id="drawingObject4">
+        <path
+           id="path7"
+           fill="#FFFFFF"
+           fill-opacity="1"
+           d="M636.994,451.366 Q638.574,442.28 631.957,437.243 L560.156,466.082 C570.822,466.774 593.044,468.453 605.785,468.453 624.846,468.453 635.414,460.848 636.994,451.366z" />
+      </g>
+    </g>
+  </g>
+</svg>
