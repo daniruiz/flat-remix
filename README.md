@@ -13,7 +13,7 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 
 ![alt tag](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Flat%20Remix/preview.png?raw=true)
 
-##Installation
+## Installation
 
 If you want to install it manually:
 
@@ -28,6 +28,6 @@ If you prefer to use the terminal:
      mkdir -p ~/.icons
      mv "Flat-Remix/Flat Remix" ~/.icons
 
-##Donate
+## Donate
 
 You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ). And I'll give you some candies :)
