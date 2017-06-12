@@ -7,7 +7,7 @@ Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper]
 
 ![alt tag](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
 
-It has been designed specially in gnome shell 3.22 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
+It has been designed specially in gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
 
 This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
 
@@ -31,3 +31,5 @@ If you prefer to use the terminal:
 ## Donate
 
 You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ). And I'll give you some candies :)
+
+
