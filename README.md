@@ -9,7 +9,7 @@ Flat remix is a pretty simple icon theme inspired on material design. It is most
 ![Icon theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
 
 <br>
-It has been designed on gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
+It has been designed on gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinnammon, xfce, kde, etc.
 
 This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
 
@@ -40,4 +40,4 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 # Donate
 
 You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ).
-You know... working with coffe is always better  *:)*
+You know... working with coffee is always better  *:)*
