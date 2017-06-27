@@ -1,35 +1,41 @@
-![alt tag](https://cdn.rawgit.com/daniruiz/Flat-Remix/master/Flat%20Remix/logo.png)
+![Flat Remix](https://cdn.rawgit.com/daniruiz/Flat-Remix/master/Flat%20Remix/logo.png)
 
-
-All icons are available for use under a Creative Commons ShareAlike license.
-
-Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper](http://snwh.org/paper/), [EvoPop](https://github.com/solus-project/evopop-icon-theme) and [Numix-Circle](https://github.com/numixproject/numix-icon-theme-circle) icon themes. Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
-
-![alt tag](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
-
-It has been designed specially in gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
+######Flat-Remix is licensed under the GNU General Public License v3.0
+<hr>
+<br>
+Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts.
+<br><br>
+![Icons theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
+<br><br><br>
+It has been designed on gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
 
 This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
+<br>
+![Gnome Shell theme preview](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Flat%20Remix/preview.png?raw=true)
 
-![alt tag](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Flat%20Remix/preview.png?raw=true)
+# Installation
 
-## Installation
+#### Manual installation
 
-If you want to install it manually:
+1. Download and uncompress the zip file.
+1. Move "Flat Remix" folder to ".icons" in your home directory.
+1. Select "Flat Remix" as icon theme in your tweak tools application.
 
-     Download and uncompress the zip file.
-     Move "Flat Remix" folder to ".icons" in your home directory.
-     Select "Flat Remix" as icon theme in your tweak tools application.
+#### Terminal installation
 
-If you prefer to use the terminal:
-
+```
      cd /tmp
      git clone https://github.com/daniruiz/Flat-Remix
      mkdir -p ~/.icons
      mv "Flat-Remix/Flat Remix" ~/.icons
+```
 
-## Donate
+###### Ach based distributions
+ [`super-flat-remix-icon-theme`](https://aur.archlinux.org/packages/super-flat-remix-icon-theme/) (AUR)
 
-You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ). And I'll give you some candies :)
 
 
+# Donate
+
+You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ).
+You know... working with coffe is always better  *:)*
