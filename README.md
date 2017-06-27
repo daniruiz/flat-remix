@@ -1,11 +1,13 @@
 ![Flat Remix](https://cdn.rawgit.com/daniruiz/Flat-Remix/master/Flat%20Remix/logo.png)
 
-######Flat-Remix is licensed under the GNU General Public License v3.0
+###### Flat-Remix is licensed under the GNU General Public License v3.0
 <hr>
 <br>
 Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts.
 <br><br>
-![Icons theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
+
+![Icon theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
+
 <br><br><br>
 It has been designed on gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
 
