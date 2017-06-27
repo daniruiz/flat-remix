@@ -8,11 +8,11 @@ Flat remix is a pretty simple icon theme inspired on material design. It is most
 
 ![Icon theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/Flat%20Remix/preview.png)
 
-<br><br><br>
+<br>
 It has been designed on gnome shell 3.24 but it should work with most linux distributions, under gnome, unity, cinammon, xfce, kde, etc.
 
 This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
-<br>
+
 ![Gnome Shell theme preview](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Flat%20Remix/preview.png?raw=true)
 
 # Installation
