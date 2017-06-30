@@ -13,7 +13,8 @@ It has been designed on gnome shell 3.24 but it should work with most linux dist
 
 This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Super-Flat-Remix-GNOME-theme).
 
-![Gnome Shell theme preview](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Flat%20Remix/preview.png?raw=true)
+![Gnome Shell theme preview](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Images/preview.png?raw=true)
+![Gnome Shell icons](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Images/3.png?raw=true)
 
 # Installation
 
@@ -26,10 +27,10 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 #### Terminal installation
 
 ```
-     cd /tmp;
-     git clone https://github.com/daniruiz/Flat-Remix;
-     mkdir -p ~/.icons;
-     mv "Flat-Remix/Flat Remix" ~/.icons;
+     cd /tmp && rm -rf Flat-Remix &&
+     git clone https://github.com/daniruiz/Flat-Remix &&
+     mkdir -p ~/.icons && cp -r "Flat-Remix/Flat Remix" ~/.icons &&
+     gsettings set org.gnome.desktop.interface icon-theme "Flat Remix"
 ```
 
 ###### Ach based distributions
