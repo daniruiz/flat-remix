@@ -41,7 +41,7 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
      sudo apt-get install flat-remix-icons
 ```
 
-##### Ach based distributions
+##### Arch based distributions
 + [`super-flat-remix-icon-theme`](https://aur.archlinux.org/packages/super-flat-remix-icon-theme/) (AUR)
 + Or you can download the official [`PKGBUILD`](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/PKGBUILD)
 
