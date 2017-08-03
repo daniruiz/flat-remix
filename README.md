@@ -33,7 +33,7 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
      gsettings set org.gnome.desktop.interface icon-theme "Flat Remix"
 ```
 
-##### Ach based distributions
+##### Ubuntu based distributions
 
 ```
      sudo add-apt-repository ppa:noobslab/icons
