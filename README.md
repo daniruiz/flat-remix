@@ -49,4 +49,7 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 # Donate
 
 You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ).
+
+Bitcoin Wallet: 1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4
+
 You know... working with coffee is always better  *:)*
