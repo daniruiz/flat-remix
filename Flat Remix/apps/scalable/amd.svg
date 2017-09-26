@@ -14,7 +14,7 @@
    viewBox="0 0 511.99999 511.99999"
    id="svg3664"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="amd.svg">
   <defs
      id="defs3666">
@@ -117,18 +117,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6210938"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="0.57314321"
+     inkscape:cx="374.81977"
+     inkscape:cy="695.44722"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1086"
+     inkscape:window-height="1086"
+     inkscape:window-x="-8"
+     inkscape:window-y="222"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata3669">
     <rdf:RDF>
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,7 +147,7 @@
      id="layer1"
      transform="translate(0,-540.36219)">
     <path
-       style="opacity:1;fill:#216595;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#7b1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 31.000001,590.36377 151.81003,707.8122 162.24983,697.83532 31.271687,572.51599 Z m 131.249829,105.47618 0,21.94912 187.50034,0 0,-21.94912 z m 187.50034,181.18155 0,19.88164 -0.0319,-19.85096 -131.21791,123.40412 -187.50034,0 0,21.9491 187.50034,0 131.24983,-125.42997 131.24983,125.42997 0,-21.9491 -131.24983,-125.42999 z"
        id="path53-3"
        inkscape:connector-curvature="0"
@@ -155,20 +155,20 @@
     <g
        id="g47"
        transform="matrix(18.749964,0,0,17.918549,-193.99957,357.38281)"
-       style="fill:#2980b9;fill-opacity:1">
+       style="fill:#d41a1a;fill-opacity:1">
       <g
          clip-path="url(#clipPath-303915126)"
          id="g49"
-         style="fill:#2980b9;fill-opacity:1">
+         style="fill:#d41a1a;fill-opacity:1">
         <!-- color: #cb0000 -->
         <g
            id="g51"
-           style="fill:#2980b9;fill-opacity:1">
+           style="fill:#d41a1a;fill-opacity:1">
           <path
              d="m 12,12 7,7 -7,7 0,10 10,0 7,-7 7,7 0,-24 m -17,7 10,0 0,9.996 L 19,29 m 0,-10"
              id="path53"
              inkscape:connector-curvature="0"
-             style="fill:#2980b9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+             style="fill:#d41a1a;fill-opacity:1;fill-rule:nonzero;stroke:none" />
         </g>
       </g>
     </g>
