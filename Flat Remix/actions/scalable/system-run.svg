@@ -1,41 +1,8 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='system-run.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r13725' width='16' xmlns='http://www.w3.org/2000/svg'>
-  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='267.35855' inkscape:cy='266.00227' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#7c7c7c' inkscape:pageopacity='0' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='true' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='false' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='false' inkscape:snap-to-guides='true' inkscape:window-height='425' inkscape:window-maximized='0' inkscape:window-width='474' inkscape:window-x='0' inkscape:window-y='0' inkscape:zoom='1'>
-    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-264.00062' originy='-16.00334' snapvisiblegridlinesonly='true' spacingx='0.25px' spacingy='0.25px' type='xygrid' visible='true'/>
-  </sodipodi:namedview>
-  <metadata id='metadata90'>
-    <rdf:RDF>
-      <cc:Work rdf:about=''>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/3.0/'/>
-      </cc:Work>
-      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/3.0/'>
-        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
-        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
-        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <title id='title8473'>Paper Symbolic Icon Theme</title>
-  <defs id='defs7386'>
-    <linearGradient id='linearGradient6882' osb:paint='solid'>
-      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
-    </linearGradient>
-    <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
-    </linearGradient>
-  </defs>
-  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-505.00082,-200.99666)'>
-    
-    <path inkscape:connector-curvature='0' d='m 512.75946,206.99 -0.11022,1.31696 a 3.9285714,3.9285714 0 0 0 -1.14815,0.66407 l -1.19699,-0.56362 -1.25,2.16518 1.08677,0.75475 a 3.9285714,3.9285714 0 0 0 -0.06,0.66266 3.9285714,3.9285714 0 0 0 0.0572,0.66546 l -1.08399,0.75195 1.25,2.16518 1.1942,-0.56222 a 3.9285714,3.9285714 0 0 0 1.15094,0.65987 l 0.11022,1.31976 2.5,0 0.11021,-1.31696 a 3.9285714,3.9285714 0 0 0 1.14816,-0.66407 l 1.19698,0.56362 1.25,-2.16518 -1.08677,-0.75475 a 3.9285714,3.9285714 0 0 0 0.06,-0.66266 3.9285714,3.9285714 0 0 0 -0.0572,-0.66546 l 1.08398,-0.75195 -1.25,-2.16518 -1.1942,0.56222 a 3.9285714,3.9285714 0 0 0 -1.15094,-0.65987 l -0.1102,-1.31976 -2.5,0 z m 1.25,3.57143 a 1.4285714,1.4285714 0 0 1 1.42857,1.42857 1.4285714,1.4285714 0 0 1 -1.42857,1.42857 1.4285714,1.4285714 0 0 1 -1.42857,-1.42857 1.4285714,1.4285714 0 0 1 1.42857,-1.42857 z' id='path5771' style='display:inline;opacity:1;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new'/>
-    <path inkscape:connector-curvature='0' d='m 512.18879,207.25915 -0.33784,-0.71736 a 2.3571428,2.3571428 0 0 0 0.39738,-0.68949 l 0.79106,-0.0662 -3e-5,-1.50006 -0.79113,-0.0661 a 2.3571428,2.3571428 0 0 0 -0.16762,-0.36233 2.3571428,2.3571428 0 0 0 -0.22934,-0.32863 l 0.3377,-0.71591 -1.29908,-0.75006 -0.45184,0.65041 a 2.3571428,2.3571428 0 0 0 -0.796,0.002 l -0.45317,-0.65271 -1.29903,0.75 0.33783,0.71736 a 2.3571428,2.3571428 0 0 0 -0.39738,0.68951 l -0.79106,0.0662 4e-5,1.50005 0.79113,0.0661 a 2.3571428,2.3571428 0 0 0 0.16763,0.36233 2.3571428,2.3571428 0 0 0 0.22934,0.32863 l -0.3377,0.7159 1.29908,0.75006 0.45184,-0.65041 a 2.3571428,2.3571428 0 0 0 0.796,-0.002 l 0.45317,0.65272 1.29904,-0.75 z m -1.72094,-1.48075 a 0.85714284,0.85714284 0 0 1 -1.17088,-0.31374 0.85714284,0.85714284 0 0 1 0.31373,-1.17088 0.85714284,0.85714284 0 0 1 1.17088,0.31374 0.85714284,0.85714284 0 0 1 -0.31373,1.17088 z' id='path5773' style='display:inline;opacity:1;fill:#000000;fill-opacity:0.49803922;stroke:none;stroke-opacity:1;enable-background:new'/>
-  </g>
-  <g inkscape:groupmode='layer' id='layer1' inkscape:label='status' style='display:inline' transform='translate(-264.00062,-447.99666)'/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.1894531 1.0664062 L 2.890625 1.8164062 L 3.2285156 2.5332031 A 2.3571 2.3571 0 0 0 2.8320312 3.2226562 L 2.0410156 3.2890625 L 2.0410156 4.7890625 L 2.8320312 4.8554688 A 2.3571 2.3571 0 0 0 3 5.21875 A 2.3571 2.3571 0 0 0 3.2285156 5.546875 L 2.890625 6.2617188 L 4.1894531 7.0136719 L 4.6425781 6.3613281 A 2.3571 2.3571 0 0 0 5.4375 6.359375 L 5.890625 7.0136719 L 7.1894531 6.2636719 L 6.8515625 5.5449219 A 2.3571 2.3571 0 0 0 7.25 4.8554688 L 8.0410156 4.7890625 L 8.0410156 3.2890625 L 7.25 3.2246094 A 2.3571 2.3571 0 0 0 7.0820312 2.8613281 A 2.3571 2.3571 0 0 0 6.8515625 2.5332031 L 7.1894531 1.8164062 L 5.890625 1.0664062 L 5.4394531 1.7167969 A 2.3571 2.3571 0 0 0 4.6425781 1.71875 L 4.1894531 1.0664062 z M 5.0195312 3.1835938 A 0.85714 0.85714 0 0 1 5.7832031 3.6113281 A 0.85714 0.85714 0 0 1 5.46875 4.78125 A 0.85714 0.85714 0 0 1 4.2988281 4.46875 A 0.85714 0.85714 0 0 1 4.6113281 3.296875 A 0.85714 0.85714 0 0 1 5.0195312 3.1835938 z M 7.7597656 5.9921875 L 7.6503906 7.3105469 A 3.9286 3.9286 0 0 0 6.5019531 7.9746094 L 5.3046875 7.4101562 L 4.0546875 9.5761719 L 5.140625 10.330078 A 3.9286 3.9286 0 0 0 5.0820312 10.992188 A 3.9286 3.9286 0 0 0 5.1386719 11.658203 L 4.0546875 12.410156 L 5.3046875 14.576172 L 6.4980469 14.013672 A 3.9286 3.9286 0 0 0 7.6503906 14.673828 L 7.7597656 15.992188 L 10.259766 15.992188 L 10.369141 14.675781 A 3.9286 3.9286 0 0 0 11.517578 14.011719 L 12.714844 14.576172 L 13.964844 12.410156 L 12.878906 11.65625 A 3.9286 3.9286 0 0 0 12.939453 10.992188 A 3.9286 3.9286 0 0 0 12.880859 10.328125 L 13.964844 9.5761719 L 12.714844 7.4101562 L 11.521484 7.9726562 A 3.9286 3.9286 0 0 0 10.371094 7.3125 L 10.259766 5.9921875 L 7.7597656 5.9921875 z M 9.0097656 9.5644531 A 1.4286 1.4286 0 0 1 10.439453 10.992188 A 1.4286 1.4286 0 0 1 9.0097656 12.421875 A 1.4286 1.4286 0 0 1 7.5820312 10.992188 A 1.4286 1.4286 0 0 1 9.0097656 9.5644531 z"/>
 </svg>

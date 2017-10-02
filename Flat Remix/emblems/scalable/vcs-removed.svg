@@ -1,11 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer0">
-  <rect id="shape0" transform="translate(9.00002, 9.00002)" fill="#2c3e50" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="24.00949041260pt" height="24.00949041260pt"/>
-  <rect id="rect3280" transform="matrix(-0.707107 0.707107 -0.707107 -0.707107 33.4531 17.4126)" fill="#e74c3c" fill-rule="evenodd" width="17.85611570875pt" height="3.30194438472pt"/>
-  <rect id="rect3282" transform="matrix(0.707107 0.707107 -0.707107 0.707107 17.8469 14.6146)" fill="#e74c3c" fill-rule="evenodd" width="17.52007092419pt" height="3.36527752956pt"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(0 -1036.4)">
+  <circle fill="#4caf99" cx="8" cy="1044.4" r="7"/>
+  <rect fill="#fff" width="2" height="10" x="1043.4" y="-13" transform="rotate(90)"/>
  </g>
 </svg>

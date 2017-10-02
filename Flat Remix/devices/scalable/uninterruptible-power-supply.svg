@@ -14,7 +14,7 @@
    viewBox="0 0 135.46666 135.46667"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="uninterruptible-power-supply.svg">
   <defs
      id="defs4" />
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6484375"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="0.58281067"
+     inkscape:cx="-399.7645"
+     inkscape:cy="12.964923"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1863"
+     inkscape:window-height="1059"
+     inkscape:window-x="1137"
+     inkscape:window-y="450"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -116,5 +116,15 @@
        y="212.29422"
        rx="2.4153209"
        ry="2.4153209" />
+    <path
+       style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 134.5332 470.47852 L 134.5332 480.47852 C 134.5332 480.76702 134.78996 481 135.10938 481 L 376.89062 481 C 377.21004 481 377.4668 480.76702 377.4668 480.47852 L 377.4668 470.47852 C 377.4668 470.76702 377.21004 471 376.89062 471 L 135.10938 471 C 134.78996 471 134.5332 470.76702 134.5332 470.47852 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,161.53332)"
+       id="rect4141-3" />
+    <path
+       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 135.10938 31 C 134.78996 31 134.5332 31.232978 134.5332 31.521484 L 134.5332 41.521484 C 134.5332 41.232978 134.78996 41 135.10938 41 L 376.89062 41 C 377.21004 41 377.4668 41.232978 377.4668 41.521484 L 377.4668 31.521484 C 377.4668 31.232978 377.21004 31 376.89062 31 L 135.10938 31 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,161.53332)"
+       id="rect4141-7" />
   </g>
 </svg>

@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="audio-input-line.svg"
    viewBox="0 0 511.99999 511.99999">
   <metadata
@@ -43,17 +43,17 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.75390625"
-     inkscape:cx="256"
-     inkscape:cy="256"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="250.03109"
+     inkscape:cy="266.6114"
+     inkscape:window-x="9"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      units="px" />
   <defs
      id="defs4" />
   <rect
-     style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
+     style="fill:#edeff0;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;fill-opacity:1"
      y="471.20212"
      x="130.80034"
      height="56.539783pt"
@@ -75,7 +75,7 @@
      stroke-miterlimit="2.00000000000"
      id="shape3" />
   <rect
-     style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     style="fill:#edeff0;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;fill-opacity:1"
      y="188.89372"
      x="126.46696"
      height="94.046021pt"
@@ -83,7 +83,7 @@
      stroke-miterlimit="2.00000000000"
      id="shape2" />
   <rect
-     style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     style="fill:#edeff0;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;fill-opacity:1"
      y="188.89372"
      x="335.79443"
      height="94.046021pt"
