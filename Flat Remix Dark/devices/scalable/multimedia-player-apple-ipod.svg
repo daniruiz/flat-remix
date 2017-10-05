@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="multimedia-player-apple-ipod.svg"
+   viewBox="0 0 511.99999 511.99999">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="2092"
+     id="namedview11"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.2553908"
+     inkscape:cx="205.54923"
+     inkscape:cy="523.94694"
+     inkscape:window-x="1920"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4222"
+       x="-0.16405929"
+       width="1.3281186"
+       y="-0.094595661"
+       height="1.1891913">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="17.736682"
+         id="feGaussianBlur4224" />
+    </filter>
+  </defs>
+  <path
+     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;filter:url(#filter4222)"
+     inkscape:connector-curvature="0"
+     d="m 147.11567,31.00024 c -10.42628,-0.0522 -20.85092,11.37273 -20.84934,22.84981 l 0.0558,404.29939 c 0.002,11.47698 10.42939,22.90268 20.85566,22.85032 l 217.74332,-1.08759 c 10.42538,-0.0513 20.83222,-11.58061 20.81258,-23.05867 L 385.03005,55.14447 C 385.01045,43.66739 374.56321,32.13822 364.13674,32.08605 Z"
+     id="shape0-2"
+     transform="matrix(0.91315029,0,0,0.95153511,22.233528,12.407014)" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:connector-curvature="0"
+     d="m 151.24505,30.433919 c -10.03087,-0.0523 -20.06016,11.401352 -20.05864,22.907323 l 0.0537,405.317008 c 0.002,11.50586 10.03386,22.96032 20.06472,22.90783 l 209.48552,-1.09033 c 10.03,-0.0514 20.04217,-11.60975 20.02327,-23.1167 L 380.13665,54.638919 C 380.11775,43.132948 370.06676,31.574757 360.03571,31.522458 Z"
+     id="shape0" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:connector-curvature="0"
+     d="m 141.0443,68.136797 0,340.289393 229.48844,-0.94428 -0.63705,-338.399863 z"
+     id="shape1" />
+  <ellipse
+     style="fill:#e9e9e9;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;fill-opacity:1"
+     stroke-miterlimit="2.01260185242"
+     cy="447.43347"
+     cx="254.97543"
+     id="shape01"
+     rx="25.275215"
+     ry="26.337675" />
+  <rect
+     style="fill:#435564;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
+     y="44.810162"
+     x="211.18192"
+     ry="7.1419368"
+     rx="6.9966202"
+     height="14.283874"
+     width="89.099815"
+     stroke-miterlimit="2.01260185242"
+     id="shape11" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <circle style="fill:#d3dae3" cx="12" cy="12" r="4"/>
+ <circle style="fill:none;stroke:#d3dae3;stroke-linecap:round;stroke-linejoin:round" cx="8" cy="5" r="3.5"/>
+ <circle style="opacity:0.3;fill:#d3dae3" cx="4" cy="12" r="4"/>
+ <circle style="fill:none;stroke:#d3dae3;stroke-linecap:round;stroke-linejoin:round" cx="4" cy="12" r="3.5"/>
+</svg>
