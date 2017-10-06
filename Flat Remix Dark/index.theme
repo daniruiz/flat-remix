@@ -1,7 +1,8 @@
 [Icon Theme]
-Name=Flat Remix
+Name=Flat Remix Dark
 Comment=Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts. 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status
+
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status,panel
 
 [actions/scalable]
 Context=Actions
@@ -30,23 +31,25 @@ MaxSize=512
 Type=Scalable
 
 [categories/scalable]
-Size=128
 Context=Categories
-Type=Scalable
+Size=512
 MinSize=16
-MaxSize=128
+MaxSize=512
+Type=Scalable
 
-[categories/small]
-Size=24
+[categories/symbolic]
 Context=Actions
-Type=Fixed
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [devices/scalable]
-Size=512
 Context=Devices
-Type=Scalable
+Size=512
 MinSize=16
 MaxSize=256
+Type=Scalable
 
 [devices/symbolic]
 Context=Devices
@@ -75,11 +78,11 @@ MaxSize=512
 Type=Scalable
 
 [mimetypes/scalable]
-Size=48
 Context=MimeTypes
-Type=Scalable
+Size=48
 MinSize=8
 MaxSize=512
+Type=Scalable
 
 [mimetypes/symbolic]
 Context=MimeTypes
@@ -89,11 +92,11 @@ MaxSize=512
 Type=Scalable
 
 [places/scalable]
-Size=512
 Context=Places
-Type=Scalable
+Size=512
 MinSize=16
 MaxSize=512
+Type=Scalable
 
 [places/symbolic]
 Context=Places
@@ -103,6 +106,13 @@ MaxSize=512
 Type=Scalable
 
 [status]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[panel]
 Context=Status
 Size=16
 MinSize=16

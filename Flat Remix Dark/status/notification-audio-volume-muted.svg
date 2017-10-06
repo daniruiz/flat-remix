@@ -11,7 +11,7 @@
    height="16"
    version="1"
    id="svg54"
-   sodipodi:docname="notification-audio-volume-muted.svg"
+   sodipodi:docname="notification-audio-volume-off.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata60">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,63 +36,61 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1863"
-     inkscape:window-height="1059"
+     inkscape:window-width="1080"
+     inkscape:window-height="1884"
      id="namedview56"
      showgrid="false"
-     inkscape:zoom="27.812867"
-     inkscape:cx="10.610273"
-     inkscape:cy="6.2894099"
-     inkscape:window-x="1137"
-     inkscape:window-y="450"
+     inkscape:zoom="39.333334"
+     inkscape:cx="6.819138"
+     inkscape:cy="10.6053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg54" />
   <g
-     id="g3771"
-     transform="matrix(0.3255814,0,0,0.3255814,0.0257006,10.116279)">
+     transform="matrix(0.36249819,0,0,0.36249819,-0.69992031,-0.88120565)"
+     id="g25">
     <path
-       style="fill:#cccccc"
+       style="fill:#d3dae3;fill-opacity:1"
        inkscape:connector-curvature="0"
-       id="path38"
-       d="M 4,-18 V 2 h 9.0912 l 10.909,10 v -40 l -10.909,10 z" />
+       d="m 4,14 v 20 h 9.0912 l 10.909,10 V 4 l -10.909,10 z"
+       id="path4" />
     <path
-       style="opacity:0.2"
+       style="opacity:0.2;fill:#d3dae3;fill-opacity:1"
        inkscape:connector-curvature="0"
-       id="path40"
-       d="m 4,2 v 1 h 9.0918 l 10.908,10 V 12 L 13.0918,2 Z" />
+       d="m 4,34 v 1 h 9.0918 l 10.908,10 V 44 L 13.0918,34 h -9.092 z"
+       id="path8" />
     <path
        style="opacity:0.2;fill:#ffffff"
        inkscape:connector-curvature="0"
-       id="path42"
-       d="M 24,-28 13.092,-18 H 4 v 1 h 9.092 L 24,-27 Z" />
-    <circle
-       style="fill:#db3c30"
-       id="circle44"
-       r="10"
-       cy="4"
-       cx="28" />
-    <path
-       style="opacity:0.2"
-       inkscape:connector-curvature="0"
-       id="path46"
-       d="M 37.979,4.414 A 10,10 0 0 1 28,14 10,10 0 0 1 18.021,4.586 10,10 0 0 0 18,5 10,10 0 0 0 28,15 10,10 0 0 0 38,5 10,10 0 0 0 37.979,4.414 Z" />
-    <g
-       style="fill:#ffffff"
-       id="g52"
-       transform="matrix(0.70711,-0.70711,0.70711,0.70711,-21.497,2.846)">
-      <rect
-         id="rect48"
-         y="35"
-         x="28"
-         height="2"
-         width="12" />
-      <rect
-         id="rect50"
-         transform="rotate(-90)"
-         y="33"
-         x="-42"
-         height="2"
-         width="12" />
-    </g>
+       d="M 24,4 13.092,14 H 4 v 1 h 9.092 L 24,5 Z"
+       id="path10" />
   </g>
+  <circle
+     cx="9.1419802"
+     cy="11.418605"
+     r="3.2558141"
+     id="circle44"
+     style="fill:#db3c30;stroke-width:0.3255814" />
+  <path
+     d="M 12.390957,11.553395 A 3.255814,3.255814 0 0 1 9.1419798,14.674419 3.255814,3.255814 0 0 1 5.893003,11.609395 3.255814,3.255814 0 0 0 5.8861658,11.744186 3.255814,3.255814 0 0 0 9.1419798,15 a 3.255814,3.255814 0 0 0 3.2558142,-3.255814 3.255814,3.255814 0 0 0 -0.0068,-0.190791 z"
+     id="path46"
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;stroke-width:0.3255814" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.32558286"
+     id="rect48"
+     y="14.273015"
+     x="-3.6230614"
+     height="0.65116572"
+     width="3.9069946"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.32558286"
+     id="rect50"
+     transform="rotate(-135)"
+     y="-1.9951471"
+     x="-16.552095"
+     height="0.65116572"
+     width="3.9069946" />
 </svg>

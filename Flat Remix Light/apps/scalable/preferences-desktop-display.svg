@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chardevice.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="2036"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.8007812"
+     inkscape:cx="256.00001"
+     inkscape:cy="256.00001"
+     inkscape:window-x="1920"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     ry="0"
+     y="350.92783"
+     x="210.89912"
+     height="77.408791"
+     width="90.201744"
+     id="rect4147"
+     style="opacity:1;fill:#272727;fill-opacity:1;stroke:none;stroke-width:5.72569084;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:22.90276308, 22.90276308;stroke-dashoffset:42;stroke-opacity:1" />
+  <path
+     id="rect4147-1"
+     d="m 210.76698,351.49873 90.46603,0 0,76.62275 z"
+     style="opacity:1;fill:#181818;fill-opacity:1;stroke:none;stroke-width:5.70488453;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:22.81953984, 22.81953984;stroke-dashoffset:42;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4169"
+     width="469.92941"
+     height="295.74158"
+     x="21.035294"
+     y="56.002903"
+     rx="8.8544073"
+     ry="8.8544073" />
+  <rect
+     style="fill:#2985c9;fill-opacity:1;stroke:none;stroke-width:8.36306572"
+     id="rect907"
+     width="433.7424"
+     height="253.13156"
+     x="39.128799"
+     y="74.271233"
+     rx="7.0250435"
+     ry="7.0250435" />
+  <g
+     id="g4165"
+     transform="translate(51.608485,27.432667)">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3369-7"
+       d="m 245.85545,263.32922 -19.80777,0 0,21.05906 19.80777,0 0,-21.05906 z m -29.71164,0 -19.80777,0 0,21.05906 19.80777,0 0,-21.05906 z m -29.71165,0 -19.80777,0 0,21.05906 19.80777,0 0,-21.05906 z"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.16897917" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3369"
+       d="m 242.15864,259.63242 -19.80777,0 0,21.05905 19.80777,0 0,-21.05905 z m -29.71164,0 -19.80777,0 0,21.05905 19.80777,0 0,-21.05905 z m -29.71165,0 -19.80777,0 0,21.05905 19.80777,0 0,-21.05905 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.16897917" />
+  </g>
+  <rect
+     style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4186"
+     width="171.9104"
+     height="16.070213"
+     x="170.0448"
+     y="426.73788"
+     rx="6.2192101"
+     ry="6.2192101" />
+  <path
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 27.253906 56.001953 C 23.808464 56.001953 21.035156 58.777214 21.035156 62.222656 L 21.035156 68.222656 C 21.035156 64.777214 23.808464 62.001953 27.253906 62.001953 L 484.74609 62.001953 C 488.19154 62.001953 490.96484 64.777214 490.96484 68.222656 L 490.96484 62.222656 C 490.96484 58.777214 488.19154 56.001953 484.74609 56.001953 L 27.253906 56.001953 z "
+     id="rect4169-5" />
+</svg>

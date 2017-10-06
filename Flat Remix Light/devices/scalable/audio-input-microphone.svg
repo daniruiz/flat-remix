@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="audio-input-microphone.svg"
+   viewBox="0 0 511.99999 511.99999">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2092"
+     id="namedview15"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.6432473"
+     inkscape:cx="-72.563186"
+     inkscape:cy="115.53275"
+     inkscape:window-x="0"
+     inkscape:window-y="68"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:30.20000076;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-dasharray:none;stroke-opacity:1;opacity:0.3"
+     y="41.000053"
+     x="194.31813"
+     ry="78.311592"
+     rx="61.814457"
+     height="289.28448"
+     width="123.62891"
+     stroke-miterlimit="2.01260185242"
+     id="shape0-3" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:30.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none"
+     y="31.000055"
+     x="194.31813"
+     ry="62.649273pt"
+     rx="49.451565pt"
+     height="231.42758pt"
+     width="98.90313pt"
+     stroke-miterlimit="2.01260185242"
+     id="shape0" />
+  <path
+     style="fill:#223656;fill-rule:evenodd;stroke:#4c4c4c;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;fill-opacity:1"
+     d="M 163.05664 257.16797 L 124.30078 257.33789 C 127.73069 337.57792 180.62135 382.5582 238.14844 390.40039 L 238.14844 442.02734 C 212.86208 446.28167 188.64037 459.13792 170.21875 480.42773 L 342.62305 481 C 325.1881 459.78244 302.08811 446.96302 277.67383 442.37109 L 277.67383 389.95312 C 332.81576 381.11211 382.79735 337.49354 387.69922 257.39844 L 348.33008 257.16797 C 341.70893 382.35051 170.43247 383.25573 163.05664 257.16797 z "
+     id="shape01" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff5c5c;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;opacity:1"
+     d="M 125.00586 257.33398 L 124.30078 257.33789 C 127.73069 337.57792 180.62135 382.55819 238.14844 390.40039 L 238.14844 380.40039 C 183.05681 372.89021 132.22425 331.31464 125.00586 257.33398 z M 386.82812 257.39258 C 378.53963 331.12757 330.47588 371.48727 277.67383 379.95312 L 277.67383 389.95312 C 332.81576 381.11212 382.79735 337.49354 387.69922 257.39844 L 386.82812 257.39258 z M 179.92969 470.46094 C 176.54644 473.54898 173.29968 476.86712 170.21875 480.42773 L 342.62305 481 C 339.67715 477.41498 336.56673 474.07508 333.31836 470.96875 L 179.92969 470.46094 z "
+     id="shape01-6" />
+</svg>
