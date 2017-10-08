@@ -1,8 +1,10 @@
 [Icon Theme]
 Name=Flat Remix Light
-Comment=Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts. 
+Comment=Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts.
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status,panel
+Inherits=breeze,ubuntu-mono-dark,gnome,hicolor
+
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status,panel,animations
 
 [actions/scalable]
 Context=Actions
@@ -115,6 +117,13 @@ Type=Scalable
 [panel]
 Context=Status
 Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[animations]
+Context=Animations
+Size=22
 MinSize=16
 MaxSize=512
 Type=Scalable

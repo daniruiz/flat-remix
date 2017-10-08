@@ -11,7 +11,7 @@
    height="16"
    version="1"
    id="svg54"
-   sodipodi:docname="notification-audio-volume-off.svg"
+   sodipodi:docname="notification-audio-volume-muted.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata60">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-width="1863"
+     inkscape:window-height="1059"
      id="namedview56"
      showgrid="false"
      inkscape:zoom="27.812867"
      inkscape:cx="6.097973"
      inkscape:cy="6.2894099"
-     inkscape:window-x="1080"
-     inkscape:window-y="562"
+     inkscape:window-x="57"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg54" />
   <g
@@ -54,12 +54,12 @@
        d="M 4,-18 V 2 h 9.0912 l 10.909,10 v -40 l -10.909,10 z"
        id="path22"
        inkscape:connector-curvature="0"
-       style="fill:#cccccc" />
+       style="fill:#5c616c;fill-opacity:1" />
     <path
        d="m 3.9998,2 v 1 h 9.092 l 10.908,10 V 12 L 13.0918,2 Z"
        id="path26"
        inkscape:connector-curvature="0"
-       style="opacity:0.2"
+       style="opacity:0.2;fill:#5c616c;fill-opacity:1"
        sodipodi:nodetypes="ccccccc" />
     <path
        d="M 24,-28 13.092,-18 H 4 v 1 h 9.092 L 24,-27 Z"
