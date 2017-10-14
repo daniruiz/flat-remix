@@ -118,7 +118,7 @@ Type=Scalable
 Context=Status
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=48
 Type=Scalable
 
 [animations]
