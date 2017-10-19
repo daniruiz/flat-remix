@@ -5,15 +5,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    width="100%"
    height="100%"
-   sodipodi:docname="gnibbles.svg">
+   sodipodi:docname="gnome-nibbles.svg">
   <metadata
      id="metadata61">
     <rdf:RDF>
@@ -22,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,19 +36,43 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1080"
+     inkscape:window-height="1884"
      id="namedview59"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="45.571649"
-     inkscape:cy="57.901203"
-     inkscape:window-x="15"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.86915207"
+     inkscape:cx="-31.796055"
+     inkscape:cy="-143.16829"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4515">
+      <stop
+         style="stop-color:#d41a1a;stop-opacity:1"
+         offset="0"
+         id="stop4511" />
+      <stop
+         style="stop-color:#ff5225;stop-opacity:1"
+         offset="1"
+         id="stop4513" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient32">
+      <stop
+         style="stop-color:#d41a1a;stop-opacity:1"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#ff5225;stop-opacity:1"
+         offset="1"
+         id="stop30" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3764"
        x1="1"
@@ -90,15 +115,34 @@
            style="fill:#1890d0" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32"
+       id="linearGradient34"
+       x1="12.245162"
+       y1="38.232258"
+       x2="32.993549"
+       y2="17.483871"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4515"
+       id="linearGradient4517"
+       x1="2.7999997"
+       y1="41.329033"
+       x2="34.077423"
+       y2="17.329033"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g29"
-     transform="matrix(2.6271186,0,0,2.6271186,1.1864407,1.1186441)">
+     transform="matrix(2.6271186,0,0,2.6271186,1.1864407,1.1186441)"
+     style="fill:url(#linearGradient34);fill-opacity:1">
     <path
        d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z"
        id="path31"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient3764);fill-opacity:1" />
+       style="fill:url(#linearGradient4517);fill-opacity:1" />
   </g>
   <g
      id="g33"
