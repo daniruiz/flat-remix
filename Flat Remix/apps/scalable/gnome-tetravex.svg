@@ -10,8 +10,8 @@
    viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="gnome-tetravex.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="gnome-tetraves.svg"
    width="512"
    height="512">
   <metadata
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2092"
+     inkscape:window-width="1920"
+     inkscape:window-height="985"
      id="namedview43"
      showgrid="false"
-     inkscape:zoom="1.7753906"
-     inkscape:cx="-50.231249"
-     inkscape:cy="209.27279"
-     inkscape:window-x="0"
-     inkscape:window-y="68"
+     inkscape:zoom="0.44384765"
+     inkscape:cx="-616.65897"
+     inkscape:cy="140.24448"
+     inkscape:window-x="1080"
+     inkscape:window-y="581"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4173" />
   <defs
@@ -66,26 +66,13 @@
   <g
      id="g4173"
      transform="translate(34.777864,-26.212766)">
-    <g
-       transform="matrix(9.5748755,0,0,9.5744681,-8.5748755,52.425532)"
-       id="g11" />
-    <g
-       transform="matrix(9.5748755,0,0,9.5744681,-8.5748755,52.425532)"
-       style="fill:#424242;fill-opacity:1"
-       id="g19">
-      <path
-         inkscape:connector-curvature="0"
-         id="path21"
-         style="fill:#424242;fill-opacity:1"
-         d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z" />
-    </g>
     <path
        inkscape:connector-curvature="0"
        id="path23"
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 135.04826,176.89362 191.49751,0 19.14975,19.14893 0,191.48936 -19.14975,19.14894 -191.49751,0 -19.14975,-19.14894 0,-191.48936 z" />
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87992001"
+       d="M 50.222142,75.22158 H 410.22214 l 36,35.99846 v 359.98467 l -36,35.99848 H 50.222142 l -36,-35.99848 V 111.22004 Z" />
     <g
-       transform="matrix(9.5748755,0,0,9.5744681,-8.5748755,52.425532)"
+       transform="matrix(18,0,0,17.999234,-219.77786,-158.76846)"
        id="g25">
       <g
          id="g27">
@@ -115,18 +102,5 @@
         </g>
       </g>
     </g>
-    <g
-       transform="matrix(9.5748755,0,0,9.5744681,-8.5748755,52.425532)"
-       id="g39" />
-    <path
-       style="fill:#000000;fill-opacity:1;opacity:0.3"
-       d="M 35.841797 251 C 35.804736 252.66292 35.777344 254.32818 35.777344 256 C 35.777344 377.62447 134.37035 476.21289 256 476.21289 C 377.62964 476.21289 476.22266 377.62447 476.22266 256 C 476.22266 254.32818 476.19526 252.66292 476.1582 251 C 473.49909 370.31393 375.95776 466.21289 256 466.21289 C 136.04225 466.21289 38.500913 370.31393 35.841797 251 z "
-       transform="translate(-34.777864,26.212766)"
-       id="path21-6" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;opacity:0.1"
-       d="M 256 35.787109 C 134.37035 35.787109 35.777344 134.37554 35.777344 256 C 35.777344 257.67182 35.804736 259.33708 35.841797 261 C 38.500913 141.68602 136.04224 45.787109 256 45.787109 C 375.95775 45.787109 473.49909 141.68602 476.1582 261 C 476.19526 259.33708 476.22266 257.67182 476.22266 256 C 476.22266 134.37554 377.62963 35.787109 256 35.787109 z "
-       transform="translate(-34.777864,26.212766)"
-       id="path21-62" />
   </g>
 </svg>
