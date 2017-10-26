@@ -1,129 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   id="svg2985"
-   version="1.1"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="tilix.svg"
-   viewBox="0 0 512 512">
-  <defs
-     id="defs2987">
-    <linearGradient
-       id="linearGradient5207"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000015;stop-opacity:1;"
-         offset="0"
-         id="stop5209" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#8f8f8f"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.46093749"
-     inkscape:cx="-437.27258"
-     inkscape:cy="78.805658"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:document-units="px"
-     inkscape:grid-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="1080"
-     inkscape:window-y="521"
-     inkscape:window-maximized="1"
-     inkscape:snap-text-baseline="false"
-     inkscape:snap-to-guides="true"
-     inkscape:snap-grids="false"
-     inkscape:snap-page="false"
-     inkscape:snap-others="false"
-     inkscape:snap-global="true" />
-  <metadata
-     id="metadata2990">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     transform="translate(0,448)">
-    <g
-       id="g44">
-      <rect
-         ry="19.956167"
-         y="-368.83356"
-         x="30.696173"
-         height="353.66708"
-         width="450.60767"
-         id="rect2993"
-         style="fill:#051d23;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:19.39234924;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         id="text5213"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.42585754px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           style="stroke-width:0"
-           d="M 103.07812 136.33789 L 103.07812 148.39648 C 97.184634 149.06309 92.574257 150.80994 89.271484 153.6582 C 85.601752 156.82292 83.765625 161.15091 83.765625 166.63867 C 83.765625 171.68877 85.449679 175.66126 88.816406 178.55664 C 91.901387 181.18346 96.667808 183.10835 103.07812 184.34961 L 103.07812 207.6582 C 100.04218 207.47677 97.069922 206.96194 94.169922 206.07812 C 90.668526 204.9671 87.199687 203.33439 83.765625 201.17969 L 83.765625 210.27148 C 87.334356 211.78651 90.886812 212.93073 94.421875 213.70508 C 97.306967 214.30957 100.19303 214.67603 103.07812 214.83203 L 103.07812 230.11719 L 105.07812 230.11719 L 110.12891 230.11719 L 112.12891 230.11719 L 112.12891 214.62305 C 118.35313 213.92801 123.20103 212.1144 126.64258 209.16016 C 130.48064 205.86076 132.39844 201.36555 132.39844 195.67578 C 132.39844 190.42369 130.59849 186.28201 126.99609 183.25195 C 123.71889 180.49543 118.74971 178.51507 112.12891 177.29102 L 112.12891 155.51562 C 114.52631 155.7297 116.87383 156.13374 119.16797 156.74023 C 122.13069 157.51458 125.00835 158.60746 127.80273 160.02148 L 127.80273 151.18359 C 125.00835 150.27458 122.1478 149.56751 119.21875 149.0625 C 116.91876 148.63951 114.55345 148.34575 112.12891 148.17188 L 112.12891 136.33789 L 110.12891 136.33789 L 105.07812 136.33789 L 103.07812 136.33789 z M 103.07812 155.63281 L 103.07812 175.63477 C 99.890337 174.91936 97.485496 173.89321 95.886719 172.54688 C 94.001351 170.93084 93.058594 168.67468 93.058594 165.7793 C 93.058594 162.81658 94.084968 160.44256 96.138672 158.6582 C 97.824422 157.19353 100.14476 156.19012 103.07812 155.63281 z M 112.12891 186.14453 C 115.58678 186.95056 118.19318 188.08748 119.92578 189.56445 C 122.01315 191.31515 123.05664 193.67205 123.05664 196.63477 C 123.05664 199.66482 121.96181 202.10533 119.77344 203.95703 C 117.97087 205.50612 115.41591 206.60214 112.12891 207.25586 L 112.12891 186.14453 z "
-           transform="translate(0,-448)"
-           id="path4139" />
-        <path
-           id="path4141"
-           style="stroke-width:0"
-           d="m 193.75757,-215.91304 0,7.22163 -53.73297,0 0,-7.22163 53.73297,0 z" />
-      </g>
-    </g>
-    <rect
-       style="opacity:0.2;fill:#e9fbff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.21422291;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2993-7"
-       width="221.0547"
-       height="334.74634"
-       x="250.38617"
-       y="-359.37317"
-       ry="10.171618"
-       rx="10.171618" />
-    <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.42585754px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="text5213-5"
-       transform="translate(213.99999,1.5258789e-5)">
-      <path
-         d="m 193.75757,-215.91304 v 7.22163 H 140.0246 v -7.22163 z"
-         style="stroke-width:0"
-         id="path4141-5"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:122.69837189px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.06745934"
-       x="313.03091"
-       y="-197.48285"
-       id="text79"
-       transform="scale(0.90619635,1.1035136)"><tspan
-         sodipodi:role="line"
-         id="tspan77"
-         x="313.03091"
-         y="-197.48285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:122.69698334px;line-height:0;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:3.06745934">#</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" version="1.1" viewBox="0 0 512 512">
+ <g transform="translate(0,448)">
+  <g>
+   <rect style="fill:#051d23;fill-rule:evenodd;stroke:#ffffff;stroke-width:19.39234924;stroke-linejoin:round" width="450.608" height="353.667" x="30.7" y="-368.83" ry="19.956"/>
+   <g style="font-size:103.42585754px;line-height:125%;font-family:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;stroke-width:0">
+    <path d="M 103.07812 136.33789 L 103.07812 148.39648 C 97.184634 149.06309 92.574257 150.80994 89.271484 153.6582 C 85.601752 156.82292 83.765625 161.15091 83.765625 166.63867 C 83.765625 171.68877 85.449679 175.66126 88.816406 178.55664 C 91.901387 181.18346 96.667808 183.10835 103.07812 184.34961 L 103.07812 207.6582 C 100.04218 207.47677 97.069922 206.96194 94.169922 206.07812 C 90.668526 204.9671 87.199687 203.33439 83.765625 201.17969 L 83.765625 210.27148 C 87.334356 211.78651 90.886812 212.93073 94.421875 213.70508 C 97.306967 214.30957 100.19303 214.67603 103.07812 214.83203 L 103.07812 230.11719 L 105.07812 230.11719 L 110.12891 230.11719 L 112.12891 230.11719 L 112.12891 214.62305 C 118.35313 213.92801 123.20103 212.1144 126.64258 209.16016 C 130.48064 205.86076 132.39844 201.36555 132.39844 195.67578 C 132.39844 190.42369 130.59849 186.28201 126.99609 183.25195 C 123.71889 180.49543 118.74971 178.51507 112.12891 177.29102 L 112.12891 155.51562 C 114.52631 155.7297 116.87383 156.13374 119.16797 156.74023 C 122.13069 157.51458 125.00835 158.60746 127.80273 160.02148 L 127.80273 151.18359 C 125.00835 150.27458 122.1478 149.56751 119.21875 149.0625 C 116.91876 148.63951 114.55345 148.34575 112.12891 148.17188 L 112.12891 136.33789 L 110.12891 136.33789 L 105.07812 136.33789 L 103.07812 136.33789 z M 103.07812 155.63281 L 103.07812 175.63477 C 99.890337 174.91936 97.485496 173.89321 95.886719 172.54688 C 94.001351 170.93084 93.058594 168.67468 93.058594 165.7793 C 93.058594 162.81658 94.084968 160.44256 96.138672 158.6582 C 97.824422 157.19353 100.14476 156.19012 103.07812 155.63281 z M 112.12891 186.14453 C 115.58678 186.95056 118.19318 188.08748 119.92578 189.56445 C 122.01315 191.31515 123.05664 193.67205 123.05664 196.63477 C 123.05664 199.66482 121.96181 202.10533 119.77344 203.95703 C 117.97087 205.50612 115.41591 206.60214 112.12891 207.25586 L 112.12891 186.14453 z" transform="translate(0,-448)"/>
+    <path d="m 193.75757,-215.91304 0,7.22163 -53.73297,0 0,-7.22163 53.73297,0 z"/>
+   </g>
   </g>
+  <rect style="opacity:0.2;fill:#e9fbff;fill-rule:evenodd" width="221.055" height="334.746" x="250.39" y="-359.37" rx="10.172" ry="10.172"/>
+  <g style="font-size:103.42585754px;line-height:125%;font-family:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;stroke-width:0" transform="translate(213.99999,1.5258789e-5)">
+   <path d="m 193.75757,-215.91304 v 7.22163 H 140.0246 v -7.22163 z"/>
+  </g>
+  <text style="font-size:122.69837189px;line-height:1.25;letter-spacing:0px;word-spacing:0px" x="313.03" y="-197.48" transform="scale(0.90619635,1.1035136)" xml:space="preserve">
+   <tspan style="font-size:122.69698334px;line-height:0;font-family:Cantarell;fill:#ffffff" x="313.03" y="-197.48">#</tspan>
+  </text>
+ </g>
 </svg>

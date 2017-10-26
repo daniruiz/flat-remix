@@ -1,288 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   version="1.1"
-   viewBox="0 0 512 512"
-   id="svg82"
-   sodipodi:docname="server-database.svg"
-   inkscape:version="0.92.1 r15371">
-  <metadata
-     id="metadata88">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs86" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1080"
-     inkscape:window-height="1899"
-     id="namedview84"
-     showgrid="false"
-     inkscape:zoom="0.32593203"
-     inkscape:cx="-75.361229"
-     inkscape:cy="-603.07605"
-     inkscape:window-x="0"
-     inkscape:window-y="21"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg82" />
-  <g
-     id="g4642"
-     transform="matrix(8.0357143,0,0,8.0357143,-1.1428576,-3605.1607)">
-    <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:1"
-       width="18"
-       height="56"
-       x="-508"
-       y="-60"
-       rx="2.5"
-       ry="2.5"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect2" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1"
-       width="18"
-       height="56"
-       x="-507"
-       y="-60"
-       rx="2.5"
-       ry="2.5"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect4" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 24,495 -4,6"
-       id="path6"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 18,495 -4,6"
-       id="path8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 12,495 -4,6"
-       id="path10"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 30,495 -4,6"
-       id="path12"
-       inkscape:connector-curvature="0" />
-    <circle
-       style="opacity:0.2"
-       cx="40.5"
-       cy="495.5"
-       r="2.5"
-       id="circle14" />
-    <circle
-       style="opacity:0.2"
-       cx="47.5"
-       cy="495.5"
-       r="2.5"
-       id="circle16" />
-    <circle
-       style="opacity:0.2"
-       cx="54.5"
-       cy="495.5"
-       r="2.5"
-       id="circle18" />
-    <circle
-       style="fill:#1ba389;fill-opacity:1"
-       cx="40.5"
-       cy="494.5"
-       r="2.5"
-       id="circle20" />
-    <circle
-       style="fill:#ba174e;fill-opacity:0.99607843"
-       cx="47.5"
-       cy="494.5"
-       r="2.5"
-       id="circle22" />
-    <circle
-       style="fill:#ffcd40"
-       cx="54.5"
-       cy="494.5"
-       r="2.5"
-       id="circle24" />
-    <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:1"
-       width="18"
-       height="56"
-       x="-490"
-       y="-60"
-       rx="2.5"
-       ry="2.5"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect28" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1"
-       width="18"
-       height="56"
-       x="-489"
-       y="-60"
-       rx="2.5"
-       ry="2.5"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect30" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 24,477 -4,6"
-       id="path32"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 18,477 -4,6"
-       id="path34"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 12,477 -4,6"
-       id="path36"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 30,477 -4,6"
-       id="path38"
-       inkscape:connector-curvature="0" />
-    <circle
-       style="opacity:0.2"
-       cx="40.5"
-       cy="477.5"
-       r="2.5"
-       id="circle40" />
-    <circle
-       style="opacity:0.2"
-       cx="47.5"
-       cy="477.5"
-       r="2.5"
-       id="circle42" />
-    <circle
-       style="opacity:0.2"
-       cx="54.5"
-       cy="477.5"
-       r="2.5"
-       id="circle44" />
-    <circle
-       style="fill:#1ba389;fill-opacity:1"
-       cx="40.5"
-       cy="476.5"
-       r="2.5"
-       id="circle46" />
-    <circle
-       style="fill:#ba174e;fill-opacity:0.99607843"
-       cx="47.5"
-       cy="476.5"
-       r="2.5"
-       id="circle48" />
-    <circle
-       style="fill:#ffcd40"
-       cx="54.5"
-       cy="476.5"
-       r="2.5"
-       id="circle50" />
-    <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:1"
-       width="18"
-       height="56"
-       x="-472"
-       y="-60"
-       rx="2.5"
-       ry="2.5"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect54" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1"
-       width="18"
-       height="56"
-       x="-471"
-       y="-60"
-       rx="2.5"
-       ry="2.5"
-       transform="matrix(0,-1,-1,0,0,0)"
-       id="rect56" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 24,459 -4,6"
-       id="path58"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 18,459 -4,6"
-       id="path60"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 12,459 -4,6"
-       id="path62"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round"
-       d="m 30,459 -4,6"
-       id="path64"
-       inkscape:connector-curvature="0" />
-    <circle
-       style="opacity:0.2"
-       cx="39.5"
-       cy="459.5"
-       r="2.5"
-       id="circle66" />
-    <circle
-       style="opacity:0.2"
-       cx="47.5"
-       cy="459.5"
-       r="2.5"
-       id="circle68" />
-    <circle
-       style="opacity:0.2"
-       cx="54.5"
-       cy="459.5"
-       r="2.5"
-       id="circle70" />
-    <circle
-       style="fill:#1ba389;fill-opacity:1"
-       cx="39.5"
-       cy="458.5"
-       r="2.5"
-       id="circle72" />
-    <circle
-       style="fill:#ba174e;fill-opacity:0.99607843"
-       cx="47.5"
-       cy="458.5"
-       r="2.5"
-       id="circle74" />
-    <circle
-       style="fill:#ffcd40"
-       cx="54.5"
-       cy="458.5"
-       r="2.5"
-       id="circle76" />
-    <path
-       style="opacity:0.2;fill:#ffffff"
-       d="M 6.5,453 C 5.115,453 4,454.115 4,455.5 v 1 C 4,455.115 5.115,454 6.5,454 h 51 c 1.385,0 2.5,1.115 2.5,2.5 v -1 c 0,-1.385 -1.115,-2.5 -2.5,-2.5 z"
-       id="path78"
-       inkscape:connector-curvature="0" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" version="1.1" viewBox="0 0 512 512">
+ <g transform="matrix(8.0357143,0,0,8.0357143,-1.1428576,-3605.1607)">
+  <rect style="opacity:0.3" width="18" height="56" x="-508" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#ffffff" width="18" height="56" x="-507" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 24,495 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 18,495 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 12,495 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 30,495 -4,6"/>
+  <circle style="opacity:0.2" cx="40.5" cy="495.5" r="2.5"/>
+  <circle style="opacity:0.2" cx="47.5" cy="495.5" r="2.5"/>
+  <circle style="opacity:0.2" cx="54.5" cy="495.5" r="2.5"/>
+  <circle style="fill:#1ba389" cx="40.5" cy="494.5" r="2.5"/>
+  <circle style="fill:#ba174e;fill-opacity:0.99607843" cx="47.5" cy="494.5" r="2.5"/>
+  <circle style="fill:#ffcd40" cx="54.5" cy="494.5" r="2.5"/>
+  <rect style="opacity:0.3" width="18" height="56" x="-490" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#ffffff" width="18" height="56" x="-489" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 24,477 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 18,477 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 12,477 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 30,477 -4,6"/>
+  <circle style="opacity:0.2" cx="40.5" cy="477.5" r="2.5"/>
+  <circle style="opacity:0.2" cx="47.5" cy="477.5" r="2.5"/>
+  <circle style="opacity:0.2" cx="54.5" cy="477.5" r="2.5"/>
+  <circle style="fill:#1ba389" cx="40.5" cy="476.5" r="2.5"/>
+  <circle style="fill:#ba174e;fill-opacity:0.99607843" cx="47.5" cy="476.5" r="2.5"/>
+  <circle style="fill:#ffcd40" cx="54.5" cy="476.5" r="2.5"/>
+  <rect style="opacity:0.3" width="18" height="56" x="-472" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#ffffff" width="18" height="56" x="-471" y="-60" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 24,459 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 18,459 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 12,459 -4,6"/>
+  <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 30,459 -4,6"/>
+  <circle style="opacity:0.2" cx="39.5" cy="459.5" r="2.5"/>
+  <circle style="opacity:0.2" cx="47.5" cy="459.5" r="2.5"/>
+  <circle style="opacity:0.2" cx="54.5" cy="459.5" r="2.5"/>
+  <circle style="fill:#1ba389" cx="39.5" cy="458.5" r="2.5"/>
+  <circle style="fill:#ba174e;fill-opacity:0.99607843" cx="47.5" cy="458.5" r="2.5"/>
+  <circle style="fill:#ffcd40" cx="54.5" cy="458.5" r="2.5"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 6.5,453 C 5.115,453 4,454.115 4,455.5 v 1 C 4,455.115 5.115,454 6.5,454 h 51 c 1.385,0 2.5,1.115 2.5,2.5 v -1 c 0,-1.385 -1.115,-2.5 -2.5,-2.5 z"/>
+ </g>
 </svg>

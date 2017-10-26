@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
+ <linearGradient id="a">
+  <stop offset="0" stop-color="#333538"/>
+  <stop offset="1" stop-color="#566069"/>
+ </linearGradient>
+ <linearGradient id="b" x1="400.954" x2="400.954" y1="545.223" y2="517.223" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="c" x1="430.098" x2="430.098" y1="538.053" y2="526.176" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+ <linearGradient id="d" x1="400.396" x2="400.396" y1="545.619" y2="517.619" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#d3d3d3"/>
+  <stop offset="1" stop-color="#fcf9f9"/>
+ </linearGradient>
+ <linearGradient id="e" x1="404.714" x2="404.714" y1="546.298" y2="517.298" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+ <linearGradient id="f" x1="400.396" x2="400.396" y1="545.619" y2="517.619" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#e3e3e3"/>
+  <stop offset="1" stop-color="#fcf9f9"/>
+ </linearGradient>
+ <linearGradient id="g">
+  <stop offset="0" stop-color="#00cafe"/>
+  <stop offset="1" stop-color="#1460f3"/>
+ </linearGradient>
+ <linearGradient id="h" x1="404.714" x2="404.714" y1="546.298" y2="517.298" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+ <g fill="url(#b)" transform="matrix(1.569970343761 0 0 1.569970343761 -605.097515035022 -810.977878778761)">
+  <g fill="url(#d)" stroke-width="1.3" transform="translate(.135243 .045175)">
+   <circle fill="url(#d)" stroke="url(#h)" stroke-width="1.3" cx="400.571" cy="531.798" r="14"/>
+   <circle fill="url(#f)" stroke="url(#e)" cx="400.571" cy="531.798" r="0"/>
+   <circle fill="url(#d)" cx="400.571" cy="531.798" r="0"/>
+  </g>
+  <path fill="url(#c)" opacity=".9" d="m428.92363 524.46159c-.56004.15717-1.01086.78214-1.01086 1.38928v9.62532c-.56789-.31135-1.29721-.43725-2.05334-.23149-1.36441.37118-2.21944 1.57085-1.92697 2.67922.29249 1.1083 1.63658 1.72735 3.00104 1.35608 1.08851-.29612 1.83888-1.13406 1.95852-2.01765l.0319-9.09613 7.07607-1.98462v7.1777c-.56789-.31137-1.2972-.43726-2.05335-.23157-1.3644.3712-2.21941 1.57093-1.92695 2.67923.2925 1.10836 1.63659 1.72733 3.00101 1.35614 1.08853-.29612 1.83889-1.13404 1.95855-2.01764l.032-11.84156c0-.45528-.26874-.7959-.63178-.85997l-7.45514 2.01766z" transform="matrix(.87200319 0 0 .87200319 24.623835942513 68.873180393466)"/>
+ </g>
+</svg>

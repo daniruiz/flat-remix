@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+ <linearGradient id="a" x1="399.571" x2="399.571" y1="545.798" y2="517.798" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#3889e9"/>
+  <stop offset="1" stop-color="#5ea5fb"/>
+ </linearGradient>
+ <linearGradient id="b" x1="400.512" x2="400.699" y1="546.074" y2="517.773" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#ff9300"/>
+  <stop offset="1" stop-color="#ffd702"/>
+ </linearGradient>
+ <g transform="matrix(1.4700713 0 0 1.4700713 -564.96632 -757.84787)">
+  <circle fill="url(#a)" cx="400.571" cy="531.798" r="0"/>
+  <g transform="matrix(1.117536624128 0 0 1.117536624128 -47.015292188816 -62.460177851153)">
+   <circle fill="url(#b)" cx="400.571" cy="531.798" r="14"/>
+   <circle fill="none" cx="400.571" cy="531.798" r="14"/>
+  </g>
+ </g>
+ <g fill="#342600" transform="matrix(-.001821907163 -2.213693273089 3.040107369112 -.001326636241 -3096.015357981255 19.628572834075)">
+  <rect width="5.212" height="2.23" x="-7.66" y="1021.96" rx="0" ry=".312" transform="matrix(.9999997 -.00076878 -.00033677 .99999994 0 0)"/>
+  <rect width="8.026" height="2.23" x="-7.79" y="1025.11" rx="0" ry=".312" transform="matrix(.99999996 -.00028909 -.00019502 .99999998 0 0)"/>
+  <rect width="10.841" height="2.23" x="-7.96" y="1028.37" rx="0" ry=".312" transform="matrix(1 -.00005846 -.00005327 1 0 0)"/>
+ </g>
+</svg>

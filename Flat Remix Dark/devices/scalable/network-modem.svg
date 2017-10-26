@@ -1,110 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   version="1"
-   id="svg20"
-   sodipodi:docname="modem.svg"
-   inkscape:version="0.92.1 r15371">
-  <metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs24" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="899"
-     inkscape:window-height="1158"
-     id="namedview22"
-     showgrid="false"
-     inkscape:zoom="0.11523438"
-     inkscape:cx="41.029272"
-     inkscape:cy="776.17926"
-     inkscape:window-x="9"
-     inkscape:window-y="30"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg20" />
-  <g
-     id="g4524"
-     transform="matrix(7.704918,0,0,7.704918,9.442624,-3451.9918)">
-    <rect
-       id="rect2"
-       ry="4.1999998"
-       rx="4.1999998"
-       y="481"
-       x="4"
-       height="28"
-       width="56"
-       style="opacity:0.2" />
-    <rect
-       id="rect4"
-       transform="rotate(90)"
-       ry="3"
-       y="-18"
-       x="452"
-       height="6"
-       width="34"
-       style="fill:#000000;fill-opacity:1" />
-    <rect
-       id="rect6"
-       ry="4.1999998"
-       rx="4.1999998"
-       y="480"
-       x="4"
-       height="28"
-       width="56"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path16"
-       d="m 15,452 c -1.662,0 -3,1.338 -3,3 v 1 c 0,-1.662 1.338,-3 3,-3 1.662,0 3,1.338 3,3 v -1 c 0,-1.662 -1.338,-3 -3,-3 z"
-       style="opacity:0.1;fill:#ffffff" />
-    <circle
-       id="circle14-3"
-       r="5.6825056"
-       cy="494.87784"
-       cx="33.942799"
-       style="opacity:0.3;stroke-width:2.27300215;fill:#000000;fill-opacity:1" />
-    <circle
-       id="circle16"
-       r="5.6825056"
-       cy="494.87784"
-       cx="49.853817"
-       style="opacity:0.3;stroke-width:2.27300215;fill:#000000;fill-opacity:1" />
-    <circle
-       id="circle20"
-       r="5.6825056"
-       cy="493.64316"
-       cx="33.942799"
-       style="fill:#1ba389;fill-opacity:1;stroke-width:2.27300215" />
-    <circle
-       id="circle22"
-       r="5.6825056"
-       cy="493.64316"
-       cx="49.853817"
-       style="fill:#ba174e;fill-opacity:0.99607843;stroke-width:2.27300215" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" version="1">
+ <g transform="matrix(7.704918,0,0,7.704918,9.442624,-3451.9918)">
+  <rect style="opacity:0.2" width="56" height="28" x="4" y="481" rx="4.2" ry="4.2"/>
+  <rect width="34" height="6" x="452" y="-18" ry="3" transform="rotate(90)"/>
+  <rect style="fill:#ffffff;stroke:#000000;stroke-width:5" width="56" height="28" x="4" y="480" rx="4.2" ry="4.2"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 15,452 c -1.662,0 -3,1.338 -3,3 v 1 c 0,-1.662 1.338,-3 3,-3 1.662,0 3,1.338 3,3 v -1 c 0,-1.662 -1.338,-3 -3,-3 z"/>
+  <circle style="opacity:0.3" cx="33.943" cy="494.878" r="5.683"/>
+  <circle style="opacity:0.3" cx="49.854" cy="494.878" r="5.683"/>
+  <circle style="fill:#1ba389" cx="33.943" cy="493.643" r="5.683"/>
+  <circle style="fill:#ba174e;fill-opacity:0.99607843" cx="49.854" cy="493.643" r="5.683"/>
+ </g>
 </svg>
