@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" version="1.1" viewBox="0 0 512 512">
+ <defs>
+  <filter id="filter4149" style="color-interpolation-filters:sRGB" width="1.846" height="1.14" x="-.42" y="-.07">
+   <feGaussianBlur stdDeviation="9.674"/>
+  </filter>
+ </defs>
+ <rect style="fill:#c8d4dc" width="450.726" height="263.912" x="40.27" y="122.56" ry="27.079"/>
+ <rect style="opacity:0.5;filter:url(#filter4149)" width="54.858" height="332.114" x="21" y="89.94" ry="4.407"/>
+ <rect width="54.858" height="332.114" x="21" y="89.94" ry="4.407"/>
+</svg>
