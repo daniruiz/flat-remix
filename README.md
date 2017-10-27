@@ -7,13 +7,19 @@ Flat remix is a pretty simple icon theme inspired on material design. It is most
 <br><br>
 
 ![Icon theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/preview.png)
+<br><br>
 
-<br>
 It has been designed on gnome shell 3.26 and ubuntu 17.04 but it should work with most linux distributions, under gnome, unity, cinnammon, xfce, kde, etc.
 
-This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme).
+Flat Remix icon theme is available in three variants:
+ - Flat Remix - main icon theme
+ - Flat Remix Dark - for dark interfaces
+ - Flat Remix Light - for light interfaces
+
+This theme was made to fit with [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme).
 
 ![Gnome Shell theme preview](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Images/preview.png?raw=true)
+
 ![Gnome Shell icons](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Images/3.png?raw=true)
 
 # Installation
@@ -29,7 +35,7 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 ```
      cd /tmp && rm -rf Flat-Remix &&
      git clone https://github.com/daniruiz/Flat-Remix &&
-     mkdir -p ~/.icons && cp -r "Flat-Remix/Flat Remix" ~/.icons &&
+     mkdir -p ~/.icons && cp -r Flat-Remix/Flat\ Remix* ~/.icons/ &&
      gsettings set org.gnome.desktop.interface icon-theme "Flat Remix"
 ```
 
@@ -50,7 +56,8 @@ This theme was made to fit with the [Flat Remix GNOME theme](https://github.com/
 
 You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ).
 
-Bitcoin Wallet: 1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4<br>
-Monero Wallet:  46o1H6xAnvNY25N1rosd9oUcN2pxhYaErU9qc48VwDNf3xrzSWhqWC5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3zCs4zx
+Bitcoin Wallet: `1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4`
+
+Monero Wallet: `46o1H6xAnvNY25N1rosd9oUcN2pxhYaErU9qc48VwDNf3xrzSWhqWC5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3zCs4zx`
 
 You know... working with coffee is always better  :wink:
