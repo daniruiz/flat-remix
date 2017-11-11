@@ -17,7 +17,7 @@ Flat Remix icon theme is available in three variants:
  - Flat Remix Light - for light interfaces
 
 <br/>
-#Flat Remix GNOME theme
+# Flat Remix GNOME theme
 [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme).
 
 ![Gnome Shell theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GNOME-theme/master/Images/1.png)
