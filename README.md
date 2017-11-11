@@ -16,11 +16,11 @@ Flat Remix icon theme is available in three variants:
  - Flat Remix Dark - for dark interfaces
  - Flat Remix Light - for light interfaces
 
-This theme was made to fit with [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme).
+<br/>
+#Flat Remix GNOME theme
+[Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme).
 
-![Gnome Shell theme preview](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Images/preview.png?raw=true)
-
-![Gnome Shell icons](https://github.com/daniruiz/Flat-Remix-GNOME-theme/blob/master/Images/3.png?raw=true)
+![Gnome Shell theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GNOME-theme/master/Images/1.png)
 
 # Installation
 
