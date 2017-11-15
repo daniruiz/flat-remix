@@ -1,129 +1,132 @@
 [Icon Theme]
-Name=Flat Remix
-Comment=Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts.
+Name=Flat Remix dark
 
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status,panel,animations
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status
 
 [actions/scalable]
 Context=Actions
 Size=16
-Type=Fixed
+MinSize=1
+MaxSize=16
+Type=Scalable
 
 [actions/symbolic]
 Context=Actions
 Size=16
-MinSize=16
+MinSize=1
+MaxSize=16
+Type=Scalable
+
+[animations]
+Context=Animations
+Size=22
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [apps/scalable]
-Size=512
 Context=Applications
-Type=Scalable
-MinSize=22
+Size=512
+MinSize=1
 MaxSize=512
+Type=Scalable
 
 [apps/symbolic]
 Context=Applications
 Size=16
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [categories/scalable]
 Context=Categories
 Size=512
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [categories/symbolic]
 Context=Actions
 Size=16
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [devices/scalable]
 Context=Devices
 Size=512
-MinSize=16
-MaxSize=256
+MinSize=1
+MaxSize=512
 Type=Scalable
 
 [devices/symbolic]
 Context=Devices
 Size=16
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [emblems/scalable]
-Size=24
 Context=Emblems
-Type=Fixed
+Size=24
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [emblems/symbolic]
 Context=Emblems
 Size=16
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [emotes]
 Context=Emotes
 Size=16
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [mimetypes/scalable]
 Context=MimeTypes
 Size=48
-MinSize=8
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [mimetypes/symbolic]
 Context=MimeTypes
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[places/scalable]
-Context=Places
-Size=512
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[places/symbolic]
-Context=Places
-Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[status]
-Context=Status
-Size=16
-MinSize=16
+MinSize=1
 MaxSize=512
 Type=Scalable
 
 [panel]
 Context=Status
 Size=16
-MinSize=16
+MinSize=1
 MaxSize=48
 Type=Scalable
 
-[animations]
-Context=Animations
-Size=22
-MinSize=16
+[places/scalable]
+Context=Places
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
+
+[places/symbolic]
+Context=Places
+Size=16
+MinSize=1
+MaxSize=512
+Type=Scalable
+
+[status]
+Context=Status
+Size=16
+MinSize=1
 MaxSize=512
 Type=Scalable
