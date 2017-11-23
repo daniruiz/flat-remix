@@ -9,14 +9,14 @@ Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symb
 Context=Actions
 Size=16
 MinSize=1
-MaxSize=16
+MaxSize=144
 Type=Scalable
 
 [actions/symbolic]
 Context=Actions
 Size=16
 MinSize=1
-MaxSize=16
+MaxSize=144
 Type=Scalable
 
 [animations]
