@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
- <g transform="translate(-424,-222)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m429 230v9c0.00005 0.52358 0.47642 0.99995 1 1h8 1c0.52358-0.00005 0.99995-0.47642 1-1v-9z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m428 228v1l13-0.003v-1c0-1-0.9998-1.0034-0.9998-1.0034h-3s0-1-1-1h-3c-1 0-1 1-1 1h-3s-1.0002 0.003-1.0002 1.0034z"/>
+ <g style="fill:#31363b" transform="translate(-426.5,-224.9968)">
+  <path style="fill:#31363b" class="ColorScheme-Text" d="m 429,230 v 9 c 5e-5,0.52358 0.47642,0.99995 1,1 h 8 1 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 v -9 z"/>
+  <path style="fill:#31363b" class="ColorScheme-Text" d="m 428,228 v 1 l 13,-0.003 v -1 c 0,-1 -0.9998,-1.0034 -0.9998,-1.0034 h -3 c 0,0 0,-1 -1,-1 h -3 c -1,0 -1,1 -1,1 h -3 c 0,0 -1.0002,0.003 -1.0002,1.0034 z"/>
  </g>
 </svg>
