@@ -18,10 +18,7 @@ Flat Remix icon theme is available in three variants:
 
 <br/>
 
-# Flat Remix GNOME theme
-
-[Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme).
-
+# [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme)
 ![Gnome Shell theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GNOME-theme/master/Images/1.png)
 
 # Installation
@@ -34,32 +31,34 @@ Flat Remix icon theme is available in three variants:
 
 #### Terminal installation
 
-```
-     cd /tmp && rm -rf Flat-Remix &&
-     git clone https://github.com/daniruiz/Flat-Remix &&
-     mkdir -p ~/.icons && cp -r Flat-Remix/Flat\ Remix* ~/.icons/ &&
-     gsettings set org.gnome.desktop.interface icon-theme "Flat Remix"
+```sh
+cd /tmp && rm -rf Flat-Remix &&
+git clone https://github.com/daniruiz/Flat-Remix &&
+mkdir -p ~/.icons && cp -r Flat-Remix/Flat\ Remix* ~/.icons/ &&
+gsettings set org.gnome.desktop.interface icon-theme "Flat Remix"
 ```
 
 ##### Ubuntu based distributions
 
-```
-     sudo add-apt-repository ppa:noobslab/icons
-     sudo apt-get update
-     sudo apt-get install flat-remix-icons
+```sh
+sudo add-apt-repository ppa:daniruiz/flat-remix
+sudo apt-get update
+sudo apt-get install flat-remix
 ```
 
 ##### Arch based distributions
 + [`super-flat-remix-icon-theme`](https://aur.archlinux.org/packages/super-flat-remix-icon-theme/) (AUR)
-+ Or you can download the [`PKGBUILD`](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/PKGBUILD)
 
 
 # Donate
 
-You can also support the development of Flat Remix by [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ).
+You can also support the development of Flat Remix by donating  
 
-Bitcoin Wallet: `1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4`
-
-Monero Wallet: `46o1H6xAnvNY25N1rosd9oUcN2pxhYaErU9qc48VwDNf3xrzSWhqWC5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3zCs4zx`
-
-You know... working with coffee is always better  :wink:
+- [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ)  
+  
+- [Patreon](https://www.patreon.com/daniruiz)  
+  
+- Bitcoin Wallet:  
+`1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4`  
+  
+- Monero Wallet:   `46o1H6xAnvNY25N1rosd9oUcN2pxhYaErU9qc48VwDNf3xrzSWhqWC5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3zCs4zx`  
