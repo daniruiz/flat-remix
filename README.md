@@ -47,7 +47,7 @@ sudo apt-get install flat-remix
 ```
 
 ##### Arch based distributions
-+ [`super-flat-remix-icon-theme`](https://aur.archlinux.org/packages/super-flat-remix-icon-theme/) (AUR)
++ [`flat-remix`](https://aur.archlinux.org/packages/flat-remix/) (AUR)
 
 
 # Donate
