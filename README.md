@@ -47,7 +47,7 @@ sudo apt-get install flat-remix
 ```
 
 ##### Arch based distributions
-+ [`flat-remix`](https://aur.archlinux.org/packages/flat-remix/) (AUR)
++ [`flat-remix-git`](https://aur.archlinux.org/packages/flat-remix-git/) (AUR)
 
 
 # Donate
