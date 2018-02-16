@@ -1,28 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" version="1.1" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
  <defs>
-  <linearGradient id="linear-gradient-3" x1="64.655" x2="49.273" y1="-380.292" y2="-412.912" gradientTransform="translate(0,420.73)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#ba174e;stop-opacity:0.99607843" offset="0" stop-color="#fe315d"/>
-   <stop style="stop-color:#367bf0" offset="1" stop-color="#087cfa"/>
-  </linearGradient>
-  <linearGradient id="linear-gradient-4" x1="16.006" x2="41.692" y1="-409.631" y2="-360.828" gradientTransform="translate(0,420.73)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#ba174e;stop-opacity:0.99607843" offset="0" stop-color="#fe315d"/>
-   <stop style="stop-color:#8e44ad" offset="1" stop-color="#755bb4"/>
-  </linearGradient>
- </defs>
- <g transform="translate(0,-540.36212)">
-  <polygon style="fill:#fd7e00" points="30.5 32 16.2 49.9 16.2 49.9 .7 37.7 8.4 23.4" transform="matrix(7.03125,0,0,7.03125,31,571.36212)"/>
-  <polygon style="fill:#367bf0" points="64 17.1 64 17.1 62.8 54.1 38.2 64 23.4 54.4 45 32 35.6 11.2 44.1 1" transform="matrix(7.03125,0,0,7.03125,31,571.36212)"/>
-  <polygon style="opacity:0.3" points="64 17.1 44.5 40.1 35.6 11.2 44.1 1 64 17.1" transform="matrix(7.03125,0,0,7.03125,31,581.36212)"/>
-  <polygon style="fill:url(#linear-gradient-3)" points="44.1 1 64 17.1 64 17.1 44.5 40.1 35.6 11.2" transform="matrix(7.03125,0,0,7.03125,31,571.36212)"/>
-  <polygon style="opacity:0.3" points="30.8 53.1 30.8 53.1 5.2 62.4 9.3 48 14.6 30.2 0 25.3 9.3 0 29.3 2.4 49.1 25" transform="matrix(7.03125,0,0,7.03125,31,581.36212)"/>
-  <polygon style="fill:url(#linear-gradient-4)" points="9.3 0 29.3 2.4 49.1 25 30.8 53.1 30.8 53.1 5.2 62.4 9.3 48 14.6 30.2 0 25.3" transform="matrix(7.03125,0,0,7.03125,31,571.36212)"/>
-  <rect style="opacity:0.3" width="281.25" height="281.25" x="115.38" y="665.74"/>
-  <rect width="281.25" height="281.25" x="115.38" y="655.74"/>
-  <g transform="matrix(7.03125,0,0,7.03125,31,571.36212)">
-   <rect style="fill:#ffffff" width="15" height="2.5" x="15.8" y="44.5"/>
-   <polygon style="fill:#ffffff" points="26.5 20.2 26.5 20.2 26.5 17.2 18.3 17.2 18.3 20.2 20.6 20.2 20.6 30.7 18.3 30.7 18.3 33.8 26.5 33.8 26.5 30.7 24.2 30.7 24.2 20.2"/>
-   <path style="fill:#ffffff" d="M 34.5,34"/>
-   <path fill="#fff" d="M34.5,34a6.71,6.71,0,0,1-3.3-.7A7.87,7.87,0,0,1,29,31.5l2.3-2.6a7.47,7.47,0,0,0,1.4,1.2,2.93,2.93,0,0,0,1.6.4,1.86,1.86,0,0,0,1.6-.7,2.93,2.93,0,0,0,.6-2.1V17h3.7V27.8a6.77,6.77,0,0,1-.4,2.6,5,5,0,0,1-1.4,2.2A7.15,7.15,0,0,1,34.5,34"/>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 360.75 120.925781 L 257.917969 242.214844 L 210.984375 89.8125 L 255.808594 36.023438 Z M 360.75 120.925781"/>
   </g>
+  <linearGradient id="linear0" x1="64.655" x2="49.273" y1="-380.292" y2="-412.912" gradientTransform="matrix(5.273438,0,0,5.273438,23.25,2241.943359)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:rgb(99.607843%,19.215686%,36.470588%);stop-opacity:0.996078"/>
+   <stop offset="1" style="stop-color:rgb(3.137255%,48.627451%,98.039216%)"/>
+  </linearGradient>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 185.671875 310.769531 L 50.671875 359.8125 L 72.292969 283.875 L 100.242188 190.007812 L 23.25 164.167969 L 72.292969 30.75 L 177.761719 43.40625 L 282.175781 162.585938 Z M 185.671875 310.769531"/>
+  </g>
+  <linearGradient id="linear1" x1="16.006" x2="41.692" y1="-409.631" y2="-360.828" gradientTransform="matrix(5.273438,0,0,5.273438,23.25,2241.943359)" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:rgb(99.607843%,19.215686%,36.470588%);stop-opacity:0.996078"/>
+   <stop offset="1" style="stop-color:rgb(45.882353%,35.686275%,70.588235%)"/>
+  </linearGradient>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 86.535156 94.035156 L 297.472656 94.035156 L 297.472656 304.972656 L 86.535156 304.972656 Z M 86.535156 94.035156"/>
+  </g>
+ </defs>
+ <g>
+  <path style="fill:rgb(99.215686%,49.411765%,0%)" d="M 184.089844 192 L 108.679688 286.394531 L 26.941406 222.058594 L 67.546875 146.648438 Z M 184.089844 192"/>
+  <path style="fill:rgb(21.176471%,48.235294%,94.117647%)" d="M 360.75 113.425781 L 354.421875 308.542969 L 224.695312 360.75 L 146.648438 310.125 L 260.554688 192 L 210.984375 82.3125 L 255.808594 28.523438 Z M 360.75 113.425781"/>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:url(#linear0)" d="M 255.808594 28.523438 L 360.75 113.425781 L 257.917969 234.714844 L 210.984375 82.3125 Z M 255.808594 28.523438"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <path style="fill:url(#linear1)" d="M 72.292969 23.25 L 177.761719 35.90625 L 282.175781 155.085938 L 185.671875 303.269531 L 50.671875 352.3125 L 72.292969 276.375 L 100.242188 182.507812 L 23.25 156.667969 Z M 72.292969 23.25"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
+  <path style="fill:rgb(0%,0%,0%)" d="M 86.535156 86.535156 L 297.472656 86.535156 L 297.472656 297.472656 L 86.535156 297.472656 Z M 86.535156 86.535156"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 106.570312 257.917969 L 185.671875 257.917969 L 185.671875 271.101562 L 106.570312 271.101562 Z M 106.570312 257.917969"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 162.996094 129.773438 L 162.996094 113.953125 L 119.753906 113.953125 L 119.753906 129.773438 L 131.882812 129.773438 L 131.882812 185.144531 L 119.753906 185.144531 L 119.753906 201.492188 L 162.996094 201.492188 L 162.996094 185.144531 L 150.867188 185.144531 L 150.867188 129.773438 Z M 162.996094 129.773438"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 205.183594 202.546875 C 199.164062 202.820312 193.171875 201.546875 187.78125 198.855469 C 183.371094 196.421875 179.4375 193.207031 176.179688 189.363281 L 188.308594 175.652344 C 190.5 178.058594 192.980469 180.183594 195.691406 181.980469 C 198.242188 183.476562 201.171875 184.210938 204.128906 184.089844 C 207.378906 184.339844 210.542969 182.953125 212.566406 180.398438 C 215.007812 177.253906 216.140625 173.285156 215.730469 169.324219 L 215.730469 112.898438 L 235.242188 112.898438 L 235.242188 169.851562 C 235.441406 174.515625 234.726562 179.175781 233.132812 183.5625 C 231.742188 188.015625 229.195312 192.019531 225.75 195.164062 C 219.773438 199.601562 212.617188 202.171875 205.183594 202.546875"/>
  </g>
 </svg>

@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="style2" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <rect style="fill:currentColor" class="ColorScheme-Highlight" width="3" height="4" x="11" y="12"/>
- <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="12.5" cy="9.5" r="1.5"/>
- <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Highlight" d="M 4,11 A 10,10 0 0 1 14,1"/>
- <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Highlight" d="M 8,11 A 6,6 0 0 1 14,5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 8.25 9 L 10.5 9 L 10.5 12 L 8.25 12 Z M 8.25 9"/>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 10.5 7.125 C 10.5 7.746094 9.996094 8.25 9.375 8.25 C 8.753906 8.25 8.25 7.746094 8.25 7.125 C 8.25 6.503906 8.753906 6 9.375 6 C 9.996094 6 10.5 6.503906 10.5 7.125 Z M 10.5 7.125"/>
+  <path style="fill:none;stroke-width:2;stroke:rgb(32.156863%,58.039216%,88.627451%)" d="M 4 11 C 4 5.479167 8.479167 1 14 1" transform="matrix(0.75,0,0,0.75,0,0)"/>
+  <path style="fill:none;stroke-width:2;stroke:rgb(32.156863%,58.039216%,88.627451%)" d="M 8 11 C 8 7.6875 10.6875 5 14 5" transform="matrix(0.75,0,0,0.75,0,0)"/>
+ </g>
 </svg>

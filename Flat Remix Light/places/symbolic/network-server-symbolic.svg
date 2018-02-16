@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="16" height="16" version="1.1">
- <g transform="translate(-506,-183.99664)">
-  <path style="fill:#555555" d="m 513,187.09375 c -2.27842,0.46623 -4,2.49 -4,4.90625 0,2.41625 1.72158,4.44002 4,4.90625 l 0,-9.8125 z m 2,0 0,9.8125 c 2.27842,-0.46623 4,-2.49 4,-4.90625 0,-2.41625 -1.72158,-4.44002 -4,-4.90625 z"/>
-  <rect style="fill:#555555" width="5" height="2" x="506" y="191"/>
-  <rect style="fill:#555555" width="5" height="2" x="517" y="191"/>
- </g>
-</svg>

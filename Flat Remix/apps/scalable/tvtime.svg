@@ -1,8 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="opacity:0.2" width="40" height="28" x="-54" y="-46" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#8e8e8e" width="40" height="28" x="-53" y="-46" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.2" width="38" height="52" x="-50" y="-58" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#5b5b5b" width="38" height="52" x="-49" y="-58" rx="2.5" ry="2.5" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.4" width="32" height="46" x="-46" y="-55" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 8.5,11 C 7.115,11 6,12.115 6,13.5 V 14.5 C 6,13.115 7.115,12 8.5,12 H 55.5 C 56.885,12 58,13.115 58,14.5 V 13.5 C 58,12.115 56.885,11 55.5,11 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 276 309 L 276 99 C 276 90.714844 269.285156 84 261 84 L 123 84 C 114.714844 84 108 90.714844 108 99 L 108 309 C 108 317.285156 114.714844 324 123 324 L 261 324 C 269.285156 324 276 317.285156 276 309 Z M 276 309"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 348 285 L 348 87 C 348 78.714844 341.285156 72 333 72 L 51 72 C 42.714844 72 36 78.714844 36 87 L 36 285 C 36 293.285156 42.714844 300 51 300 L 333 300 C 341.285156 300 348 293.285156 348 285 Z M 348 285"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.4"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 330 276 L 330 84 L 54 84 L 54 276 Z M 330 276"/>
+  </g>
+  <mask id="mask3">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
+   </g>
+  </mask>
+  <clipPath id="clip4">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface14" clip-path="url(#clip4)">
+   <path style="fill:rgb(100%,100%,100%)" d="M 51 66 C 42.691406 66 36 72.691406 36 81 L 36 87 C 36 78.691406 42.691406 72 51 72 L 333 72 C 341.308594 72 348 78.691406 348 87 L 348 81 C 348 72.691406 341.308594 66 333 66 Z M 51 66"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(55.686275%,55.686275%,55.686275%)" d="M 276 303 L 276 93 C 276 84.714844 269.285156 78 261 78 L 123 78 C 114.714844 78 108 84.714844 108 93 L 108 303 C 108 311.285156 114.714844 318 123 318 L 261 318 C 269.285156 318 276 311.285156 276 303 Z M 276 303"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <path style="fill:rgb(35.686275%,35.686275%,35.686275%)" d="M 348 279 L 348 81 C 348 72.714844 341.285156 66 333 66 L 51 66 C 42.714844 66 36 72.714844 36 81 L 36 279 C 36 287.285156 42.714844 294 51 294 L 333 294 C 341.285156 294 348 287.285156 348 279 Z M 348 279"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
+  <use mask="url(#mask3)" xlink:href="#surface14"/>
+ </g>
 </svg>

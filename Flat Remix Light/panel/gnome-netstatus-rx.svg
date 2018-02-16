@@ -1,1 +1,22 @@
-network-receive.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 7 6.503906 L 9.75 4.253906 L 7 2.003906 C 7.003906 2.007812 7 2.671875 7 3.003906 L 5.5 3.003906 L 5.5 5.503906 L 7 5.503906 Z M 7 6.503906"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 5 5.003906 L 2.25 7.253906 L 5 9.503906 C 4.996094 9.503906 5 8.839844 5 8.503906 L 6.5 8.503906 L 6.5 6.003906 L 5 6.003906 Z M 5 5.003906"/>
+ </g>
+</svg>

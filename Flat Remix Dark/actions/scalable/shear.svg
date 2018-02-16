@@ -1,1 +1,5 @@
-transform-shear-left.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2.5 2.5 L 2.5 7 L 3.933594 7 L 3.375 4.5 L 7.5 4.5 L 7.5 2.5 Z M 4 5 L 5 9.5 L 9.5 9.5 L 8.5 5 Z M 4 5"/>
+ </g>
+</svg>

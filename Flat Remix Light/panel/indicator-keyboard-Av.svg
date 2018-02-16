@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
- </defs>
- <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5.0002424,12.004811 3.9999998,0 m -3.9998998,2.999999 0,-5.9999988 m 3.9998998,5.9999988 0,-5.9999988 m -3.9999998,0 -1.51e-5,-0.9995519 c 0,-1 0,-1 2.0000148,-1.0004491 1.9999854,-4.491e-4 1.9999706,4.491e-4 1.9999854,1.0004491 l 1.47e-5,0.9995519"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="M 18.004315,7.0069167 15.504317,15.006917 13.004318,7.0069167"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 5 12.007812 L 9 12.007812 M 5 15.007812 L 5 9.007812 M 9 15.007812 L 9 9.007812 M 5 9.007812 L 5 8.007812 C 5 7.007812 5 7.007812 7 7.007812 C 9 7.007812 9 7.007812 9 8.007812 L 9 9.007812" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 18.007812 7.007812 L 15.507812 15.007812 L 13.007812 7.007812" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
 </svg>

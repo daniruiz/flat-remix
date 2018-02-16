@@ -1,1 +1,6 @@
-indicator-keyboard-Ph.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 5.007812 11 L 7.007812 11 C 7.429688 11 7.742188 11 8.007812 11 C 9.007812 11 9.007812 11 9.007812 10 C 9.007812 9.6875 9.007812 9.617188 9.007812 9 C 9.007812 8.585938 9.007812 8.265625 9.007812 8 C 9.007812 7 9.007812 7 8.007812 7 C 7.773438 7 7.429688 7.023438 7.085938 7.023438 C 6.007812 7.039062 5.007812 7 5.007812 7 M 5.007812 15 L 5.007812 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 13 11 L 17 11 M 17 15 L 17 7 M 13 15 L 13 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

@@ -1,1 +1,23 @@
-mouse-battery-medium.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 2.75 2 C 2.613281 2 2.5 2.113281 2.5 2.25 L 2.5 2.5 L 1.5 2.5 L 1.5 9.75 C 1.5 9.890625 1.613281 10 1.75 10 L 4.75 10 C 4.886719 10 5 9.890625 5 9.75 L 5 2.5 L 4 2.5 L 4 2.25 C 4 2.113281 3.886719 2 3.75 2 Z M 2.75 2"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 1.5 6 L 1.5 9.75 C 1.5 9.890625 1.613281 10 1.75 10 L 4.75 10 C 4.886719 10 5 9.890625 5 9.75 L 5 6 Z M 1.5 6"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 8.5 2 C 7.113281 2 6 3.339844 6 5 L 8.5 5 Z M 9 2 L 9 5 L 11.5 5 C 11.5 3.339844 10.386719 2 9 2 Z M 6 5.5 L 6 7 C 6 8.660156 7.113281 10 8.5 10 L 9 10 C 10.386719 10 11.5 8.660156 11.5 7 L 11.5 5.5 Z M 6 5.5"/>
+ </g>
+</svg>

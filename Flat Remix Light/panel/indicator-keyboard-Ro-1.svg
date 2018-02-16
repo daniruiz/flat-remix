@@ -1,1 +1,6 @@
-indicator-keyboard-Ro.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 9 15 L 7 12 M 5 11 L 7 11 C 7.429688 11 7.734375 11 8 11 C 9 11 9 11 9 10 C 9 9.742188 9 9.398438 9 9 L 9 8 C 9 7 9 7 8 7 C 7.78125 7 7.460938 7.007812 7.125 7.007812 C 6 7 5 7 5 7 M 5 15 L 5 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 15 7 C 17.40625 7 17 9 17 11 C 17 13 17.359375 15.0625 15 15 C 12.65625 15 13 13 13 11 C 13 9 12.570312 7 15 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

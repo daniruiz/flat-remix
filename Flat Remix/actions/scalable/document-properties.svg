@@ -1,1 +1,5 @@
-format-justify-fill.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 2.5 2.5 L 2.5 3.5 L 9.5 3.5 L 9.5 2.5 Z M 2.5 4.5 L 2.5 5.5 L 9.5 5.5 L 9.5 4.5 Z M 2.5 6.5 L 2.5 7.5 L 9.5 7.5 L 9.5 6.5 Z M 2.5 8.5 L 2.5 9.5 L 9.5 9.5 L 9.5 8.5 Z M 2.5 8.5"/>
+ </g>
+</svg>

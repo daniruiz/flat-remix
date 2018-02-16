@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5,14.999898 4.0000001,0 M 5,10.9999 l 4.0000001,0 M 5,6.9999014 l 4.0000001,0 M 5.0000998,15 l 0,-8.0000003"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 13.000051,14.000066 c 0,1 0,1 0.999998,1 0.359093,0 0.425299,2.18e-4 1.00001,3.2e-5 0.454553,-1.11e-4 -1.1e-5,-3.2e-5 0.999992,-3.2e-5 0,0 0.999991,0 0.999998,-1 l 8e-6,-1.000449 c 0,-4.2143851 -3.999999,0.211162 -3.988018,-3.9907051 -0.0025,-0.4205455 -0.01209,-0.7453845 -0.01209,-1.0088458 0,-0.9999999 0.999999,-0.9999999 0.999999,-0.9999999 0.251868,0 0.631707,-4.498e-4 1.00001,-4.491e-4 0.347679,0 0.741252,4.491e-4 0.999991,4.491e-4 0.999999,0 0.999999,0 0.999999,0.9999999"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 5 15 L 9 15 M 5 11 L 9 11 M 5 7 L 9 7 M 5 15 L 5 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 13 14 C 13 15 13 15 14 15 C 14.359375 15 14.421875 15 15 15 C 15.453125 15 15 15 16 15 C 16 15 17 15 17 14 L 17 13 C 17 8.789062 13 13.210938 13.015625 9.007812 C 13.007812 8.585938 13 8.265625 13 8 C 13 7 14 7 14 7 C 14.25 7 14.632812 7 15 7 C 15.34375 7 15.742188 7 16 7 C 17 7 17 7 17 8" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
 </svg>

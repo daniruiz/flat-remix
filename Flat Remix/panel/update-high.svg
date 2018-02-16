@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 7,1 C 3.1340068,1 0,4.1340068 0,8 c 0,3.865993 3.1340068,7 7,7 3.865993,0 7,-3.134007 7,-7 C 14,4.1340068 10.865993,1 7,1 Z M 6,4 8,4 8,8 10.5,8 7,13 3.5,8 6,8 Z"/>
- <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="14.5" cy="13.5" r="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 5.25 0.75 C 2.351562 0.75 0 3.101562 0 6 C 0 8.898438 2.351562 11.25 5.25 11.25 C 8.148438 11.25 10.5 8.898438 10.5 6 C 10.5 3.101562 8.148438 0.75 5.25 0.75 Z M 4.5 3 L 6 3 L 6 6 L 7.875 6 L 5.25 9.75 L 2.625 6 L 4.5 6 Z M 4.5 3"/>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 12 10.125 C 12 10.746094 11.496094 11.25 10.875 11.25 C 10.253906 11.25 9.75 10.746094 9.75 10.125 C 9.75 9.503906 10.253906 9 10.875 9 C 11.496094 9 12 9.503906 12 10.125 Z M 12 10.125"/>
+ </g>
 </svg>

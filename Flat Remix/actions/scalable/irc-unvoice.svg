@@ -1,1 +1,5 @@
-player-volume-muted.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 6 2.5 L 4 4.546875 L 2.546875 4.546875 L 2.546875 7.453125 L 4 7.453125 L 6 9.5 Z M 6 2.5"/>
+ </g>
+</svg>

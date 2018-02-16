@@ -1,1 +1,6 @@
-indicator-keyboard-Mk.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 10 15 L 10 7 M 4 7 L 7 11 L 10 7 M 4 15 L 4 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 18 15 L 14 10 M 18 7 L 14 12 M 14 15 L 14 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

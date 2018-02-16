@@ -1,14 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
- <path style="opacity:0.2" d="m 4,54.8008 0,2 C 4,59.1276 5.87242,61 8.1992,61 l 47.602,0 c 2.326,0 4.198,-2 4.198,-4.2 l 0,-2 c 0,2.3268 -1.87242,4.1992 -4.1992,4.1992 l -47.602,0 c -2.3256,0 -4.198,-2 -4.198,-4.2 z"/>
- <rect style="fill:#3465a4" width="56" height="56" x="-60" y="-60" rx="4.2" ry="4.2" transform="matrix(0,-1,-1,0,0,0)"/>
- <g style="opacity:0.2" transform="matrix(2,0,0,2,0,-2039.7992)">
-  <path d="m 7,10 0,14 10,0 0,-3 -7,0 0,-11 -3,0 z m 8,0 0,3 7,0 0,11 3,0 0,-14 -10,0 z" transform="translate(0,1019.4)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 24 328.804688 L 24 340.804688 C 24 354.765625 35.234375 366 49.195312 366 L 334.808594 366 C 348.761719 366 359.996094 354 359.996094 340.800781 L 359.996094 328.800781 C 359.996094 342.761719 348.761719 353.996094 334.800781 353.996094 L 49.1875 353.996094 C 35.234375 353.996094 24 341.996094 24 328.796875 Z M 24 328.804688"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 84 114.003906 L 84 282.003906 L 204 282.003906 L 204 246.003906 L 120 246.003906 L 120 114.003906 Z M 180 114.003906 L 180 150.003906 L 264 150.003906 L 264 282.003906 L 300 282.003906 L 300 114.003906 Z M 180 114.003906"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(100%,100%,100%)" d="M 49.195312 24 C 35.234375 24 24 35.234375 24 49.195312 L 24 55.195312 C 24 41.234375 35.234375 30 49.195312 30 L 334.792969 30 C 348.761719 30 360 41.234375 360 55.195312 L 360 49.195312 C 360 35.234375 348.761719 24 334.792969 24 Z M 49.195312 24"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(20.392157%,39.607843%,64.313725%)" d="M 360 334.800781 L 360 49.199219 C 360 35.28125 348.71875 24 334.800781 24 L 49.199219 24 C 35.28125 24 24 35.28125 24 49.199219 L 24 334.800781 C 24 348.71875 35.28125 360 49.199219 360 L 334.800781 360 C 348.71875 360 360 348.71875 360 334.800781 Z M 360 334.800781"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 84 108.003906 L 120 108.003906 L 120 276.003906 L 84 276.003906 Z M 84 108.003906"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 204 240.003906 L 204 276.003906 L 84 276.003906 L 84 240.003906 Z M 204 240.003906"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 300 276.003906 L 264 276.003906 L 264 108.003906 L 300 108.003906 Z M 300 276.003906"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 180 144.003906 L 180 108.003906 L 300 108.003906 L 300 144.003906 Z M 180 144.003906"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
  </g>
- <g style="fill:#ffffff" transform="matrix(2,0,0,2,0,-2040.7992)">
-  <rect width="3" height="14" x="7" y="1029.4"/>
-  <rect width="3" height="10" x="1040.4" y="-17" transform="matrix(0,1,-1,0,0,0)"/>
-  <rect width="3" height="14" x="-25" y="-1043.4" transform="scale(-1,-1)"/>
-  <rect width="3" height="10" x="-1032.4" y="15" transform="matrix(0,-1,1,0,0,0)"/>
- </g>
- <path style="opacity:0.2;fill:#ffffff" d="M 8.1992188 4 C 5.8724188 4 4 5.8724187 4 8.1992188 L 4 9.1992188 C 4 6.8724187 5.8724188 5 8.1992188 5 L 55.798828 5 C 58.126828 5 60 6.8724187 60 9.1992188 L 60 8.1992188 C 60 5.8724187 58.126828 4 55.798828 4 L 8.1992188 4 z"/>
 </svg>

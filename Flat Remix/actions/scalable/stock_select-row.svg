@@ -1,1 +1,5 @@
-object-rows.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 3 3.5 L 3 4.5 L 9 4.5 L 9 3.5 Z M 3 5.5 L 3 6.5 L 9 6.5 L 9 5.5 Z M 3 7.5 L 3 8.5 L 9 8.5 L 9 7.5 Z M 3 7.5"/>
+ </g>
+</svg>

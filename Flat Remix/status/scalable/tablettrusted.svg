@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" version="1.1" viewBox="0 0 36 36">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.501961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 30.375 25.875 L 30.375 10.125 L 5.625 10.125 L 5.625 25.875 Z M 30.375 25.875"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(100%,100%,100%)" d="M 4.839844 7.875 C 4.027344 7.875 3.375 8.503906 3.375 9.28125 L 3.375 10.40625 C 3.375 9.628906 4.027344 9 4.839844 9 L 31.160156 9 C 31.972656 9 32.625 9.628906 32.625 10.40625 L 32.625 9.28125 C 32.625 8.503906 31.972656 7.875 31.160156 7.875 Z M 4.839844 7.875"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 3.375 26.71875 L 3.375 27.84375 C 3.375 28.621094 4.027344 29.25 4.839844 29.25 L 31.160156 29.25 C 31.972656 29.25 32.625 28.621094 32.625 27.84375 L 32.625 26.71875 C 32.625 27.496094 31.972656 28.125 31.160156 28.125 L 4.839844 28.125 C 4.027344 28.125 3.375 27.496094 3.375 26.71875 Z M 3.375 26.71875"/>
+  </g>
+ </defs>
+ <g>
+  <path style="fill:rgb(55.686275%,55.686275%,55.686275%)" d="M 32.625 26.71875 L 32.625 9.28125 C 32.625 8.503906 31.972656 7.875 31.164062 7.875 L 4.835938 7.875 C 4.027344 7.875 3.375 8.503906 3.375 9.28125 L 3.375 26.71875 C 3.375 27.496094 4.027344 28.125 4.835938 28.125 L 31.164062 28.125 C 31.972656 28.125 32.625 27.496094 32.625 26.71875 Z M 32.625 26.71875"/>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
+ </g>
+</svg>

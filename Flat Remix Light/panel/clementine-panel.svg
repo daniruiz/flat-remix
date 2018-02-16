@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 4.289062 2.066406 C 3.644531 2.773438 3.25 3.714844 3.25 4.75 C 3.25 6.960938 5.039062 8.75 7.253906 8.75 C 8.285156 8.75 9.226562 8.355469 9.933594 7.714844 C 9.875 7.566406 9.773438 7.425781 9.621094 7.304688 C 9.019531 6.800781 7.910156 6.445312 6.75 5.292969 C 5.527344 4.078125 5.175781 2.929688 4.664062 2.335938 C 4.550781 2.207031 4.425781 2.117188 4.289062 2.066406 Z M 4.289062 2.066406"/>
+  </g>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.4017,1.0001 A 8.2023,8.2023 0 0 0 3.4017,12.599 8.2023,8.2023 0 0 0 15,12.599 L 13.711,11.31 A 6.3796,6.3796 0 0 1 4.6902,11.31 6.3796,6.3796 0 0 1 4.6902,2.2886 L 3.4014,0.99987 Z M 5.3187,2.9813 A 5.4682,5.4682 0 0 0 4.0478,6.0536 H 8.3908 Z M 4.0407,6.9653 A 5.4682,5.4682 0 0 0 5.3187,10.038 L 8.3908,6.9653 Z M 9.0351,7.6097 5.9632,10.682 A 5.4682,5.4682 0 0 0 9.0351,11.952 Z M 9.9465,7.6097 V 11.96 A 5.4682,5.4682 0 0 0 13.019,10.682 Z"/>
+ <g>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 3.925781 2 C 2.464844 2.066406 0.621094 5.507812 3.574219 8.441406 C 6.574219 11.414062 10.101562 9.488281 9.996094 7.996094 C 9.230469 8.644531 8.257812 9 7.253906 9 C 4.902344 9 3 7.097656 3 4.75 C 3.003906 3.742188 3.359375 2.769531 4.011719 2.003906 C 3.984375 2.003906 3.953125 2 3.925781 2 Z M 3.925781 2"/>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+ </g>
 </svg>

@@ -1,1 +1,5 @@
-./bookmark-new.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 4 2 C 4 2 3.5 2 3.5 2.5 L 3.5 9.5 L 6 8 L 8.5 9.5 L 8.5 2.5 C 8.5 2.5 8.5 2 8 2 Z M 5.5 3.5 L 6.5 3.5 L 6.5 4.5 L 7.5 4.5 L 7.5 5.5 L 6.5 5.5 L 6.5 6.5 L 5.5 6.5 L 5.5 5.5 L 4.5 5.5 L 4.5 4.5 L 5.5 4.5 Z M 5.5 3.5"/>
+ </g>
+</svg>

@@ -1,25 +1,206 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" version="1.1" viewBox="0 0 512 512">
- <g transform="matrix(2.6338384,0,0,2.6338384,-13.514424,-822.79608)">
-  <rect style="opacity:0.2;fill:#3ecdf6;fill-rule:evenodd" width="34.248" height="34.248" x="153.51" y="460.68"/>
-  <rect style="opacity:0.4;fill:#3ecdf6;fill-rule:evenodd" width="34.248" height="34.248" x="119.23" y="460.68"/>
-  <rect style="opacity:0.6;fill:#3ecdf6;fill-rule:evenodd" width="34.248" height="34.248" x="85.41" y="460.68"/>
-  <rect style="opacity:0.8;fill:#3ecdf6;fill-rule:evenodd" width="34.248" height="34.248" x="51.35" y="460.68"/>
-  <rect style="opacity:0.2;fill:#8e44ad;fill-rule:evenodd" width="34.248" height="34.248" x="-98.16" y="409.88" transform="rotate(-31.034869)"/>
-  <path style="fill:#3ecdf6;fill-rule:evenodd" d="m 52.381229,460.67567 h -17.45313 -0.64062 -2.1543 v 0.15235 c -8.28171,1.05366 -14.64844,8.07528 -14.64844,16.65234 v 0.64062 c 0,8.57706 6.36673,15.59673 14.64844,16.6504 v 0.15234 h 2.1543 0.64062 17.45313 z"/>
-  <rect style="opacity:0.4;fill:#8e44ad;fill-rule:evenodd" width="34.248" height="34.248" x="-132.44" y="409.88" transform="rotate(-31.034869)"/>
-  <rect style="opacity:0.2;fill:#ffc831;fill-rule:evenodd" width="34.248" height="34.248" x="16.93" y="324.15"/>
-  <rect style="opacity:0.6;fill:#8e44ad;fill-rule:evenodd" width="34.248" height="34.248" x="-166.26" y="409.88" transform="rotate(-31.034869)"/>
-  <rect style="opacity:0.2;fill:#f64747;fill-rule:evenodd" width="34.248" height="34.248" x="-276.63" y="252.62" transform="rotate(-59.875283)"/>
-  <rect style="opacity:0.4;fill:#ffc831;fill-rule:evenodd" width="34.248" height="34.248" x="16.93" y="358.3"/>
-  <rect style="opacity:0.4;fill:#f64747;fill-rule:evenodd" width="34.248" height="34.248" x="-310.91" y="252.62" transform="rotate(-59.875283)"/>
-  <rect style="opacity:0.8;fill:#8e44ad;fill-rule:evenodd" width="34.248" height="34.248" x="-200.32" y="409.88" transform="rotate(-31.034869)"/>
-  <rect style="opacity:0.6;fill:#f64747;fill-rule:evenodd" width="34.248" height="34.248" x="-344.73" y="252.62" transform="rotate(-59.875283)"/>
-  <rect style="opacity:0.8;fill:#f64747;fill-rule:evenodd" width="34.248" height="34.248" x="-378.79" y="252.62" transform="rotate(-59.875283)"/>
-  <rect style="opacity:0.6;fill:#ffc831;fill-rule:evenodd" width="34.248" height="34.248" x="16.93" y="392.49"/>
-  <path style="fill:#8e44ad;fill-rule:evenodd" d="m 40.554893,453.95189 -14.95478,8.99813 -0.54891,0.33028 -1.84592,1.11067 0.0785,0.13054 c -6.55298,5.17255 -8.38827,14.47148 -3.96629,21.82077 l 0.33028,0.54891 c 4.42199,7.34929 13.4964,10.0817 21.13584,6.71482 l 0.0786,0.13053 1.84591,-1.11067 0.54892,-0.33029 14.95478,-8.99813 z"/>
-  <path style="fill:#f64747;fill-rule:evenodd" d="m 28.910747,453.5223 -8.75944,15.09583 -0.32151,0.55409 -1.08121,1.86333 0.13173,0.0765 c -3.2451,7.69195 -0.36721,16.72279 7.05138,21.02749 l 0.5541,0.32151 c 7.4186,4.30469 16.68552,2.32095 21.75332,-4.31338 l 0.13182,0.0764 1.0812,-1.86332 0.32151,-0.55411 8.75945,-15.09582 z"/>
-  <rect style="opacity:0.8;fill:#ffc831;fill-rule:evenodd" width="34.248" height="34.248" x="16.93" y="426.45"/>
-  <path style="fill:#ffc831;fill-rule:evenodd" d="m 16.927734,459.93828 v 17.45313 0.64062 2.1543 h 0.152344 c 1.053667,8.28171 8.075286,14.64844 16.652344,14.64844 h 0.640625 c 8.577058,0 15.596724,-6.36673 16.650391,-14.64844 h 0.152343 v -2.1543 -0.64062 -17.45313 z"/>
-  <path style="fill:#ffffff;fill-rule:evenodd" d="m 41.189405,479.98756 a 7.5968022,7.5968022 0 0 1 -9.732735,4.53878 7.5968022,7.5968022 0 0 1 -4.546885,-9.72895 7.5968022,7.5968022 0 0 1 9.725157,-4.55499 7.5968022,7.5968022 0 0 1 4.563094,9.72135"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill-rule:evenodd;fill:rgb(24.313725%,80.392157%,96.470588%)" d="M 293.105469 292.921875 L 360.757812 292.921875 L 360.757812 360.574219 L 293.105469 360.574219 Z M 293.105469 292.921875"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.4"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill-rule:evenodd;fill:rgb(24.313725%,80.392157%,96.470588%)" d="M 225.386719 292.921875 L 293.042969 292.921875 L 293.042969 360.574219 L 225.386719 360.574219 Z M 225.386719 292.921875"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.6"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill-rule:evenodd;fill:rgb(24.313725%,80.392157%,96.470588%)" d="M 158.582031 292.921875 L 226.234375 292.921875 L 226.234375 360.574219 L 158.582031 360.574219 Z M 158.582031 292.921875"/>
+  </g>
+  <mask id="mask3">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.8"/>
+   </g>
+  </mask>
+  <clipPath id="clip4">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface14" clip-path="url(#clip4)">
+   <path style="fill-rule:evenodd;fill:rgb(24.313725%,80.392157%,96.470588%)" d="M 91.300781 292.921875 L 158.953125 292.921875 L 158.953125 360.574219 L 91.300781 360.574219 Z M 91.300781 292.921875"/>
+  </g>
+  <mask id="mask4">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip5">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface17" clip-path="url(#clip5)">
+   <path style="fill-rule:evenodd;fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 241.148438 176.640625 L 299.117188 141.761719 L 333.996094 199.726562 L 276.027344 234.605469 Z M 241.148438 176.640625"/>
+  </g>
+  <mask id="mask5">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.4"/>
+   </g>
+  </mask>
+  <clipPath id="clip6">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface20" clip-path="url(#clip6)">
+   <path style="fill-rule:evenodd;fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 183.128906 211.550781 L 241.09375 176.671875 L 275.976562 234.640625 L 218.007812 269.519531 Z M 183.128906 211.550781"/>
+  </g>
+  <mask id="mask6">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip7">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface23" clip-path="url(#clip7)">
+   <path style="fill-rule:evenodd;fill:rgb(100%,78.431373%,19.215686%)" d="M 23.308594 23.222656 L 90.960938 23.222656 L 90.960938 90.875 L 23.308594 90.875 Z M 23.308594 23.222656"/>
+  </g>
+  <mask id="mask7">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.6"/>
+   </g>
+  </mask>
+  <clipPath id="clip8">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface26" clip-path="url(#clip8)">
+   <path style="fill-rule:evenodd;fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 125.882812 245.992188 L 183.851562 211.113281 L 218.730469 269.082031 L 160.761719 303.960938 Z M 125.882812 245.992188"/>
+  </g>
+  <mask id="mask8">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip9">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface29" clip-path="url(#clip9)">
+   <path style="fill-rule:evenodd;fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 147.230469 105.996094 L 181.183594 47.480469 L 239.699219 81.433594 L 205.746094 139.949219 Z M 147.230469 105.996094"/>
+  </g>
+  <mask id="mask9">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.4"/>
+   </g>
+  </mask>
+  <clipPath id="clip10">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface32" clip-path="url(#clip10)">
+   <path style="fill-rule:evenodd;fill:rgb(100%,78.431373%,19.215686%)" d="M 23.308594 90.679688 L 90.960938 90.679688 L 90.960938 158.332031 L 23.308594 158.332031 Z M 23.308594 90.679688"/>
+  </g>
+  <mask id="mask10">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.4"/>
+   </g>
+  </mask>
+  <clipPath id="clip11">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface35" clip-path="url(#clip11)">
+   <path style="fill-rule:evenodd;fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 113.246094 164.566406 L 147.199219 106.050781 L 205.714844 140.003906 L 171.761719 198.519531 Z M 113.246094 164.566406"/>
+  </g>
+  <mask id="mask11">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.8"/>
+   </g>
+  </mask>
+  <clipPath id="clip12">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface38" clip-path="url(#clip12)">
+   <path style="fill-rule:evenodd;fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 68.234375 280.679688 L 126.203125 245.800781 L 161.082031 303.769531 L 103.113281 338.648438 Z M 68.234375 280.679688"/>
+  </g>
+  <mask id="mask12">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.6"/>
+   </g>
+  </mask>
+  <clipPath id="clip13">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface41" clip-path="url(#clip13)">
+   <path style="fill-rule:evenodd;fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 79.714844 222.351562 L 113.667969 163.835938 L 172.183594 197.789062 L 138.230469 256.304688 Z M 79.714844 222.351562"/>
+  </g>
+  <mask id="mask13">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.8"/>
+   </g>
+  </mask>
+  <clipPath id="clip14">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface44" clip-path="url(#clip14)">
+   <path style="fill-rule:evenodd;fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 45.949219 280.542969 L 79.902344 222.027344 L 138.417969 255.984375 L 104.464844 314.496094 Z M 45.949219 280.542969"/>
+  </g>
+  <mask id="mask14">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.6"/>
+   </g>
+  </mask>
+  <clipPath id="clip15">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface47" clip-path="url(#clip15)">
+   <path style="fill-rule:evenodd;fill:rgb(100%,78.431373%,19.215686%)" d="M 23.308594 158.21875 L 90.960938 158.21875 L 90.960938 225.871094 L 23.308594 225.871094 Z M 23.308594 158.21875"/>
+  </g>
+  <mask id="mask15">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.8"/>
+   </g>
+  </mask>
+  <clipPath id="clip16">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface50" clip-path="url(#clip16)">
+   <path style="fill-rule:evenodd;fill:rgb(100%,78.431373%,19.215686%)" d="M 23.308594 225.304688 L 90.960938 225.304688 L 90.960938 292.957031 L 23.308594 292.957031 Z M 23.308594 225.304688"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
+  <use mask="url(#mask3)" xlink:href="#surface14"/>
+  <use mask="url(#mask4)" xlink:href="#surface17"/>
+  <path style="fill-rule:evenodd;fill:rgb(24.313725%,80.392157%,96.470588%)" d="M 93.335938 292.910156 L 53.339844 292.910156 L 53.339844 293.210938 C 36.980469 295.292969 24.402344 309.164062 24.402344 326.109375 L 24.402344 327.371094 C 24.402344 344.316406 36.980469 358.183594 53.339844 360.265625 L 53.339844 360.566406 L 93.335938 360.566406 Z M 93.335938 292.910156"/>
+  <use mask="url(#mask5)" xlink:href="#surface20"/>
+  <use mask="url(#mask6)" xlink:href="#surface23"/>
+  <use mask="url(#mask7)" xlink:href="#surface26"/>
+  <use mask="url(#mask8)" xlink:href="#surface29"/>
+  <use mask="url(#mask9)" xlink:href="#surface32"/>
+  <use mask="url(#mask10)" xlink:href="#surface35"/>
+  <use mask="url(#mask11)" xlink:href="#surface38"/>
+  <use mask="url(#mask12)" xlink:href="#surface41"/>
+  <use mask="url(#mask13)" xlink:href="#surface44"/>
+  <use mask="url(#mask14)" xlink:href="#surface47"/>
+  <path style="fill-rule:evenodd;fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 69.976562 279.628906 L 40.433594 297.40625 L 39.351562 298.058594 L 35.703125 300.25 L 35.859375 300.507812 C 22.914062 310.726562 19.289062 329.09375 28.023438 343.613281 L 28.675781 344.699219 C 37.410156 359.214844 55.335938 364.613281 70.425781 357.960938 L 70.582031 358.21875 L 74.230469 356.027344 L 75.3125 355.375 L 104.855469 337.597656 Z M 69.976562 279.628906"/>
+  <path style="fill-rule:evenodd;fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 46.972656 278.78125 L 29.671875 308.601562 L 29.035156 309.695312 L 26.898438 313.375 L 27.160156 313.527344 C 20.75 328.722656 26.433594 346.5625 41.089844 355.066406 L 42.183594 355.699219 C 56.839844 364.203125 75.144531 360.285156 85.15625 347.179688 L 85.414062 347.332031 L 87.550781 343.648438 L 88.1875 342.554688 L 105.488281 312.734375 Z M 46.972656 278.78125"/>
+  <use mask="url(#mask15)" xlink:href="#surface50"/>
+  <path style="fill-rule:evenodd;fill:rgb(100%,78.431373%,19.215686%)" d="M 23.304688 291.457031 L 23.304688 331.453125 L 23.605469 331.453125 C 25.683594 347.8125 39.554688 360.390625 56.5 360.390625 L 57.765625 360.390625 C 74.707031 360.390625 88.574219 347.8125 90.65625 331.453125 L 90.957031 331.453125 L 90.957031 291.457031 Z M 23.304688 291.457031"/>
+  <path style="fill-rule:evenodd;fill:rgb(100%,100%,100%)" d="M 71.230469 331.058594 C 68.394531 338.84375 59.789062 342.855469 52.003906 340.027344 C 44.21875 337.195312 40.199219 328.59375 43.019531 320.808594 C 45.84375 313.019531 54.441406 308.992188 62.230469 311.808594 C 70.023438 314.625 74.054688 323.222656 71.246094 331.011719"/>
  </g>
 </svg>

@@ -1,8 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6 0 C 4.753906 0 3.75 1.003906 3.75 2.25 L 3.75 6 C 3.75 7.246094 4.753906 8.25 6 8.25 C 7.246094 8.25 8.25 7.246094 8.25 6 L 8.25 2.25 C 8.25 1.003906 7.246094 0 6 0 Z M 6 1.5 C 6.414062 1.5 6.75 1.835938 6.75 2.25 L 6.75 6 C 6.75 6.414062 6.414062 6.75 6 6.75 C 5.585938 6.75 5.25 6.414062 5.25 6 L 5.25 2.25 C 5.25 1.835938 5.585938 1.5 6 1.5 Z M 1.5 5.25 L 1.5 6 C 1.5 8.226562 3.121094 10.074219 5.25 10.433594 L 5.25 12 L 6.75 12 L 6.75 10.433594 C 8.878906 10.074219 10.5 8.226562 10.5 6 L 10.5 5.25 L 9 5.25 L 9 6 C 9 7.671875 7.671875 9 6 9 C 4.328125 9 3 7.671875 3 6 L 3 5.25 Z M 1.5 5.25"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,0 C 6.34,0 5,1.34 5,3 V 8 C 5,9.66 6.34,11 8,11 9.66,11 11,9.66 11,8 V 3 C 11,1.34 9.66,0 8,0 Z M 8,2 C 8.55,2 9,2.45 9,3 V 8 C 9,8.55 8.55,9 8,9 7.45,9 7,8.55 7,8 V 3 C 7,2.45 7.45,2 8,2 Z M 2,7 V 8 C 2,10.97 4.16,13.43 7,13.91 V 16 H 9 V 13.91 C 11.84,13.43 14,10.97 14,8 V 7 H 12 V 8 C 12,10.23 10.23,12 8,12 5.77,12 4,10.23 4,8 V 7 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+ </g>
 </svg>

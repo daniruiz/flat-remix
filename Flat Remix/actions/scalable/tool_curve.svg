@@ -1,1 +1,5 @@
-format-segment-curve.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 8 2.5 L 8 3.089844 C 5.484375 3.515625 3.511719 5.484375 3.085938 8 L 2.5 8 L 2.5 9.5 L 4 9.5 L 4 8 L 3.59375 8 C 4.011719 5.761719 5.761719 4.011719 8 3.59375 L 8 4 L 9.5 4 L 9.5 2.5 Z M 8 2.5"/>
+ </g>
+</svg>

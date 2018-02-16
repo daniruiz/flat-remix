@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 9.5 2.503906 L 7.5 4.503906 L 9.5 4.503906 Z M 4.5 7.503906 L 2.5 9.503906 L 9.5 9.503906 L 9.5 7.503906 Z M 4.5 7.503906"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 15,1.01 11,5.01 H 15 Z M 5,11.01 1,15.01 H 15 V 11.01 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,6.01 C 1.89,6.01 1,6.9 1,8.01 1,9.12 1.89,10.01 3,10.01 4.11,10.01 5,9.12 5,8.01 5,6.9 4.11,6.01 3,6.01 Z M 8,6.01 C 6.89,6.01 6,6.9 6,8.01 6,9.12 6.89,10.01 8,10.01 9.11,10.01 10,9.12 10,8.01 10,6.9 9.11,6.01 8,6.01 Z M 13,6.01 C 11.89,6.01 11,6.9 11,8.01 11,9.12 11.89,10.01 13,10.01 14.11,10.01 15,9.12 15,8.01 15,6.9 14.11,6.01 13,6.01 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 3.5 5.003906 C 2.945312 5.003906 2.5 5.449219 2.5 6.003906 C 2.5 6.558594 2.945312 7.003906 3.5 7.003906 C 4.054688 7.003906 4.5 6.558594 4.5 6.003906 C 4.5 5.449219 4.054688 5.003906 3.5 5.003906 Z M 6 5.003906 C 5.445312 5.003906 5 5.449219 5 6.003906 C 5 6.558594 5.445312 7.003906 6 7.003906 C 6.554688 7.003906 7 6.558594 7 6.003906 C 7 5.449219 6.554688 5.003906 6 5.003906 Z M 8.5 5.003906 C 7.945312 5.003906 7.5 5.449219 7.5 6.003906 C 7.5 6.558594 7.945312 7.003906 8.5 7.003906 C 9.054688 7.003906 9.5 6.558594 9.5 6.003906 C 9.5 5.449219 9.054688 5.003906 8.5 5.003906 Z M 8.5 5.003906"/>
+ </g>
 </svg>

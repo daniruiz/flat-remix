@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 5.0000539,14.000066 c 0,1 0,1 0.9999987,1 0.3590928,0 0.4252988,2.18e-4 1.00001,3.2e-5 0.4545524,-1.11e-4 -1.14e-5,-3.2e-5 0.9999911,-3.2e-5 0,0 0.9999912,0 0.9999987,-1 l 7.6e-6,-1.00045 c 0,-4.214384 -3.9999986,0.211163 -3.9880175,-3.9907039 -0.00253,-0.4205456 -0.012095,-0.7453846 -0.012095,-1.0088459 0,-0.9999999 0.9999987,-0.9999999 0.9999987,-0.9999999 0.2518677,0 0.6317065,-4.499e-4 1.0000101,-4.492e-4 0.3476787,0 0.7412522,4.492e-4 0.9999911,4.492e-4 0.9999987,0 0.9999987,0 0.9999987,0.9999999"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 12.992929,7.0070709 0,8.0000011 3.999999,0 0,0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 5 14 C 5 15 5 15 6 15 C 6.359375 15 6.421875 15 7 15 C 7.453125 15 7 15 8 15 C 8 15 9 15 9 14 L 9 13 C 9 8.789062 5 13.210938 5.015625 9.007812 C 5.007812 8.585938 5 8.265625 5 8 C 5 7 6 7 6 7 C 6.25 7 6.632812 7 7 7 C 7.34375 7 7.742188 7 8 7 C 9 7 9 7 9 8" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 12.992188 7.007812 L 12.992188 15.007812 L 16.992188 15.007812" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
 </svg>

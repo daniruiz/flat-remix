@@ -1,10 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 6.015625 3 C 4.5 3 3.132812 3.636719 2 4.507812 L 6.015625 9 L 6.5 8.453125 L 6.5 7.5 L 7.007812 7.5 C 7.015625 6.683594 7.679688 6 8.5 6 C 8.554688 6 8.605469 6.011719 8.65625 6.015625 L 10 4.5 C 8.871094 3.636719 7.519531 3 6.015625 3 Z M 6.015625 3"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8.031,2 C 4.9969,2 2.2653,3.2711 0,5.0156 L 8.031,14 9,12.906 V 11 H 10.014 C 10.033,9.365 11.356,8 13,8 13.108,8 13.21,8.022 13.314,8.033 L 16,5 C 13.743,3.2748 11.042,2 8.031,2 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,9 C 6,9 4.4492,10 4.4492,10 L 8,14 C 8.255,13.699 8.653,13.257 9,12.863 V 11 H 10.014 C 10.02,10.444 10.186,9.925 10.455,9.475 9.823,9.233 8.966,9 8,9 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 13,9 C 11.892,9 11,9.911 11,11.031 V 12 H 10 V 16 H 16 V 12 H 15 V 11.031 C 15,9.911 14.108,9 13,9 Z M 13,10 C 13.554,10 14,10.442 14,11 V 12 H 12 V 11 C 12,10.442 12.446,10 13,10 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 6 6.5 C 5 6.5 4.222656 7 4.226562 7 L 6 9 C 6.128906 8.847656 6.328125 8.628906 6.5 8.429688 L 6.5 7.5 L 7.007812 7.5 C 7.011719 7.222656 7.09375 6.960938 7.226562 6.738281 C 6.910156 6.617188 6.484375 6.5 6 6.5 Z M 6 6.5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 8.5 6.5 C 7.945312 6.5 7.5 6.957031 7.5 7.515625 L 7.5 8 L 7 8 L 7 10 L 10 10 L 10 8 L 9.5 8 L 9.5 7.515625 C 9.5 6.957031 9.054688 6.5 8.5 6.5 Z M 8.5 7 C 8.777344 7 9 7.222656 9 7.5 L 9 8 L 8 8 L 8 7.5 C 8 7.222656 8.222656 7 8.5 7 Z M 8.5 7"/>
+ </g>
 </svg>

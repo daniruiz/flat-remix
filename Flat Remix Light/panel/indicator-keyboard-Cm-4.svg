@@ -1,1 +1,6 @@
-indicator-keyboard-Cm.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 8 14 C 8 15 8 15 7 15 C 6.601562 15 5.257812 15 5 15 C 4.539062 15 4 15 4 14 L 4 8 C 4 7 4 7 5 7 C 5.429688 7 5.8125 7 6 7 C 6.421875 7 6.453125 7 7 7 C 8 7 8 7 8 8" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 18 15 L 18 7 M 12 7 L 15 11 L 18 7 M 12 15 L 12 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

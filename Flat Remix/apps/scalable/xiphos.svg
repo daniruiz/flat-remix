@@ -1,11 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 60 336 L 60 348 C 60 357.972656 68.027344 366 78 366 L 306 366 C 315.972656 366 324 357.972656 324 348 L 324 336 C 324 345.972656 315.972656 354 306 354 L 78 354 C 68.027344 354 60 345.972656 60 336 Z M 60 336"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 78 24 C 68.027344 24 60 32.027344 60 42 L 60 342 C 60 351.972656 68.027344 360 78 360 L 108 360 L 108 24 Z M 78 24"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(100%,100%,100%)" d="M 78 24 C 68.027344 24 60 32.027344 60 42 L 60 48 C 60 38.027344 68.027344 30 78 30 L 306 30 C 315.972656 30 324 38.027344 324 48 L 324 42 C 324 32.027344 315.972656 24 306 24 Z M 78 24"/>
+  </g>
+  <mask id="mask3">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip4">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface14" clip-path="url(#clip4)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 192 78 L 192 138 L 132 138 L 132 186 L 192 186 L 192 318 L 240 318 L 240 186 L 300 186 L 300 138 L 240 138 L 240 78 Z M 192 78"/>
+  </g>
+ </defs>
  <g>
-  <path style="opacity:0.2" d="m 10,56 0,2 c 0,1.662 1.338,3 3,3 l 38,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 l -38,0 c -1.662,0 -3,-1.338 -3,-3 z"/>
-  <path style="fill:#961a1a" d="m 13,4 c -1.662,0 -3,1.338 -3,3 l 0,50 c 0,1.662 1.338,3 3,3 l 38,0 c 1.662,0 3,-1.338 3,-3 L 54,7 C 54,5.338 52.662,4 51,4 L 13,4 Z"/>
-  <path style="opacity:0.2" d="m 13,4 c -1.662,0 -3,1.338 -3,3 l 0,50 c 0,1.662 1.338,3 3,3 l 5,0 0,-56 z"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 13 4 C 11.338 4 10 5.338 10 7 L 10 8 C 10 6.338 11.338 5 13 5 L 51 5 C 52.662 5 54 6.338 54 8 L 54 7 C 54 5.338 52.662 4 51 4 L 13 4 z"/>
-  <path style="opacity:0.2" d="M 32,13 V 23 H 22 v 8 h 10 v 22 h 8 V 31 H 50 V 23 H 40 V 13 Z"/>
-  <rect style="fill:#ffffff" width="8" height="40" x="32" y="12"/>
-  <rect style="fill:#ffffff" width="8" height="28" x="22" y="-50" transform="rotate(90)"/>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(58.823529%,10.196078%,10.196078%)" d="M 78 24 C 68.027344 24 60 32.027344 60 42 L 60 342 C 60 351.972656 68.027344 360 78 360 L 306 360 C 315.972656 360 324 351.972656 324 342 L 324 42 C 324 32.027344 315.972656 24 306 24 Z M 78 24"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
+  <use mask="url(#mask3)" xlink:href="#surface14"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 192 72 L 240 72 L 240 312 L 192 312 Z M 192 72"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 300 132 L 300 180 L 132 180 L 132 132 Z M 300 132"/>
  </g>
 </svg>

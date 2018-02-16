@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
- </defs>
- <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5.0002424,12.004811 3.9999998,0 m -3.9998998,2.999999 0,-5.9999988 m 3.9998998,5.9999988 0,-5.9999988 m -3.9999998,0 -1.51e-5,-0.9995519 c 0,-1 0,-1 2.0000148,-1.0004491 1.9999854,-4.491e-4 1.9999706,4.491e-4 1.9999854,1.0004491 l 1.47e-5,0.9995519"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round" class="ColorScheme-Text" d="m 17.00315,14.999823 -2.000001,-3 m -2.000002,-1.000003 1.999983,-3e-6 c 0.423836,-1e-6 0.729048,4.54e-4 1.00001,4.54e-4 0.999998,0 0.999998,0 0.999998,-1 0,-0.2567206 1.5e-5,-0.5997726 1.2e-5,-1.0004476 l -1.2e-5,-0.9995519 c 0,-1 0,-1 -0.999998,-1 -0.224504,0 -0.544112,0.00944 -0.874519,0.00719 -1.12549,-0.00765 -2.125474,-0.00756 -2.125474,-0.00756 M 13.003246,15 l 0,-8.0000002"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 5 12.007812 L 9 12.007812 M 5 15.007812 L 5 9.007812 M 9 15.007812 L 9 9.007812 M 5 9.007812 L 5 8.007812 C 5 7.007812 5 7.007812 7 7.007812 C 9 7.007812 9 7.007812 9 8.007812 L 9 9.007812" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 17 15 L 15 12 M 13 11 L 15 11 C 15.429688 11 15.734375 11 16 11 C 17 11 17 11 17 10 C 17 9.742188 17 9.398438 17 9 L 17 8 C 17 7 17 7 16 7 C 15.78125 7 15.460938 7.007812 15.125 7.007812 C 14 7 13 7 13 7 M 13 15 L 13 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
 </svg>

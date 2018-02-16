@@ -1,1 +1,5 @@
-transform-rotate.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 2.5 2.5 L 2.5 7 L 5.5 7 L 5.5 4.5 L 6.5 4.5 C 7.054688 4.5 7.5 4.945312 7.5 5.5 L 7.5 6.5 L 6 6.5 L 6 7.5 L 5 7.5 L 5 9.5 L 9.5 9.5 L 9.5 6.5 L 8 6.5 L 8 5.5 C 8 4.667969 7.332031 4 6.5 4 L 5.5 4 L 5.5 2.5 Z M 2.5 2.5"/>
+ </g>
+</svg>

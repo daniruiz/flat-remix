@@ -1,1 +1,6 @@
-indicator-keyboard-Sr.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 5 14 C 5 15 5 15 6 15 C 6.359375 15 6.421875 15 7 15 C 7.453125 15 7 15 8 15 C 8 15 9 15 9 14 L 9 13 C 9 8.789062 5 13.210938 5.015625 9.007812 C 5.007812 8.585938 5 8.265625 5 8 C 5 7 6 7 6 7 C 6.25 7 6.632812 7 7 7 C 7.34375 7 7.742188 7 8 7 C 9 7 9 7 9 8" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 17 15 L 15 12 M 13 11 L 15 11 C 15.429688 11 15.734375 11 16 11 C 17 11 17 11 17 10 C 17 9.742188 17 9.398438 17 9 L 17 8 C 17 7 17 7 16 7 C 15.78125 7 15.460938 7.007812 15.125 7.007812 C 14 7 13 7 13 7 M 13 15 L 13 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

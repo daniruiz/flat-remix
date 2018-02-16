@@ -1,1 +1,23 @@
-knemo-monitor-receive.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <image id="image9" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAOklEQVQokWNgoDVgxCb4/1O+MAObnAiKQo7imwwMDAwsWI1hkxNhYDmmhiZ6k4GBgYGJVCfRXsOIBAB2GwYN+fXAPQAAAABJRU5ErkJggg=="/>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image9"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 7 7 L 10 4.75 L 7 2.5 C 7.003906 2.5 7 3.167969 7 3.5 L 5.5 3.5 L 5.5 6 L 7 6 Z M 7 7"/>
+  </g>
+ </defs>
+ <g>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 5 5.5 L 2 7.75 L 5 10 C 4.996094 10 5 9.332031 5 9 L 6.5 9 L 6.5 6.5 L 5 6.5 Z M 5 5.5"/>
+  <use mask="url(#mask0)" xlink:href="#surface8"/>
+ </g>
+</svg>

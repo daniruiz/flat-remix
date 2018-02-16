@@ -1,1 +1,6 @@
-indicator-keyboard-Tg.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 4 7 L 8 7 M 6 15 L 6 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 14.992188 12 L 16.992188 12 M 15.992188 12 L 15.992188 14 C 15.992188 15 15.992188 15 14.992188 15 C 14.585938 15 13.289062 15 12.992188 15 C 11.992188 15 11.992188 15 11.992188 14 L 11.992188 8 C 11.992188 7 11.992188 7 12.992188 7 C 13.242188 7 14.609375 7 14.992188 7 C 15.992188 7 15.992188 7 15.992188 8" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36pt" height="36pt" version="1.1" viewBox="0 0 36 36">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.4"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(100%,100%,100%)" d="M 6.75 9 L 27.75 9 L 27.75 22.5 L 24.386719 22.5 L 21.386719 25.5 L 13.113281 25.5 L 10.113281 22.5 L 6.75 22.5 Z M 6.75 9"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(100%,100%,100%)" d="M 4.5 3.75 C 4.5 3.75 2.25 3.75 2.25 6 L 2.25 6.75 C 2.25 4.5 4.5 4.5 4.5 4.5 L 30 4.5 C 30 4.5 32.25 4.5 32.25 6.75 L 32.25 6 C 32.25 3.75 30 3.75 30 3.75 Z M 4.5 3.75"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 2.25 24 L 2.25 24.75 C 2.25 24.75 2.25 27 4.5 27 L 8.25 27 L 11.25 30 L 23.25 30 L 26.25 27 L 30 27 C 30 27 32.25 27 32.25 24.75 L 32.25 24 C 32.25 26.25 30 26.25 30 26.25 L 26.25 26.25 L 23.25 29.25 L 11.25 29.25 L 8.25 26.25 L 4.5 26.25 C 2.25 26.25 2.25 24 2.25 24 Z M 2.25 24"/>
+  </g>
+  <mask id="mask3">
+   <g filter="url(#alpha)">
+    <rect width="36" height="36" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip4">
+   <rect width="36" height="36" x="0" y="0"/>
+  </clipPath>
+  <g id="surface14" clip-path="url(#clip4)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 33.734375 25.058594 C 33.566406 29.074219 30.269531 32.246094 26.25 32.25 C 22.28125 32.25 19 29.152344 18.765625 25.191406 C 18.757812 25.292969 18.753906 25.394531 18.75 25.5 C 18.75 29.640625 22.109375 33 26.25 33 C 30.390625 33 33.75 29.640625 33.75 25.5 C 33.75 25.351562 33.742188 25.207031 33.734375 25.058594 Z M 33.734375 25.058594"/>
+  </g>
+ </defs>
+ <g>
+  <path style="fill:rgb(89.411765%,89.411765%,89.411765%)" d="M 4.5 3.75 C 4.5 3.75 2.25 3.75 2.25 6 L 2.25 24 C 2.25 24 2.25 26.25 4.5 26.25 L 8.25 26.25 L 11.25 29.25 L 23.25 29.25 L 26.25 26.25 L 30 26.25 C 30 26.25 32.25 26.25 32.25 24 L 32.25 6 C 32.25 3.75 30 3.75 30 3.75 Z M 4.5 3.75"/>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(36.470588%,36.470588%,36.470588%)" d="M 6.75 8.25 L 27.75 8.25 L 27.75 21.75 L 24.386719 21.75 L 21.386719 24.75 L 13.113281 24.75 L 10.113281 21.75 L 6.75 21.75 Z M 6.75 8.25"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+  <use mask="url(#mask2)" xlink:href="#surface11"/>
+  <path style="fill:rgb(85.882353%,23.529412%,18.823529%)" d="M 33.75 24.75 C 33.75 28.890625 30.390625 32.25 26.25 32.25 C 22.109375 32.25 18.75 28.890625 18.75 24.75 C 18.75 20.609375 22.109375 17.25 26.25 17.25 C 30.390625 17.25 33.75 20.609375 33.75 24.75 Z M 33.75 24.75"/>
+  <use mask="url(#mask3)" xlink:href="#surface14"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 22.539062 27.597656 L 28.902344 21.234375 L 29.960938 22.292969 L 23.597656 28.65625 Z M 22.539062 27.597656"/>
+  <path style="fill:rgb(100%,100%,100%)" d="M 28.902344 28.65625 L 22.539062 22.292969 L 23.597656 21.234375 L 29.960938 27.597656 Z M 28.902344 28.65625"/>
+ </g>
+</svg>

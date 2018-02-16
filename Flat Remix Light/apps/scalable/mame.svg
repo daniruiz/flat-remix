@@ -1,5 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
- <path style="opacity:0.2;fill-rule:evenodd" d="M 41,13 3,51 H 18 L 35,34 V 51 L 51,35 V 51 L 60.080004,41.920002 60,13 41,32 Z"/>
- <path style="fill:#428bca;fill-rule:evenodd" d="M 41,12 3,50 H 18 L 35,33 V 50 L 51,34 V 50 L 60.080004,40.920002 60,12 41,31 Z"/>
- <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 41,12 3,50 H 4 L 41,13 Z m 19,0 -19,19 v 1 L 60,13 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 246 78 L 18 306 L 108 306 L 210 204 L 210 306 L 306 210 L 306 306 L 360.480469 251.519531 L 360 78 L 246 192 Z M 246 78"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill-rule:evenodd;fill:rgb(100%,100%,100%)" d="M 246 72 L 18 300 L 24 300 L 246 78 Z M 360 72 L 246 186 L 246 192 L 360 78 Z M 360 72"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill-rule:evenodd;fill:rgb(25.882353%,54.509804%,79.215686%)" d="M 246 72 L 18 300 L 108 300 L 210 198 L 210 300 L 306 204 L 306 300 L 360.480469 245.519531 L 360 72 L 246 186 Z M 246 72"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+ </g>
 </svg>

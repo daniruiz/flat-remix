@@ -1,1 +1,5 @@
-dialog-text-and-font.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 5.5 2.5 L 3.5 2.5 L 3.5 3.5 L 5.5 3.5 L 5.5 9.5 L 6.5 9.5 L 6.5 3.5 L 8.5 3.5 L 8.5 2.5 Z M 5.5 2.5"/>
+ </g>
+</svg>

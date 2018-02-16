@@ -1,8 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 6 2 C 4.953125 2 3.945312 2.410156 3.199219 3.148438 L 4.574219 5.53125 C 4.777344 4.917969 5.351562 4.5 6 4.5 L 9.707031 4.5 C 9.09375 2.988281 7.628906 2 6 2 Z M 2.847656 3.542969 C 2.300781 4.246094 2 5.109375 2 6 C 2.003906 7.796875 3.203125 9.371094 4.933594 9.851562 L 6.308594 7.46875 C 6.207031 7.488281 6.105469 7.5 6 7.5 C 5.464844 7.5 4.96875 7.210938 4.703125 6.75 L 4.699219 6.75 Z M 6 5 C 5.449219 5 5 5.449219 5 6 C 5 6.550781 5.449219 7 6 7 C 6.550781 7 7 6.550781 7 6 C 7 5.449219 6.550781 5 6 5 Z M 7.113281 5 C 7.363281 5.273438 7.5 5.628906 7.5 6 C 7.5 6.261719 7.429688 6.519531 7.296875 6.75 L 7.300781 6.75 L 5.445312 9.957031 C 5.628906 9.984375 5.816406 10 6 10 C 8.210938 10 10 8.210938 10 6 C 10 5.664062 9.957031 5.328125 9.871094 5 Z M 7.113281 5"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,1 A 7,7 0 0 0 2.918,3.1973 L 5.1523,7.0664 A 3,3 0 0 1 8,5 H 14.316 A 7,7 0 0 0 8,1 Z M 2.2402,4.0234 A 7,7 0 0 0 1,8 7,7 0 0 0 6.3828,14.803 L 8.6172,10.934 A 3,3 0 0 1 8,11 3,3 0 0 1 5.4062,9.498 L 5.4023,9.5 Z M 8,6 A 2,2 0 0 0 6,8 2,2 0 0 0 8,10 2,2 0 0 0 10,8 2,2 0 0 0 8,6 Z M 10.23,6 A 3,3 0 0 1 11,8 3,3 0 0 1 10.596,9.498 L 10.598,9.5 7.4395,14.973 A 7,7 0 0 0 8,15 7,7 0 0 0 15,8 7,7 0 0 0 14.701,6 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+ </g>
 </svg>

@@ -1,1 +1,5 @@
-document-multiple.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 3.5 2.5 C 3.5 2.5 3 2.5 3 3 L 3 7.5 C 3 7.5 3 8 3.5 8 L 4 8 L 4 3.5 L 8 3.5 L 8 3 C 8 2.5 7.5 2.5 7.5 2.5 Z M 5 4 C 5 4 4.5 4 4.5 4.5 L 4.5 9.5 C 4.5 10 5 10 5 10 L 9 10 C 9 10 9.5 10 9.5 9.5 L 9.5 4.5 C 9.5 4 9 4 9 4 Z M 5.5 5 L 8.5 5 L 8.5 9 L 5.5 9 Z M 5.5 5"/>
+ </g>
+</svg>

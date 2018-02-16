@@ -3,20 +3,20 @@ Name=Flat Remix
 
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status/scalable,status/symbolic
 
 [actions/scalable]
 Context=Actions
 Size=16
 MinSize=1
-MaxSize=144
+MaxSize=24
 Type=Scalable
 
 [actions/symbolic]
 Context=Actions
 Size=16
 MinSize=1
-MaxSize=144
+MaxSize=512
 Type=Scalable
 
 [animations]
@@ -124,7 +124,14 @@ MinSize=1
 MaxSize=512
 Type=Scalable
 
-[status]
+[status/scalable]
+Context=Status
+Size=16
+MinSize=1
+MaxSize=512
+Type=Scalable
+
+[status/symbolic]
 Context=Status
 Size=16
 MinSize=1

@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 4.25 4 C 3.71875 4 3.238281 4.191406 2.851562 4.5 L 5.652344 4.5 C 5.261719 4.1875 4.773438 4 4.25 4 Z M 2.378906 7.5 C 2.785156 8.101562 3.46875 8.5 4.25 8.5 C 5.011719 8.5 5.699219 8.113281 6.109375 7.5 Z M 8 7.5 L 8 7.996094 L 9.5 7.996094 L 9.5 7.5 Z M 8 7.5"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 4.5,4 C 3.437,4 2.473,4.38 1.703,5 H 7.303 C 6.523,4.37 5.547,4 4.5,4 Z M 0.762,11 C 1.569,12.21 2.94,13 4.5,13 6.021,13 7.4,12.22 8.221,11 Z M 12,11 V 12 H 15 V 11 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,6 C 1.892,6 1,6.89 1,8 1,9.11 1.892,10 3,10 4.108,10 5,9.11 5,8 5,6.89 4.108,6 3,6 Z M 8,6 C 6.892,6 6,6.89 6,8 6,9.11 6.892,10 8,10 9.108,10 10,9.11 10,8 10,6.89 9.108,6 8,6 Z M 13,6 C 11.892,6 11,6.89 11,8 11,9.11 11.892,10 13,10 14.108,10 15,9.11 15,8 15,6.89 14.108,6 13,6 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 3.5 5 C 2.945312 5 2.5 5.445312 2.5 6 C 2.5 6.554688 2.945312 7 3.5 7 C 4.054688 7 4.5 6.554688 4.5 6 C 4.5 5.445312 4.054688 5 3.5 5 Z M 6 5 C 5.445312 5 5 5.445312 5 6 C 5 6.554688 5.445312 7 6 7 C 6.554688 7 7 6.554688 7 6 C 7 5.445312 6.554688 5 6 5 Z M 8.5 5 C 7.945312 5 7.5 5.445312 7.5 6 C 7.5 6.554688 7.945312 7 8.5 7 C 9.054688 7 9.5 6.554688 9.5 6 C 9.5 5.445312 9.054688 5 8.5 5 Z M 8.5 5"/>
+ </g>
 </svg>

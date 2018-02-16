@@ -1,10 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 9.5 2.503906 L 2.5 9.503906 L 6.5 9.503906 L 6.5 7.503906 L 7.007812 7.503906 C 7.015625 6.6875 7.679688 6.003906 8.5 6.003906 C 8.886719 6.003906 9.234375 6.15625 9.5 6.402344 Z M 9.5 2.503906"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 15,1.01 1,15.01 H 9 V 11.01 H 10.014 C 10.033,9.37 11.356,8.01 13,8.01 13.774,8.01 14.471,8.32 15,8.81 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 9,7.01 1,15.01 H 9 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 13,9 C 11.892,9 11,9.91 11,11.03 V 12 H 10 V 16 H 16 V 12 H 15 V 11.03 C 15,9.91 14.108,9 13,9 Z M 13,10 C 13.554,10 14,10.44 14,11 V 12 H 12 V 11 C 12,10.44 12.446,10 13,10 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 6.5 5.503906 L 2.5 9.503906 L 6.5 9.503906 Z M 6.5 5.503906"/>
+  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 8.5 6.5 C 7.945312 6.5 7.5 6.957031 7.5 7.515625 L 7.5 8 L 7 8 L 7 10 L 10 10 L 10 8 L 9.5 8 L 9.5 7.515625 C 9.5 6.957031 9.054688 6.5 8.5 6.5 Z M 8.5 7 C 8.777344 7 9 7.222656 9 7.5 L 9 8 L 8 8 L 8 7.5 C 8 7.222656 8.222656 7 8.5 7 Z M 8.5 7"/>
+ </g>
 </svg>

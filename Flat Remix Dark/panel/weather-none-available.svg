@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6 0.75 C 4.445312 0.75 3.125 1.699219 2.554688 3.046875 C 1.109375 3.261719 0 4.496094 0 6 C 0 7.65625 1.34375 9 3 9 L 3.75 9 L 3.75 8.25 C 3.75 8.050781 3.828125 7.859375 3.96875 7.71875 L 5.25 6.441406 L 5.25 6 L 3.75 6 C 3.335938 6 3 5.664062 3 5.25 L 3 3.75 C 3 3.335938 3.335938 3 3.75 3 L 7.5 3 C 7.914062 3 8.25 3.335938 8.25 3.75 L 8.25 6.75 C 8.25 6.949219 8.171875 7.140625 8.03125 7.28125 L 6.75 8.5625 L 6.75 9 L 9.375 9 C 10.824219 9 12 7.824219 12 6.375 C 12 5.027344 10.988281 3.921875 9.679688 3.773438 C 9.339844 2.054688 7.820312 0.75 6 0.75 Z M 6 0.75"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,1 C 5.9289,1 4.1653,2.2679 3.4062,4.0625 1.4784,4.3491 0,5.9924 0,8 0,10.209 1.7909,12 4,12 H 5 V 11 C 5.0001,10.735 5.1054,10.48 5.293,10.293 L 7,8.586 V 8 H 5 C 4.4477,8 4.0001,7.552 4,7 V 5 C 4.0001,4.4477 4.4477,4.0001 5,4 H 10 C 10.552,4.0001 11,4.4477 11,5 V 7 9 C 11,9.266 10.895,9.521 10.707,9.709 L 9,11.416 V 12 H 10 12.5 C 14.433,12 16,10.433 16,8.5 16,6.7035 14.649,5.2313 12.906,5.0312 12.452,2.7379 10.427,1 8,1 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 5,5 V 7 H 8 V 9 L 6,11 V 13 H 8 V 11 L 10,9 V 7 5 Z M 6,14 V 16 H 8 V 14 Z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 3.75 3.75 L 3.75 5.25 L 6 5.25 L 6 6.75 L 4.5 8.25 L 4.5 9.75 L 6 9.75 L 6 8.25 L 7.5 6.75 L 7.5 3.75 Z M 4.5 10.5 L 4.5 12 L 6 12 L 6 10.5 Z M 4.5 10.5"/>
+ </g>
 </svg>

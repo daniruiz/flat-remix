@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" x="0" y="0" version="1.1" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 10.316406 1.511719 L 7.507812 4.921875 L 8.5 5.5 L 10.5 1.675781 Z M 3 3.75 L 1 5.5 L 3.1875 5.1875 L 4 10 L 5.695312 8.847656 L 6 8.9375 L 6 7.511719 L 5.375 8.046875 L 3.75 4 Z M 6.5 5.015625 L 5 5.5 L 5.5 7 L 6 6.625 L 6 6.5 L 6.167969 6.5 L 7.5 5.5 Z M 8 5.800781 L 7.179688 6.5 L 9 6.5 Z M 8 5.800781"/>
+  </g>
  </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 15.25,0 10.963,5.0292 12.631,6.0038 15.557,0.27539 Z M 3.3691,3 0,6.0038 3.5,5.4999 5,13.5 8,12 9.9766,12.494 V 9.9999 C 9.9766,9.4476 10.424,9 10.977,8.9999 H 14 L 13.475,7.6874 11.789,6.5097 7.3672,9.9999 4.6309,3.4785 Z M 9.2637,5 6.5371,6.0038 7.5781,8.5292 10.947,6.0038 Z"/>
- <path style="clip-rule:evenodd;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Text" d="m 10.976984,10 0,5 L 13,15 13,10 Z M 14,10 l 0,5 1.976984,0 0,-5 z"/>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill-rule:evenodd;fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 6.5 7 L 6.5 10 L 8 10 L 8 7 Z M 8.5 7 L 8.5 10 L 10 10 L 10 7 Z M 8.5 7"/>
+ </g>
 </svg>
