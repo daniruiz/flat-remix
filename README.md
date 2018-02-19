@@ -34,8 +34,8 @@ Flat Remix icon theme is available in three variants:
 ```sh
 cd /tmp && rm -rf Flat-Remix &&
 git clone https://github.com/daniruiz/Flat-Remix &&
-mkdir -p ~/.icons && cp -r Flat-Remix/Flat\ Remix* ~/.icons/ &&
-gsettings set org.gnome.desktop.interface icon-theme "Flat Remix"
+mkdir -p ~/.icons && cp -r Flat-Remix/Flat-Remix* ~/.icons/ &&
+gsettings set org.gnome.desktop.interface icon-theme "Flat-Remix"
 ```
 
 ##### Ubuntu based distributions
