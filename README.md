@@ -50,7 +50,7 @@ sudo apt-get install flat-remix
 
 ```sh
 sudo dnf copr enable daniruiz/flat-remix
-sudo apt-get install flat-remix
+sudo dnf install flat-remix
 ```
 
 ##### Arch based distributions
