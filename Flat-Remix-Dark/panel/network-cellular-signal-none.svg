@@ -5,14 +5,14 @@
   </filter>
   <mask id="mask0">
    <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
    </g>
   </mask>
   <clipPath id="clip1">
    <rect width="12" height="12" x="0" y="0"/>
   </clipPath>
   <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 0.75 11.257812 L 11.25 0.757812 L 11.25 11.257812 Z M 0.75 11.257812"/>
+   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2.5 9.503906 L 9.5 2.503906 L 9.5 9.503906 Z M 2.5 9.503906"/>
   </g>
  </defs>
  <g>

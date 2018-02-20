@@ -3,21 +3,22 @@
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
   </filter>
+  <image id="image9" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAJElEQVQokWNgoDVghDH+/wn2xauQZe1mBgYGBiZSbRjVMDgAAGYTBBA4t5g/AAAAAElFTkSuQmCC"/>
   <mask id="mask0">
    <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+    <use xlink:href="#image9"/>
    </g>
   </mask>
   <clipPath id="clip1">
    <rect width="12" height="12" x="0" y="0"/>
   </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6 0.75 C 3.101562 0.75 0.75 3.101562 0.75 6 C 0.75 8.898438 3.101562 11.25 6 11.25 C 8.898438 11.25 11.25 8.898438 11.25 6 L 9.75 6 C 9.75 8.070312 8.070312 9.75 6 9.75 C 3.929688 9.75 2.25 8.070312 2.25 6 C 2.25 3.929688 3.929688 2.25 6 2.25 Z M 6 3 C 4.34375 3 3 4.34375 3 6 C 3 7.65625 4.34375 9 6 9 C 7.65625 9 9 7.65625 9 6 L 7.5 6 C 7.5 6.828125 6.828125 7.5 6 7.5 C 5.171875 7.5 4.5 6.828125 4.5 6 C 4.5 5.171875 5.171875 4.5 6 4.5 Z M 6 3"/>
+  <g id="surface8" clip-path="url(#clip1)">
+   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6 2 C 3.789062 2 2 3.789062 2 6 C 2 8.210938 3.789062 10 6 10 C 8.210938 10 10 8.210938 10 6 L 9 6 C 9 7.65625 7.65625 9 6 9 C 4.34375 9 3 7.65625 3 6 C 3 4.34375 4.34375 3 6 3 Z M 6 3.5 C 4.621094 3.5 3.5 4.621094 3.5 6 C 3.5 7.378906 4.621094 8.5 6 8.5 C 7.378906 8.5 8.5 7.378906 8.5 6 L 7.5 6 C 7.5 6.828125 6.828125 7.5 6 7.5 C 5.171875 7.5 4.5 6.828125 4.5 6 C 4.5 5.171875 5.171875 4.5 6 4.5 Z M 6 3.5"/>
   </g>
  </defs>
  <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 6.75 6 C 6.75 6.414062 6.414062 6.75 6 6.75 C 5.585938 6.75 5.25 6.414062 5.25 6 C 5.25 5.585938 5.585938 5.25 6 5.25 C 6.414062 5.25 6.75 5.585938 6.75 6 Z M 6.75 6"/>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6 0.75 L 6 2.25 C 8.070312 2.25 9.75 3.929688 9.75 6 L 11.25 6 C 11.25 3.101562 8.898438 0.75 6 0.75 Z M 6 3 L 6 4.5 C 6.828125 4.5 7.5 5.171875 7.5 6 L 9 6 C 9 4.34375 7.65625 3 6 3 Z M 6 3"/>
+  <use mask="url(#mask0)" xlink:href="#surface8"/>
+  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6 2 L 6 3 C 7.65625 3 9 4.34375 9 6 L 10 6 C 10 3.789062 8.210938 2 6 2 Z M 6 3.5 L 6 4.5 C 6.828125 4.5 7.5 5.171875 7.5 6 L 8.5 6 C 8.5 4.621094 7.378906 3.5 6 3.5 Z M 6 3.5"/>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 7 6 C 7 6.550781 6.550781 7 6 7 C 5.449219 7 5 6.550781 5 6 C 5 5.449219 5.449219 5 6 5 C 6.550781 5 7 5.449219 7 6 Z M 7 6"/>
  </g>
 </svg>

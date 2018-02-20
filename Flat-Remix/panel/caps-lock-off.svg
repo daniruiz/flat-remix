@@ -3,19 +3,20 @@
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
   </filter>
+  <image id="image9" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAJElEQVQokWNgoDVghDH+/wn2xauQZe1mBgYGBiZSbRjVMDgAAGYTBBA4t5g/AAAAAElFTkSuQmCC"/>
   <mask id="mask0">
    <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+    <use xlink:href="#image9"/>
    </g>
   </mask>
   <clipPath id="clip1">
    <rect width="12" height="12" x="0" y="0"/>
   </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2.71875 0.75 C 2.050781 0.75 1.488281 1.234375 1.414062 1.878906 L 0.757812 7.589844 C 0.714844 7.949219 0.835938 8.308594 1.085938 8.578125 C 1.332031 8.847656 1.6875 9 2.0625 9 L 9.9375 9 C 10.3125 9 10.667969 8.847656 10.914062 8.578125 C 11.164062 8.308594 11.285156 7.949219 11.242188 7.589844 L 10.585938 1.878906 C 10.511719 1.234375 9.949219 0.75 9.28125 0.75 Z M 5.355469 2.25 L 6.636719 2.25 L 8.25 6.75 L 7.191406 6.75 L 6.855469 6 L 5.148438 6 L 4.808594 6.75 L 3.75 6.75 Z M 5.992188 3.253906 L 5.363281 5.25 L 6.636719 5.25 Z M 0.75 9.226562 L 0.75 9.585938 C 0.75 10.378906 1.429688 11.25 2.226562 11.25 L 9.773438 11.25 C 10.570312 11.25 11.25 10.378906 11.25 9.585938 L 11.25 9.226562 C 10.902344 9.542969 10.445312 9.75 9.9375 9.75 L 2.0625 9.75 C 1.554688 9.75 1.097656 9.542969 0.75 9.226562 Z M 0.75 9.226562"/>
+  <g id="surface8" clip-path="url(#clip1)">
+   <path style="fill-rule:evenodd;fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2 8.601562 L 2 8.875 C 2 9.480469 2.519531 10 3.125 10 L 8.875 10 C 9.480469 10 10 9.480469 10 8.875 L 10 8.601562 C 9.734375 8.84375 9.386719 9 9 9 L 3 9 C 2.613281 9 2.265625 8.84375 2 8.601562 Z M 6.039062 3.648438 L 5.5 5.644531 L 6.589844 5.644531 Z M 5.449219 3 L 6.605469 3 L 8.0625 7.5 L 7.105469 7.5 L 6.800781 6.5 L 5.265625 6.5 L 4.957031 7.5 L 4 7.5 Z M 3.5 2 C 2.992188 2 2.5625 2.382812 2.507812 2.890625 L 2.007812 7.390625 C 1.941406 7.980469 2.402344 8.5 3 8.5 L 9 8.5 C 9.597656 8.5 10.058594 7.980469 9.996094 7.390625 L 9.496094 2.890625 C 9.4375 2.382812 9.011719 2 8.5 2 Z M 3.5 2"/>
   </g>
  </defs>
  <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <use mask="url(#mask0)" xlink:href="#surface8"/>
  </g>
 </svg>

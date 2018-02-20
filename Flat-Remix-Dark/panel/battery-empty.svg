@@ -5,18 +5,18 @@
   </filter>
   <mask id="mask0">
    <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
    </g>
   </mask>
   <clipPath id="clip1">
    <rect width="12" height="12" x="0" y="0"/>
   </clipPath>
   <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 4.5 0.75 L 4.5 1.5 L 2.25 1.5 L 2.25 10.5 C 2.25 10.914062 2.585938 11.25 3 11.25 L 8.25 11.25 L 8.25 3.75 L 9.75 3.75 L 9.75 1.5 L 7.5 1.5 L 7.5 0.75 Z M 4.5 0.75"/>
+   <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 5 2.5 L 5 3 L 3.5 3 L 3.5 9 C 3.5 9.273438 3.722656 9.5 4 9.5 L 7.5 9.5 L 7.5 4.5 L 8.5 4.5 L 8.5 3 L 7 3 L 7 2.5 Z M 5 2.5"/>
   </g>
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 9 4.5 L 9 8.25 L 9.1875 9.75 L 10.3125 9.75 L 10.5 8.25 L 10.5 4.5 Z M 9 10.5 L 9 12 L 10.5 12 L 10.5 10.5 Z M 9 10.5"/>
+  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 8 5 L 8 7.5 L 8.125 8.5 L 8.875 8.5 L 9 7.5 L 9 5 Z M 8 9 L 8 10 L 9 10 L 9 9 Z M 8 9"/>
  </g>
 </svg>

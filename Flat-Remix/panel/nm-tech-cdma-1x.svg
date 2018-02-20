@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
  <g>
-  <path style="fill:none;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 16 15.5 L 14.5 15.5 C 13.5 15.5 13.5 15.5 13.5 14.5 L 13.5 12.5 C 13.5 11.5 13.5 11.5 14.5 11.5 L 16 11.5" transform="matrix(0.75,0,0,0.75,0,0)"/>
+  <path style="fill:none;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 19 20.5 L 17.5 20.5 C 16.5 20.5 16.5 20.5 16.5 19.5 L 16.5 17.5 C 16.5 16.5 16.5 16.5 17.5 16.5 L 19 16.5" transform="matrix(0.5,0,0,0.5,0,0)"/>
  </g>
 </svg>

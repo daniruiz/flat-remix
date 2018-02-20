@@ -3,20 +3,21 @@
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
   </filter>
+  <image id="image9" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAANElEQVQokWNgGAWEASMy5/+zZi4G0WcGGIpYpx+DsVlQZNi3szAwSgrjs4GJVCeRrIH2AAAvUQX576U64QAAAABJRU5ErkJggg=="/>
   <mask id="mask0">
    <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
+    <use xlink:href="#image9"/>
    </g>
   </mask>
   <clipPath id="clip1">
    <rect width="12" height="12" x="0" y="0"/>
   </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6.4375 11.25 L 10.03125 11.25 L 5.40625 6.332031 L 3.234375 7.835938 Z M 6.4375 11.25"/>
+  <g id="surface8" clip-path="url(#clip1)">
+   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6.261719 10 L 9 10 L 5.476562 6.253906 L 3.824219 7.398438 Z M 6.261719 10"/>
   </g>
  </defs>
  <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6.4375 0.75 L 10.03125 0.75 L 5.09375 6 L 3.242188 7.84375 L 1.5 6 Z M 6.4375 0.75"/>
+  <use mask="url(#mask0)" xlink:href="#surface8"/>
+  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6.261719 2 L 9 2 L 5.238281 6 L 3.828125 7.402344 L 2.5 6 Z M 6.261719 2"/>
  </g>
 </svg>

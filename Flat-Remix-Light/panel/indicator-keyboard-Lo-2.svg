@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 4.992188 7.007812 L 4.992188 15.007812 L 8.992188 15.007812" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
-  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(19.215686%,21.176471%,23.137255%)" d="M 15 7 C 17.40625 7 17 9 17 11 C 17 13 17.359375 15.0625 15 15 C 12.65625 15 13 13 13 11 C 13 9 12.570312 7 15 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
- </g>
-</svg>
+indicator-keyboard-Lo.svg

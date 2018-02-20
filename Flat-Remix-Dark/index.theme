@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Flat Remix
+Name=Flat-Remix-Dark
 
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
@@ -128,7 +128,7 @@ Type=Scalable
 Context=Status
 Size=16
 MinSize=1
-MaxSize=512
+MaxSize=48
 Type=Scalable
 
 [status/symbolic]

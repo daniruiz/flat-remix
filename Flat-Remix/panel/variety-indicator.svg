@@ -1,5 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <image id="image9" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAMElEQVQokWNgGHSAEcb4/1t7B16FrFc9GBgYGJhItWE4aGCBs/4lL8GvtIhUs8kEAOkoBodvFQZ4AAAAAElFTkSuQmCC"/>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image9"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="12" height="12" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip1)">
+   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2.5 3 C 2 3 2 3.5 2 3.5 L 2 9.328125 C 2.109375 9.445312 2.273438 9.507812 2.4375 9.484375 C 2.460938 9.488281 2.476562 9.5 2.5 9.5 L 9.5 9.5 C 9.777344 9.5 10 9.277344 10 9 L 10 3.5 C 10 3.222656 9.777344 3 9.5 3 Z M 2.5 3.5 L 9.5 3.5 L 9.5 8.5 L 2.5 8.5 Z M 6.5 4 C 6.222656 4 6 4.222656 6 4.5 C 6 4.777344 6.222656 5 6.5 5 C 6.777344 5 7 4.777344 7 4.5 C 7 4.222656 6.777344 4 6.5 4 Z M 4.5 5.5 C 3.75 5.5 3 6.5 3 7.765625 L 3 8 L 9 8 C 9 8 8.5 6 7.75 6 C 7 6 7 7 6.5 7 C 6 7 5.25 5.5 4.5 5.5 Z M 4.5 5.5"/>
+  </g>
+ </defs>
  <g>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 0.75 0.75 C 0 0.75 0 1.5 0 1.5 L 0 10.246094 C 0.160156 10.417969 0.410156 10.507812 0.65625 10.476562 C 0.691406 10.476562 0.714844 10.5 0.75 10.5 L 11.25 10.5 C 11.664062 10.5 12 10.164062 12 9.75 L 12 1.5 C 12 1.085938 11.664062 0.75 11.25 0.75 Z M 0.75 1.5 L 11.25 1.5 L 11.25 9 L 0.75 9 Z M 6.75 2.25 C 6.335938 2.25 6 2.585938 6 3 C 6 3.414062 6.335938 3.75 6.75 3.75 C 7.164062 3.75 7.5 3.414062 7.5 3 C 7.5 2.585938 7.164062 2.25 6.75 2.25 Z M 3.75 4.5 C 2.625 4.5 1.5 6 1.5 7.898438 L 1.5 8.25 L 10.5 8.25 C 10.5 8.25 9.75 5.25 8.625 5.25 C 7.5 5.25 7.5 6.75 6.75 6.75 C 6 6.75 4.875 4.5 3.75 4.5 Z M 3.75 4.5"/>
+  <use mask="url(#mask0)" xlink:href="#surface8"/>
  </g>
 </svg>
