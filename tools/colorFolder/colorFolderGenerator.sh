@@ -17,9 +17,10 @@ files=$(find -maxdepth 1 -iname "folder-*"  -printf "%f\n")
 
 for i in $(seq 0 $[${#colors[*]}-1])
 do
-for folder in $files
+    for folder in $files
     do
-
         sed "s/${color1}/${color1_new[$i]}/g" <<< $(sed "s/${color2}/${color2_new[$i]}/g" < $folder) > folder-${colors[$i]}${folder##folder}
     done
+    
+    sed "s/${color1}/${color1_new[$i]}/g" <<< $(sed "s/${color2}/${color2_new[$i]}/g" < folder.svg) > folder-${colors[$i]}.svg
 done
