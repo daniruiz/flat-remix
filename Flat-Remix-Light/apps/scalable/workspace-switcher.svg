@@ -3,57 +3,23 @@
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
   </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 32 304 L 32 312 C 32 320.863281 39.136719 328 48 328 L 336 328 C 344.863281 328 352 320.863281 352 312 L 352 304 C 352 312.863281 344.863281 320 336 320 L 48 320 C 39.136719 320 32 312.863281 32 304 Z M 32 304"/>
-  </g>
-  <mask id="mask1">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
-   </g>
-  </mask>
-  <clipPath id="clip2">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface8" clip-path="url(#clip2)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 48 64 C 39.136719 64 32 71.136719 32 80 L 32 88 C 32 79.136719 39.136719 72 48 72 L 336 72 C 344.863281 72 352 79.136719 352 88 L 352 80 C 352 71.136719 344.863281 64 336 64 Z M 48 64"/>
-  </g>
   <mask id="mask2">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.301961" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip3">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface11" clip-path="url(#clip3)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 24 192 C 19.566406 192 16 195.566406 16 200 L 16 208 C 16 203.566406 19.566406 200 24 200 L 184 200 C 188.433594 200 192 203.566406 192 208 L 192 200 C 192 195.566406 188.433594 192 184 192 Z M 24 192"/>
-  </g>
-  <mask id="mask3">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip4">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface14" clip-path="url(#clip4)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 16 328 L 16 336 C 16 340.433594 19.566406 344 24 344 L 184 344 C 188.433594 344 192 340.433594 192 336 L 192 328 C 192 332.433594 188.433594 336 184 336 L 24 336 C 19.566406 336 16 332.433594 16 328 Z M 16 328"/>
+   <path d="M 128.609375 224.707031 L 268.007812 224.707031 C 273.644531 224.707031 278.214844 229.277344 278.214844 234.914062 L 278.214844 335.808594 C 278.214844 341.449219 273.644531 346.019531 268.007812 346.019531 L 128.609375 346.019531 C 122.972656 346.019531 118.402344 341.449219 118.402344 335.808594 L 118.402344 234.914062 C 118.402344 229.277344 122.972656 224.707031 128.609375 224.707031 Z M 128.609375 224.707031" style="fill-rule:evenodd;fill:rgb(0%,0%,0%)"/>
   </g>
  </defs>
- <g>
-  <path style="fill:rgb(29.019608%,70.196078%,89.411765%)" d="M 48 64 C 48 64 32 64 32 80 L 32 304 C 32 312.863281 39.136719 320 48 320 L 336 320 C 344.863281 320 352 312.863281 352 304 L 352 80 C 352 71.136719 344.863281 64 336 64 Z M 48 64"/>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:rgb(92.156863%,92.156863%,92.156863%)" d="M 24 192 L 184 192 C 188.417969 192 192 195.582031 192 200 L 192 328 C 192 332.417969 188.417969 336 184 336 L 24 336 C 19.582031 336 16 332.417969 16 328 L 16 200 C 16 195.582031 19.582031 192 24 192 Z M 24 192"/>
-  <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <use mask="url(#mask3)" xlink:href="#surface14"/>
+ <path style="fill:#51b3d9;fill-rule:evenodd" d="M 45.589844,42.480469 H 338.63672 c 8.25,0 14.9375,6.410156 14.9375,14.316406 V 314.55859 c 0,7.90625 -6.6875,14.31641 -14.9375,14.31641 H 45.589844 c -8.25,0 -14.9375,-6.41016 -14.9375,-14.31641 V 56.796875 c 0,-7.90625 6.6875,-14.316406 14.9375,-14.316406 z m 0,0"/>
+ <g transform="translate(-100.40234)">
+  <g>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask2)" xlink:href="#surface11"/>
+   <path style="fill:#ffffff;fill-rule:evenodd" d="m 124.10938,220.20703 h 139.39843 c 5.63672,0 10.20703,4.57031 10.20703,10.20703 v 100.89453 c 0,5.64063 -4.57031,10.21094 -10.20703,10.21094 H 124.10938 c -5.63672,0 -10.20704,-4.57031 -10.20704,-10.21094 V 230.41406 c 0,-5.63672 4.57032,-10.20703 10.20704,-10.20703 z m 0,0"/>
+  </g>
  </g>
 </svg>

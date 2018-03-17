@@ -3,137 +3,123 @@
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
   </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 360 349.199219 L 360 186 L 24 186 L 24 349.199219 C 24 358.507812 31.492188 366 40.800781 366 L 343.199219 366 C 352.507812 366 360 358.507812 360 349.199219 Z M 360 349.199219"/>
-  </g>
   <mask id="mask1">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip2">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface8" clip-path="url(#clip2)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 60 246 L 60 270 L 36 270 L 36 294 L 60 294 L 60 318 L 84 318 L 84 294 L 108 294 L 108 270 L 84 270 L 84 246 Z M 312 246 C 305.371094 246 300 251.371094 300 258 C 300 264.628906 305.371094 270 312 270 C 318.628906 270 324 264.628906 324 258 C 324 251.371094 318.628906 246 312 246 Z M 288 270 C 281.371094 270 276 275.371094 276 282 C 276 288.628906 281.371094 294 288 294 C 294.628906 294 300 288.628906 300 282 C 300 275.371094 294.628906 270 288 270 Z M 336 270 C 329.371094 270 324 275.371094 324 282 C 324 288.628906 329.371094 294 336 294 C 342.628906 294 348 288.628906 348 282 C 348 275.371094 342.628906 270 336 270 Z M 312 294 C 305.371094 294 300 299.371094 300 306 C 300 312.628906 305.371094 318 312 318 C 318.628906 318 324 312.628906 324 306 C 324 299.371094 318.628906 294 312 294 Z M 312 294"/>
+   <path d="M 60 246 L 60 270 L 36 270 L 36 294 L 60 294 L 60 318 L 84 318 L 84 294 L 108 294 L 108 270 L 84 270 L 84 246 Z M 312 246 C 305.371094 246 300 251.371094 300 258 C 300 264.628906 305.371094 270 312 270 C 318.628906 270 324 264.628906 324 258 C 324 251.371094 318.628906 246 312 246 Z M 288 270 C 281.371094 270 276 275.371094 276 282 C 276 288.628906 281.371094 294 288 294 C 294.628906 294 300 288.628906 300 282 C 300 275.371094 294.628906 270 288 270 Z M 336 270 C 329.371094 270 324 275.371094 324 282 C 324 288.628906 329.371094 294 336 294 C 342.628906 294 348 288.628906 348 282 C 348 275.371094 342.628906 270 336 270 Z M 312 294 C 305.371094 294 300 299.371094 300 306 C 300 312.628906 305.371094 318 312 318 C 318.628906 318 324 312.628906 324 306 C 324 299.371094 318.628906 294 312 294 Z M 312 294" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask2">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip3">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface11" clip-path="url(#clip3)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 24 186 L 360 186 L 360 198 L 24 198 Z M 24 186"/>
+   <path d="M 24 186 L 360 186 L 360 198 L 24 198 Z M 24 186" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask3">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip4">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface14" clip-path="url(#clip4)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 36 150 L 84 150 L 84 162 L 36 162 Z M 36 150"/>
+   <path d="M 36 150 L 84 150 L 84 162 L 36 162 Z M 36 150" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask4">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip5">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface17" clip-path="url(#clip5)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 36 126 L 84 126 L 84 138 L 36 138 Z M 36 126"/>
+   <path d="M 36 126 L 84 126 L 84 138 L 36 138 Z M 36 126" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask5">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip6">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface20" clip-path="url(#clip6)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 36 102 L 84 102 L 84 114 L 36 114 Z M 36 102"/>
+   <path d="M 36 102 L 84 102 L 84 114 L 36 114 Z M 36 102" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask6">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip7">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface23" clip-path="url(#clip7)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 300 150 L 348 150 L 348 162 L 300 162 Z M 300 150"/>
+   <path d="M 300 150 L 348 150 L 348 162 L 300 162 Z M 300 150" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask7">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip8">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface26" clip-path="url(#clip8)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 300 126 L 348 126 L 348 138 L 300 138 Z M 300 126"/>
+   <path d="M 300 126 L 348 126 L 348 138 L 300 138 Z M 300 126" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask8">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip9">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface29" clip-path="url(#clip9)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 300 102 L 348 102 L 348 114 L 300 114 Z M 300 102"/>
+   <path d="M 300 102 L 348 102 L 348 114 L 300 114 Z M 300 102" style="fill:rgb(0%,0%,0%)"/>
   </g>
   <mask id="mask9">
    <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+    <rect style="fill:rgb(0%,0%,0%);fill-opacity:0.2" width="384" height="384" x="0" y="0"/>
    </g>
   </mask>
   <clipPath id="clip10">
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface32" clip-path="url(#clip10)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 40.804688 24 C 31.496094 24 24 31.496094 24 40.804688 L 24 46.804688 C 24 37.496094 31.496094 30 40.804688 30 L 343.195312 30 C 352.503906 30 360 37.496094 360 46.804688 L 360 40.804688 C 360 31.496094 352.503906 24 343.195312 24 Z M 40.804688 24"/>
+   <path d="M 40.804688 24 C 31.496094 24 24 31.496094 24 40.804688 L 24 46.804688 C 24 37.496094 31.496094 30 40.804688 30 L 343.195312 30 C 352.503906 30 360 37.496094 360 46.804688 L 360 40.804688 C 360 31.496094 352.503906 24 343.195312 24 Z M 40.804688 24" style="fill:rgb(100%,100%,100%)"/>
   </g>
  </defs>
- <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(57.254902%,57.647059%,100%)" d="M 360 343.199219 L 360 40.800781 C 360 31.523438 352.476562 24 343.199219 24 L 40.800781 24 C 31.523438 24 24 31.523438 24 40.800781 L 24 343.199219 C 24 352.476562 31.523438 360 40.800781 360 L 343.199219 360 C 352.476562 360 360 352.476562 360 343.199219 Z M 360 343.199219"/>
-  <path style="fill:rgb(39.215686%,41.176471%,73.333333%)" d="M 360 343.199219 L 360 186 L 24 186 L 24 343.199219 C 24 352.507812 31.492188 360 40.800781 360 L 343.199219 360 C 352.507812 360 360 352.507812 360 343.199219 Z M 360 343.199219"/>
-  <path style="fill:rgb(24.313725%,24.313725%,24.313725%)" d="M 96 48 L 288 48 L 288 162 L 96 162 M 96 48"/>
-  <path style="fill:rgb(24.313725%,24.313725%,24.313725%)" d="M 120 222 L 264 222 L 264 330 L 120 330 M 120 222"/>
-  <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 60 240 L 84 240 L 84 312 L 60 312 Z M 60 240"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 108 264 L 108 288 L 36 288 L 36 264 Z M 108 264"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 348 276 C 348 282.628906 342.628906 288 336 288 C 329.371094 288 324 282.628906 324 276 C 324 269.375 329.371094 264 336 264 C 342.628906 264 348 269.375 348 276 Z M 348 276"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 300 276 C 300 282.628906 294.628906 288 288 288 C 281.371094 288 276 282.628906 276 276 C 276 269.371094 281.371094 264 288 264 C 294.628906 264 300 269.371094 300 276 Z M 300 276"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 312 264 C 305.371094 264 300 258.628906 300 252 C 300 245.371094 305.371094 240 312 240 C 318.628906 240 324 245.371094 324 252 C 324 258.628906 318.628906 264 312 264 Z M 312 264"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 312 312 C 305.371094 312 300 306.628906 300 300 C 300 293.375 305.371094 288 312 288 C 318.628906 288 324 293.375 324 300 C 324 306.628906 318.628906 312 312 312 Z M 312 312"/>
-  <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <use mask="url(#mask3)" xlink:href="#surface14"/>
-  <use mask="url(#mask4)" xlink:href="#surface17"/>
-  <use mask="url(#mask5)" xlink:href="#surface20"/>
-  <use mask="url(#mask6)" xlink:href="#surface23"/>
-  <use mask="url(#mask7)" xlink:href="#surface26"/>
-  <use mask="url(#mask8)" xlink:href="#surface29"/>
-  <use mask="url(#mask9)" xlink:href="#surface32"/>
+ <g transform="translate(-0.75000274,0.7499973)">
+  <g transform="matrix(1.0044643,0,0,1.0044643,-0.10714286,-1.6071429)">
+   <path style="fill:#b5c2cc" d="M 360,343.19922 V 40.800781 C 360,31.523438 352.47656,24 343.19922,24 H 40.800781 C 31.523438,24 24,31.523438 24,40.800781 V 343.19922 C 24,352.47656 31.523438,360 40.800781,360 H 343.19922 C 352.47656,360 360,352.47656 360,343.19922 Z m 0,0"/>
+   <path style="fill:#8c42ab" d="M 360,343.19922 V 186 H 24 V 343.19922 C 24,352.50781 31.492188,360 40.800781,360 H 343.19922 C 352.50781,360 360,352.50781 360,343.19922 Z m 0,0"/>
+   <path style="fill:#4a4a4a" d="M 96,48 H 288 V 162 H 96 M 96,48"/>
+   <path style="fill:#4a4a4a" d="M 120,222 H 264 V 330 H 120 m 0,-108"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask1)" xlink:href="#surface8"/>
+   <path style="fill:#ffffff" d="m 80,320 v 32 H 48 v 32 h 32 v 32 h 32 v -32 h 32 v -32 h -32 v -32 z m 336,0 c -8.83854,0 -16,7.16146 -16,16 0,8.83854 7.16146,16 16,16 8.83854,0 16,-7.16146 16,-16 0,-8.83854 -7.16146,-16 -16,-16 z m -32,32 c -8.83854,0 -16,7.16146 -16,16 0,8.83854 7.16146,16 16,16 8.83854,0 16,-7.16146 16,-16 0,-8.83854 -7.16146,-16 -16,-16 z m 64,0 c -8.83854,0 -16,7.16667 -16,16 0,8.83854 7.16146,16 16,16 8.83854,0 16,-7.16146 16,-16 0,-8.83333 -7.16146,-16 -16,-16 z m -32,32 c -8.83854,0 -16,7.16667 -16,16 0,8.83854 7.16146,16 16,16 8.83854,0 16,-7.16146 16,-16 0,-8.83333 -7.16146,-16 -16,-16 z" transform="scale(0.75)"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask2)" xlink:href="#surface11"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask3)" transform="matrix(1,0,0,0.39596302,0,61.611772)" xlink:href="#surface14"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask4)" transform="matrix(1,0,0,0.39596302,0,61.611772)" xlink:href="#surface17"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask5)" transform="matrix(1,0,0,0.39596302,0,61.611772)" xlink:href="#surface20"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask6)" transform="matrix(1,0,0,0.39596302,0,61.611772)" xlink:href="#surface23"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask7)" transform="matrix(1,0,0,0.39596302,0,61.611772)" xlink:href="#surface26"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask8)" transform="matrix(1,0,0,0.39596302,0,61.611772)" xlink:href="#surface29"/>
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask9)" xlink:href="#surface32"/>
+  </g>
+  <path style="opacity:0.4" d="m 24.000003,331.07113 v 12.05358 c 0,9.35015 7.525148,16.87529 16.875295,16.87529 H 344.62471 C 353.97485,360 361.5,352.47486 361.5,343.12471 v -12.05358 c 0,9.35016 -7.52515,16.8753 -16.87529,16.8753 H 40.875298 c -9.35015,0 -16.875295,-7.52514 -16.875295,-16.8753 z"/>
  </g>
 </svg>
