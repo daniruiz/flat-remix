@@ -36,7 +36,7 @@ do
     echo ===================================================
     echo $file
 	svg=$(cat $file)
-	file_colors=$(grep -o -P 'rgb\((\d+(.\d+)?%,?){3}\)' $file)
+	file_colors=$(grep -o -P 'rgb\((\d+(.\d+)?%,?){3}\)' $file | sort -u)
 	for file_color in $file_colors
 	do
 	    new_color=$(findNearestColor $file_color)
