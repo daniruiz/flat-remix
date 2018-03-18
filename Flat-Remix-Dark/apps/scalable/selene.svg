@@ -50,11 +50,11 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(94.509804%,82.352941%,47.843137%)" d="M 360 343.199219 L 360 40.800781 C 360 31.523438 352.476562 24 343.199219 24 L 40.800781 24 C 31.523438 24 24 31.523438 24 40.800781 L 24 343.199219 C 24 352.476562 31.523438 360 40.800781 360 L 343.199219 360 C 352.476562 360 360 352.476562 360 343.199219 Z M 360 343.199219"/>
+  <path style="fill:rgb(97.647059%,87.058824%,41.176471%)" d="M 360 343.199219 L 360 40.800781 C 360 31.523438 352.476562 24 343.199219 24 L 40.800781 24 C 31.523438 24 24 31.523438 24 40.800781 L 24 343.199219 C 24 352.476562 31.523438 360 40.800781 360 L 343.199219 360 C 352.476562 360 360 352.476562 360 343.199219 Z M 360 343.199219"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.058824%,27.058824%,27.058824%)" d="M 18 28 C 18 15.39974 26.39974 18 46 18" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(29.803922%,29.803922%,29.803922%)" d="M 18 28 C 18 15.39974 26.39974 18 46 18" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <path style="fill:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(27.058824%,27.058824%,27.058824%)" d="M 46.079427 36 C 46.079427 48.60026 37.679036 46 18.079427 46" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(29.803922%,29.803922%,29.803922%)" d="M 46.079427 36 C 46.079427 48.60026 37.679036 46 18.079427 46" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
  </g>
 </svg>

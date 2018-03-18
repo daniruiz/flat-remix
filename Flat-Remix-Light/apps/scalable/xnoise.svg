@@ -28,7 +28,7 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(67.058824%,27.843137%,73.72549%)" d="M 60 24 L 324 24 C 343.882812 24 360 40.117188 360 60 L 360 324 C 360 343.882812 343.882812 360 324 360 L 60 360 C 40.117188 360 24 343.882812 24 324 L 24 60 C 24 40.117188 40.117188 24 60 24 Z M 60 24"/>
+  <path style="fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 60 24 L 324 24 C 343.882812 24 360 40.117188 360 60 L 360 324 C 360 343.882812 343.882812 360 324 360 L 60 360 C 40.117188 360 24 343.882812 24 324 L 24 60 C 24 40.117188 40.117188 24 60 24 Z M 60 24"/>
   <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(100%,100%,100%)" d="M 15 19 C 24 19 24 32 32 32 C 40 32 40 19 49 19" transform="matrix(6,0,0,6,0,0)"/>
   <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(100%,100%,100%)" d="M 15 45 C 24 45 24 32 32 32 C 40 32 40 45 49 45" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>

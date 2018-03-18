@@ -27,7 +27,7 @@
   </g>
  </defs>
  <g>
-  <path style="fill:rgb(99.607843%,80.392157%,21.960784%)" d="M 192 42 L 240 144 L 342 156 L 270 234 L 288 342 L 192 288 L 96 342 L 114 234 L 42 156 L 144 144 Z M 192 42"/>
+  <path style="fill:rgb(100%,78.431373%,19.215686%)" d="M 192 42 L 240 144 L 342 156 L 270 234 L 288 342 L 192 288 L 96 342 L 114 234 L 42 156 L 144 144 Z M 192 42"/>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
  </g>

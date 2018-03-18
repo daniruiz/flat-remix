@@ -67,13 +67,13 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(99.607843%,80.392157%,21.960784%)" d="M 48 24 C 48 24 24 24 24 48 L 24 336 C 24 360 48 360 48 360 L 240 360 L 360 240 L 360 48 C 360 24 336 24 336 24 Z M 48 24"/>
+  <path style="fill:rgb(100%,78.431373%,19.215686%)" d="M 48 24 C 48 24 24 24 24 48 L 24 336 C 24 360 48 360 48 360 L 240 360 L 360 240 L 360 48 C 360 24 336 24 336 24 Z M 48 24"/>
   <g clip-path="url(#clip2)">
    <g clip-path="url(#clip3)">
     <use mask="url(#mask1)" xlink:href="#surface8"/>
    </g>
   </g>
-  <path style="fill:rgb(100%,90.196078%,60.784314%)" d="M 360 240 L 258 240 C 248.0625 240 240 248.0625 240 258 L 240 360 Z M 360 240"/>
+  <path style="fill:rgb(97.647059%,87.058824%,41.176471%)" d="M 360 240 L 258 240 C 248.0625 240 240 248.0625 240 258 L 240 360 Z M 360 240"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
   <use mask="url(#mask4)" xlink:href="#surface17"/>

@@ -39,9 +39,9 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(30.980392%,30.980392%,30.980392%)" d="M 51.601562 36 L 332.398438 36 C 341.042969 36 348 42.917969 348 51.507812 L 348 332.492188 C 348 341.082031 341.042969 348 332.398438 348 L 51.601562 348 C 42.957031 348 36 341.082031 36 332.492188 L 36 51.507812 C 36 42.917969 42.957031 36 51.601562 36 Z M 51.601562 36"/>
+  <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 51.601562 36 L 332.398438 36 C 341.042969 36 348 42.917969 348 51.507812 L 348 332.492188 C 348 341.082031 341.042969 348 332.398438 348 L 51.601562 348 C 42.957031 348 36 341.082031 36 332.492188 L 36 51.507812 C 36 42.917969 42.957031 36 51.601562 36 Z M 51.601562 36"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(39.607843%,62.352941%,100%)" d="M 5 32 L 23 32 L 29.263021 18 L 34.736979 46 L 41 32 L 59 32" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(29.019608%,68.235294%,90.980392%)" d="M 5 32 L 23 32 L 29.263021 18 L 34.736979 46 L 41 32 L 59 32" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
  </g>
 </svg>

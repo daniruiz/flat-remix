@@ -39,7 +39,7 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(99.607843%,80.392157%,21.960784%)" d="M 24 24 L 120 360 L 264 360 L 360 24 L 264 24 L 192 288 L 120 24 Z M 24 24"/>
+  <path style="fill:rgb(100%,78.431373%,19.215686%)" d="M 24 24 L 120 360 L 264 360 L 360 24 L 264 24 L 192 288 L 120 24 Z M 24 24"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
  </g>

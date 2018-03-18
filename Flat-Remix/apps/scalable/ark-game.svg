@@ -77,12 +77,12 @@
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:rgb(30.980392%,30.980392%,30.980392%)" d="M 24 306 L 108 306 L 192 150 L 276 306 L 360 306 L 234 78 L 150 78 Z M 24 306"/>
+  <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 24 306 L 108 306 L 192 150 L 276 306 L 360 306 L 234 78 L 150 78 Z M 24 306"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <path style="fill:rgb(89.019608%,24.313725%,19.215686%)" d="M 63.601562 234 L 108 306 L 24 306 Z M 63.601562 234"/>
-  <path style="fill:rgb(89.411765%,74.509804%,12.941176%)" d="M 320.398438 234 L 360 306 L 276 306 Z M 320.398438 234"/>
-  <path style="fill:rgb(23.529412%,54.901961%,97.254902%)" d="M 192 150 L 234 78 L 150 78 Z M 192 150"/>
-  <path style="fill:rgb(30.980392%,30.980392%,30.980392%)" d="M 172.621094 186 L 133.847656 258 L 192 258 L 192 186 Z M 172.621094 186"/>
+  <path style="fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 63.601562 234 L 108 306 L 24 306 Z M 63.601562 234"/>
+  <path style="fill:rgb(100%,78.431373%,19.215686%)" d="M 320.398438 234 L 360 306 L 276 306 Z M 320.398438 234"/>
+  <path style="fill:rgb(21.176471%,48.235294%,94.117647%)" d="M 192 150 L 234 78 L 150 78 Z M 192 150"/>
+  <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 172.621094 186 L 133.847656 258 L 192 258 L 192 186 Z M 172.621094 186"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
   <use mask="url(#mask4)" xlink:href="#surface17"/>
   <use mask="url(#mask5)" xlink:href="#surface20"/>

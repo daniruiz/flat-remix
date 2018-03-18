@@ -44,10 +44,10 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(40%,53.333333%,74.509804%)" d="M 360 343.199219 L 360 40.800781 C 360 31.523438 352.476562 24 343.199219 24 L 40.800781 24 C 31.523438 24 24 31.523438 24 40.800781 L 24 343.199219 C 24 352.476562 31.523438 360 40.800781 360 L 343.199219 360 C 352.476562 360 360 352.476562 360 343.199219 Z M 360 343.199219"/>
-  <path style="fill:none;stroke-width:2;stroke-linejoin:round;stroke:rgb(35.686275%,35.686275%,35.686275%)" d="M 14 32 L 42 32" transform="matrix(6,0,0,6,0,0)"/>
-  <path style="fill:none;stroke-width:2;stroke-linejoin:round;stroke:rgb(35.686275%,35.686275%,35.686275%)" d="M 27.80013 32 L 34 18" transform="matrix(6,0,0,6,0,0)"/>
-  <path style="fill:none;stroke-width:2;stroke-linejoin:round;stroke:rgb(35.686275%,35.686275%,35.686275%)" d="M 28 32 L 34 46 L 48 46" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:rgb(31.764706%,72.54902%,76.470588%)" d="M 360 343.199219 L 360 40.800781 C 360 31.523438 352.476562 24 343.199219 24 L 40.800781 24 C 31.523438 24 24 31.523438 24 40.800781 L 24 343.199219 C 24 352.476562 31.523438 360 40.800781 360 L 343.199219 360 C 352.476562 360 360 352.476562 360 343.199219 Z M 360 343.199219"/>
+  <path style="fill:none;stroke-width:2;stroke-linejoin:round;stroke:rgb(29.803922%,29.803922%,29.803922%)" d="M 14 32 L 42 32" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:2;stroke-linejoin:round;stroke:rgb(29.803922%,29.803922%,29.803922%)" d="M 27.80013 32 L 34 18" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:2;stroke-linejoin:round;stroke:rgb(29.803922%,29.803922%,29.803922%)" d="M 28 32 L 34 46 L 48 46" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
   <path style="fill:rgb(100%,100%,100%)" d="M 108 192 C 108 205.253906 97.253906 216 84 216 C 70.746094 216 60 205.253906 60 192 C 60 178.746094 70.746094 168 84 168 C 97.253906 168 108 178.746094 108 192 Z M 108 192"/>
   <path style="fill:rgb(100%,100%,100%)" d="M 192 192 C 192 205.253906 181.253906 216 168 216 C 154.746094 216 144 205.253906 144 192 C 144 178.746094 154.746094 168 168 168 C 181.253906 168 192 178.746094 192 192 Z M 192 192"/>

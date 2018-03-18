@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
  <defs>
   <linearGradient id="linear0" x1="400.396" x2="400.396" y1="545.619" y2="517.619" gradientUnits="userSpaceOnUse">
-   <stop offset="0" style="stop-color:rgb(82.745098%,82.745098%,82.745098%)"/>
-   <stop offset="1" style="stop-color:rgb(98.823529%,97.647059%,97.647059%)"/>
+   <stop offset="0" style="stop-color:rgb(71.764706%,76.470588%,80.392157%)"/>
+   <stop offset="1" style="stop-color:rgb(100%,100%,100%)"/>
   </linearGradient>
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
@@ -13,8 +13,8 @@
    </g>
   </mask>
   <linearGradient id="linear2" x1="430.098" x2="430.098" y1="538.053" y2="526.176" gradientTransform="matrix(10.952153,0,0,10.952153,-4531.510583,-5622.792225)" gradientUnits="userSpaceOnUse">
-   <stop offset="0" style="stop-color:rgb(0%,79.215686%,99.607843%)"/>
-   <stop offset="1" style="stop-color:rgb(7.843137%,37.647059%,95.294118%)"/>
+   <stop offset="0" style="stop-color:rgb(24.313725%,80.392157%,96.470588%)"/>
+   <stop offset="1" style="stop-color:rgb(21.176471%,48.235294%,94.117647%)"/>
   </linearGradient>
   <clipPath id="clip1">
    <rect width="384" height="384" x="0" y="0"/>

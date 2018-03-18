@@ -50,15 +50,15 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(80%,80%,80%)" d="M 324 343.199219 L 324 108 L 60 108 L 60 343.199219 C 60 352.507812 67.359375 360 76.5 360 L 307.5 360 C 316.640625 360 324 352.507812 324 343.199219 Z M 324 343.199219"/>
-  <path style="fill:rgb(72.156863%,72.156863%,72.156863%)" d="M 120 60 L 264 60 L 324 108 L 60 108 Z M 120 60"/>
-  <path style="fill:rgb(63.921569%,63.921569%,63.921569%)" d="M 120 24 L 264 24 L 264 60 L 120 60 Z M 120 24"/>
-  <path style="fill:rgb(63.921569%,63.921569%,63.921569%)" d="M 264 60 L 324 108 L 216 108 Z M 264 60"/>
-  <path style="fill:rgb(72.156863%,72.156863%,72.156863%)" d="M 216 108 L 216 360 L 308.570312 360 C 317.117188 360 324 352.507812 324 343.199219 L 324 108 Z M 216 108"/>
+  <path style="fill:rgb(71.764706%,76.470588%,80.392157%)" d="M 324 343.199219 L 324 108 L 60 108 L 60 343.199219 C 60 352.507812 67.359375 360 76.5 360 L 307.5 360 C 316.640625 360 324 352.507812 324 343.199219 Z M 324 343.199219"/>
+  <path style="fill:rgb(71.764706%,76.470588%,80.392157%)" d="M 120 60 L 264 60 L 324 108 L 60 108 Z M 120 60"/>
+  <path style="fill:rgb(64.705882%,64.705882%,64.705882%)" d="M 120 24 L 264 24 L 264 60 L 120 60 Z M 120 24"/>
+  <path style="fill:rgb(64.705882%,64.705882%,64.705882%)" d="M 264 60 L 324 108 L 216 108 Z M 264 60"/>
+  <path style="fill:rgb(71.764706%,76.470588%,80.392157%)" d="M 216 108 L 216 360 L 308.570312 360 C 317.117188 360 324 352.507812 324 343.199219 L 324 108 Z M 216 108"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(22.745098%,52.54902%,77.254902%)" d="M 29 45.971354 L 29 30 M 17.016927 30 L 23 38 L 29 30 M 17.016927 45.971354 L 17.016927 30" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(16.078431%,50.196078%,72.54902%)" d="M 29 45.971354 L 29 30 M 17.016927 30 L 23 38 L 29 30 M 17.016927 45.971354 L 17.016927 30" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <path style="fill:none;stroke-width:4;stroke-linecap:round;stroke:rgb(22.745098%,52.54902%,77.254902%)" d="M 41.028646 30 L 49.028646 30 M 45.028646 46 L 45.028646 30" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:4;stroke-linecap:round;stroke:rgb(16.078431%,50.196078%,72.54902%)" d="M 41.028646 30 L 49.028646 30 M 45.028646 46 L 45.028646 30" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
  </g>
 </svg>

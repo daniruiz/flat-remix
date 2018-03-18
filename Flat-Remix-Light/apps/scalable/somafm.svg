@@ -39,9 +39,9 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(30.980392%,30.980392%,30.980392%)" d="M 360 342 L 360 42 C 360 32.058594 351.941406 24 342 24 L 42 24 C 32.058594 24 24 32.058594 24 42 L 24 342 C 24 351.941406 32.058594 360 42 360 L 342 360 C 351.941406 360 360 351.941406 360 342 Z M 360 342"/>
+  <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 360 342 L 360 42 C 360 32.058594 351.941406 24 342 24 L 42 24 C 32.058594 24 24 32.058594 24 42 L 24 342 C 24 351.941406 32.058594 360 42 360 L 342 360 C 351.941406 360 360 351.941406 360 342 Z M 360 342"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <path style="fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,31.764706%,31.764706%)" d="M 43 21 L 43 17 L 21 17 L 21 24 L 43 40 L 43 47 L 21 47 L 21 43" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(96.470588%,27.843137%,27.843137%)" d="M 43 21 L 43 17 L 21 17 L 21 24 L 43 40 L 43 47 L 21 47 L 21 43" transform="matrix(6,0,0,6,0,0)"/>
  </g>
 </svg>

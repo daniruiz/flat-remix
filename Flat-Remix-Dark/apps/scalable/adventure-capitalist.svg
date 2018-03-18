@@ -51,8 +51,8 @@
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <path style="fill:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,78.039216%,22.745098%)" d="M 16 51.985026 L 40.938802 51.985026 C 40.938802 51.985026 53 52.697917 53 42.005859 C 53 31.313151 40.938802 32.026042 40.938802 32.026042 L 23.830729 32.026042 C 23.830729 32.026042 11 32.738932 11 22.046224 C 11 11.353516 23.830729 12.066406 23.830729 12.066406 L 48 12.066406" transform="matrix(6,0,0,6,0,0)"/>
-  <path style="fill:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,78.039216%,22.745098%)" d="M 33 6 L 33 58" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,78.431373%,19.215686%)" d="M 16 51.985026 L 40.938802 51.985026 C 40.938802 51.985026 53 52.697917 53 42.005859 C 53 31.313151 40.938802 32.026042 40.938802 32.026042 L 23.830729 32.026042 C 23.830729 32.026042 11 32.738932 11 22.046224 C 11 11.353516 23.830729 12.066406 23.830729 12.066406 L 48 12.066406" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,78.431373%,19.215686%)" d="M 33 6 L 33 58" transform="matrix(6,0,0,6,0,0)"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
  </g>

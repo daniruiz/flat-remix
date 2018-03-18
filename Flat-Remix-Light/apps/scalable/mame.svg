@@ -28,7 +28,7 @@
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill-rule:evenodd;fill:rgb(25.882353%,54.509804%,79.215686%)" d="M 246 72 L 18 300 L 108 300 L 210 198 L 210 300 L 306 204 L 306 300 L 360.480469 245.519531 L 360 72 L 246 186 Z M 246 72"/>
+  <path style="fill-rule:evenodd;fill:rgb(16.078431%,50.196078%,72.54902%)" d="M 246 72 L 18 300 L 108 300 L 210 198 L 210 300 L 306 204 L 306 300 L 360.480469 245.519531 L 360 72 L 246 186 Z M 246 72"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
  </g>
 </svg>
