@@ -12,7 +12,7 @@
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 246 78 L 18 306 L 108 306 L 210 204 L 210 306 L 306 210 L 306 306 L 360.480469 251.519531 L 360 78 L 246 192 Z M 246 78"/>
+   <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 248 96 L 32 312 L 120 312 L 216 216 L 216 312 L 303.714844 224.09375 L 304 312 L 352 264 L 352 96 L 248 208 Z M 248 96"/>
   </g>
   <mask id="mask1">
    <g filter="url(#alpha)">
@@ -23,12 +23,12 @@
    <rect width="384" height="384" x="0" y="0"/>
   </clipPath>
   <g id="surface8" clip-path="url(#clip2)">
-   <path style="fill-rule:evenodd;fill:rgb(100%,100%,100%)" d="M 246 72 L 18 300 L 24 300 L 246 78 Z M 360 72 L 246 186 L 246 192 L 360 78 Z M 360 72"/>
+   <path style="fill-rule:evenodd;fill:rgb(100%,100%,100%)" d="M 248 88 L 32 304 L 40 304 L 248 96 Z M 352 88 L 248 200 L 248 208 L 352 96 Z M 352 88"/>
   </g>
  </defs>
  <g>
   <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill-rule:evenodd;fill:rgb(16.078431%,50.196078%,72.54902%)" d="M 246 72 L 18 300 L 108 300 L 210 198 L 210 300 L 306 204 L 306 300 L 360.480469 245.519531 L 360 72 L 246 186 Z M 246 72"/>
+  <path style="fill-rule:evenodd;fill:rgb(21.176471%,48.235294%,94.117647%)" d="M 248 88 L 32 304 L 120 304 L 216 208 L 216 304 L 303.714844 216.09375 L 304 304 L 352 256 L 352 88 L 248 200 Z M 248 88"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
  </g>
 </svg>
