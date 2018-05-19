@@ -16,11 +16,6 @@ Flat Remix icon theme is available in three variants:
  - Flat Remix Dark - for dark interfaces
  - Flat Remix Light - for light interfaces
 
-<br/>
-
-# [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme)
-![Gnome Shell theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GNOME-theme/master/Images/1.png)
-
 # Installation
 
 #### Manual installation
@@ -56,6 +51,17 @@ sudo dnf install flat-remix
 ##### Arch based distributions
 + [`flat-remix-git`](https://aur.archlinux.org/packages/flat-remix-git/) (AUR)
 
+
+<br/>
+
+# [Flat Remix GNOME theme](https://github.com/daniruiz/Flat-Remix-GNOME-theme)
+![Gnome Shell theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GNOME-theme/master/Images/1.png)
+
+
+<br/>
+
+# [Flat Remix icon theme](https://github.com/daniruiz/flat-remix-gtk)
+![Flat Remix icon theme perview](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GTK/master/1.png)
 
 # Donate
 
