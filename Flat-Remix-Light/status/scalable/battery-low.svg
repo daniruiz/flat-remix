@@ -52,7 +52,7 @@
   <use mask="url(#mask0)" xlink:href="#surface5"/>
   <path style="fill:rgb(35.686275%,35.686275%,35.686275%)" d="M 30 31.5 L 30 7.5 C 30 6.667969 29.332031 6 28.5 6 L 7.5 6 C 6.667969 6 6 6.667969 6 7.5 L 6 31.5 C 6 32.332031 6.667969 33 7.5 33 L 28.5 33 C 29.332031 33 30 32.332031 30 31.5 Z M 30 31.5"/>
   <path style="fill:rgb(55.686275%,55.686275%,55.686275%)" d="M 10.5 3 L 25.5 3 L 25.5 6 L 10.5 6 Z M 10.5 3"/>
-  <path style="fill:rgb(75.294118%,97.647059%,34.117647%)" d="M 8.25 23.25 L 27.75 23.25 L 27.75 29.25 L 8.25 29.25 Z M 8.25 23.25"/>
+  <path style="fill:#19a187" d="M 8.25 23.25 L 27.75 23.25 L 27.75 29.25 L 8.25 29.25 Z M 8.25 23.25"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
