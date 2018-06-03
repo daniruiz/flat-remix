@@ -11,7 +11,6 @@ Flat remix is a pretty simple icon theme inspired on material design. It is most
 </p>
 <br><br>
 
-It has been designed on gnome shell 3.26 and ubuntu 17.04 but it should work with most linux distributions, under gnome, unity, cinnammon, xfce, kde, etc.
 
 Flat Remix icon theme is available in three variants:
  - Flat Remix - main icon theme
