@@ -69,7 +69,9 @@ sudo dnf install flat-remix
 
 You can also support the development of Flat Remix by donating  
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ)  
+<p align="center">
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ)
+</p>
 
 - Bitcoin Wallet:  
 `1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4`  
