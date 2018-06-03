@@ -6,7 +6,9 @@
 Flat remix is a pretty simple icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth and uses a colorful palette with nice contrasts.
 <br><br>
 
-![Icon theme preview](https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/preview.png)
+<p align="center">
+<img src ="https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/preview.png" />
+</p>
 <br><br>
 
 It has been designed on gnome shell 3.26 and ubuntu 17.04 but it should work with most linux distributions, under gnome, unity, cinnammon, xfce, kde, etc.
@@ -68,9 +70,7 @@ sudo dnf install flat-remix
 You can also support the development of Flat Remix by donating  
 
 - [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LEWLS78EAJGJ)  
-  
-- [Patreon](https://www.patreon.com/daniruiz)  
-  
+
 - Bitcoin Wallet:  
 `1K4RhLu7u5xGheWrLAnMPhF2mTA7oMCMj4`  
   
