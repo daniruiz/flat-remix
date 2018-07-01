@@ -1,20 +1,3 @@
-# Default config for SVGO
-#
-# Usage:
-#
-#   for d in Papirus/16x16/* Papirus/22x22/* Papirus/24x24/*
-#   do
-#     svgo --config=_svgo.yml -f "$d"
-#   done
-#
-# or
-#
-#   svgo --config=_svgo.yml -f Papirus/16x16/actions
-#
-# or
-#
-#   svgo --config=_svgo.yml -i FILE
-
 full: true
 multipass: true
 

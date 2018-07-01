@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Flat-Remix-Dark
-
+Comment=Flat Remix ICON theme for dark environments
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
 Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status/scalable,status/symbolic
