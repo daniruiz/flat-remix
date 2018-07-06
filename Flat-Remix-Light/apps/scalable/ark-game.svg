@@ -1,102 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
- <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 152 88 L 32 304 L 36.4375 304 L 151.996094 96 L 231.996094 96 L 347.558594 304 L 351.996094 304 L 231.996094 88 L 151.996094 88 Z M 152 88"/>
-  </g>
-  <mask id="mask1">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.14902"/>
-   </g>
-  </mask>
-  <linearGradient id="linear0" x1="19.528" x2="24.327" y1="30.591" y2="33.124" gradientTransform="matrix(8,0,0,8,0,-24)" gradientUnits="userSpaceOnUse">
-   <stop offset="0" style="stop-color:rgb(0%,0%,0%)"/>
-   <stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0"/>
-  </linearGradient>
-  <clipPath id="clip2">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface8" clip-path="url(#clip2)">
-   <path style="fill:url(#linear0)" d="M 170.953125 192 L 137.265625 256 L 192 256 L 192 192 Z M 170.953125 192"/>
-  </g>
-  <mask id="mask2">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip3">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface11" clip-path="url(#clip3)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 152 96 L 192 160 L 232 96 L 227 96 L 192 152 L 157 96 Z M 36.496094 304 L 31.996094 312 L 111.996094 312 L 106.496094 304 Z M 277.496094 304 L 271.996094 312 L 351.996094 312 L 347.496094 304 Z M 277.496094 304"/>
-  </g>
-  <mask id="mask3">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip4">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface14" clip-path="url(#clip4)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 152 88 L 157 96 L 227 96 L 232 88 Z M 68 240 L 32 304 L 36.5 304 L 68 248 L 106.496094 304 L 112 304 Z M 316 240 L 272 304 L 277.5 304 L 315.996094 248 L 347.5 304 L 351.996094 304 L 315.996094 240 Z M 316 240"/>
-  </g>
-  <mask id="mask4">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip5">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface17" clip-path="url(#clip5)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 192 152 L 112 304 L 36.4375 304 L 32 312 L 112 312 L 192 160 L 272 312 L 352 312 L 347.558594 304 L 272 304 Z M 192 152"/>
-  </g>
-  <mask id="mask5">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip6">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface20" clip-path="url(#clip6)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 170.953125 192 L 137.265625 256 L 141.46875 256 L 170.953125 200 L 192.007812 200 L 192.007812 192 Z M 170.953125 192"/>
-  </g>
-  <mask id="mask6">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip7">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface23" clip-path="url(#clip7)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 141.472656 256 L 137.265625 264 L 192 264 L 192 256 L 141.46875 256 Z M 141.472656 256"/>
-  </g>
- </defs>
- <g>
-  <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 32 304 L 112 304 L 192 152 L 272 304 L 352 304 L 232 88 L 152 88 Z M 32 304"/>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(96.470588%,27.843137%,27.843137%)" d="M 68 240 L 112 304 L 32 304 Z M 68 240"/>
-  <path style="fill:rgb(100%,78.431373%,19.215686%)" d="M 316 240 L 352 304 L 272 304 Z M 316 240"/>
-  <path style="fill:rgb(21.176471%,48.235294%,94.117647%)" d="M 192 152 L 232 88 L 152 88 Z M 192 152"/>
-  <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 170.953125 192 L 137.265625 256 L 192 256 L 192 192 Z M 170.953125 192"/>
-  <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <use mask="url(#mask3)" xlink:href="#surface14"/>
-  <use mask="url(#mask4)" xlink:href="#surface17"/>
-  <use mask="url(#mask5)" xlink:href="#surface20"/>
-  <use mask="url(#mask6)" xlink:href="#surface23"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <path d="m 169.45312,190.5 -33.6875,64 H 190.5 v -64 z m 0,0"/>
+ <path d="m 41,311.49999 h 79.99999 L 192,176 264.49999,311.49999 H 344.5 L 231.99999,112.00001 H 152 Z"/>
+ <path style="fill:#3a3a3a" d="m 32,304 h 80 l 80,-152 80,152 h 80 L 232,88 h -80 z m 0,0"/>
+ <path d="m 192,164 43.59546,-69.752733 h -87.19092 z m 0,0"/>
+ <path style="fill:#357af0" d="m 192,147.5 40,-64 h -80 z m 0,0"/>
+ <path style="fill:#ffc730" d="m 316,240 36,64 h -80 z m 0,0"/>
+ <path style="fill:#f54545" d="m 68,240 44,64 H 32 Z m 0,0"/>
+ <path style="fill:#f54545" d="M 68.000005,240 112,304 H 32.000005 Z m 0,0"/>
+ <path d="M 46.041016 399.33398 L 42.666016 405.33398 L 149.33398 405.33398 L 145.20898 399.33398 L 46.041016 399.33398 z" transform="scale(0.75)" style="opacity:0.3"/>
+ <path d="M 366.79102 399.33398 L 362.66602 405.33398 L 469.33398 405.33398 L 465.95898 399.33398 L 366.79102 399.33398 z" transform="scale(0.75)" style="fill:#030303;opacity:0.3"/>
 </svg>

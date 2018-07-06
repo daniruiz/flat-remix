@@ -53,9 +53,9 @@
   <use mask="url(#mask0)" xlink:href="#surface5"/>
   <use mask="url(#mask1)" xlink:href="#surface8"/>
   <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <path style="fill:rgb(100%,100%,100%)" d="M 304 192 C 304 253.855469 253.855469 304 192 304 C 130.144531 304 80 253.855469 80 192 C 80 130.144531 130.144531 80 192 80 C 253.855469 80 304 130.144531 304 192 Z M 304 192"/>
+  <path style="fill:#ffffff" d="M 304 192 C 304 253.855469 253.855469 304 192 304 C 130.144531 304 80 253.855469 80 192 C 80 130.144531 130.144531 80 192 80 C 253.855469 80 304 130.144531 304 192 Z M 304 192"/>
   <path style="fill:rgb(29.803922%,29.803922%,29.803922%)" d="M 274 115.859375 L 248 140 L 192 192 L 248 244 L 273.96875 268.109375 C 293.21875 247.433594 303.945312 220.25 304 192 C 303.960938 163.746094 293.246094 136.546875 274 115.859375 Z M 274 115.859375"/>
   <use mask="url(#mask3)" xlink:href="#surface14"/>
-  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%)" d="M 34.007812 21 C 34.007812 21 35.070312 22.099609 35.007812 24 C 34.945312 25.900391 34.007812 27 34.007812 27" transform="matrix(8,0,0,8,0,0)"/>
+  <path style="fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%, 100%, 100%)" d="M 34.007812 21 C 34.007812 21 35.070312 22.099609 35.007812 24 C 34.945312 25.900391 34.007812 27 34.007812 27" transform="matrix(8,0,0,8,0,0)"/>
  </g>
 </svg>
