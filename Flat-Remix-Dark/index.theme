@@ -1,13 +1,30 @@
 [Icon Theme]
-Name=Flat-Remix-Dark
-Comment=Flat Remix ICON theme for dark environments
+Name=Flat-Remix
+Comment=Flat Remix ICON theme for dark interfaces
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
+
+Example=folder
+
+FollowsColorScheme=true
+
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64
+ToolbarDefault=22
+ToolbarSizes=16,22,24,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,24,32,48
+SmallDefault=16
+SmallSizes=16,22,24,32,48
+PanelDefault=48
+PanelSizes=16,22,24,32,48,64
+DialogDefault=48
+DialogSizes=16,22,24,32,48,64
 
 Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status/scalable,status/symbolic
 
 [actions/scalable]
 Context=Actions
-Size=16
+Size=24
 MinSize=1
 MaxSize=24
 Type=Scalable
@@ -21,7 +38,7 @@ Type=Scalable
 
 [animations]
 Context=Animations
-Size=22
+Size=24
 MinSize=1
 MaxSize=512
 Type=Scalable
@@ -105,7 +122,7 @@ Type=Scalable
 
 [panel]
 Context=Status
-Size=16
+Size=22
 MinSize=1
 MaxSize=48
 Type=Scalable

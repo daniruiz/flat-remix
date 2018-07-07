@@ -1,24 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <image id="image9" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAJUlEQVQokWNgoDVghDH+/9wXiRD+cIWRPegyNg1MpNowqmFwAAAn7wYQ0n5XxwAAAABJRU5ErkJggg=="/>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <use xlink:href="#image9"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface8" clip-path="url(#clip1)">
-   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 3.25 2 C 3.113281 2 3 2.113281 3 2.25 L 3 2.5 L 2 2.5 L 2 9.75 C 2 9.886719 2.113281 10 2.25 10 L 5.25 10 C 5.386719 10 5.5 9.886719 5.5 9.75 L 5.5 2.5 L 4.5 2.5 L 4.5 2.25 C 4.5 2.113281 4.386719 2 4.25 2 Z M 3.25 2"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g>
-  <use mask="url(#mask0)" xlink:href="#surface8"/>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2 7 L 2 9.75 C 2 9.890625 2.113281 10 2.25 10 L 5.25 10 C 5.386719 10 5.5 9.890625 5.5 9.75 L 5.5 7 Z M 2 7"/>
-  <path style="fill-rule:evenodd;fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 7 2.5 C 6.722656 2.5 6.5 2.722656 6.5 3 L 6.5 9.5 C 6.5 9.777344 6.722656 10 7 10 L 9.5 10 C 9.777344 10 10 9.777344 10 9.5 L 10 3 C 10 2.722656 9.777344 2.5 9.5 2.5 Z M 7 4 L 7.5 4 L 7.5 4.5 L 7 4.5 Z M 8 4 L 8.5 4 L 8.5 4.5 L 8 4.5 Z M 9 4.5 L 9.5 4.5 L 9.5 8 L 9 8 Z M 7 5 L 7.5 5 L 7.5 5.5 L 7 5.5 Z M 8 5 L 8.5 5 L 8.5 5.5 L 8 5.5 Z M 7 6 L 7.5 6 L 7.5 6.5 L 7 6.5 Z M 8 6 L 8.5 6 L 8.5 6.5 L 8 6.5 Z M 7 7 L 7.5 7 L 7.5 7.5 L 7 7.5 Z M 8 7 L 8.5 7 L 8.5 7.5 L 8 7.5 Z M 7 8 L 7.5 8 L 7.5 8.5 L 7 8.5 Z M 8 8 L 8.5 8 L 8.5 8.5 L 8 8.5 Z M 8 8"/>
+ <g transform="translate(-105 -719.36)">
+  <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m108.5 722.36c-0.27701 0-0.5 0.22301-0.5 0.50001v0.5l-2-0.002v-0.00026l-0.00001 14.502c0 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-14.501-0.50001 0.002h-1.5v-0.5c0-0.277-0.22301-0.50001-0.5-0.50001z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m106 732.36-0.00001 5.5017c-0.00001 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-5.5017z"/>
+  <path fill-rule="evenodd" style="fill:currentColor" class="ColorScheme-Text" d="m116 723.36c-0.554 0-1 0.446-1 1v13c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-13c0-0.554-0.446-1-1-1h-5zm0 3h1v1h-1v-1zm2 0h1v1h-1v-1zm2 1h1v7h-1v-7zm-4 1h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1z"/>
  </g>
 </svg>

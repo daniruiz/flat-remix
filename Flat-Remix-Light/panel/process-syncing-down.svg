@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 2.5 2.5 C 2.222656 2.5 2 2.722656 2 3 L 2 4.140625 C 2.148438 4.054688 2.316406 4 2.5 4 L 4.292969 4 L 5.148438 3.148438 C 5.242188 3.050781 5.367188 3 5.5 3 L 6 3 C 6 2.722656 5.777344 2.5 5.5 2.5 Z M 5.5 3.5 L 4.5 4.5 L 2.5 4.5 C 2.222656 4.5 2 4.722656 2 5 L 2 9 C 2 9.554688 2.445312 10 3 10 L 9 10 C 9.554688 10 10 9.554688 10 9 L 10 4 C 10 3.722656 9.777344 3.5 9.5 3.5 Z M 5.5 5 L 6.5 5 L 6.5 7 L 7.5 7 L 6 9 L 4.5 7 L 5.5 7 Z M 5.5 5"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m4 4c-0.554 0-1 0.446-1 1v2.2832c0.2965-0.1755 0.636-0.2832 1-0.2832h1 1 1.5859l1.7071-1.707a1.0001 1.0001 0 0 1 0.707 -0.293h1c0-0.554-0.446-1-1-1h-6zm6 2-2 2h-2-1-1c-0.554 0-1 0.446-1 1v1 1 2 1 3c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-3-1-6c0-0.554-0.446-1-1-1h-8zm0 3h2v4h2l-3 4-3-4h2v-4z"/>
 </svg>

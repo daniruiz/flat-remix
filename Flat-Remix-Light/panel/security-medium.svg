@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 2.5 2 L 2.5 6.300781 C 2.5 8.777344 6 10 6 10 C 6 10 9.5 8.777344 9.5 6.300781 L 9.5 2 Z M 3.5 3 L 6 3 L 6 5.5 L 8.5 5.5 L 8.5 6.597656 C 8.5 8.40625 6 9 6 9 L 6 5.5 L 3.5 5.5 Z M 3.5 3"/>
-  <path style="fill:rgb(23.921569%,68.235294%,91.372549%)" d="M 11 9.5 C 11 10.050781 10.550781 10.5 10 10.5 C 9.449219 10.5 9 10.050781 9 9.5 C 9 8.949219 9.449219 8.5 10 8.5 C 10.550781 8.5 11 8.949219 11 9.5 Z M 11 9.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+ </defs>
+ <g transform="translate(-545 401.01)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m549-398.01v8.6035c-0.00024 4.9478 7 7.3965 7 7.3965s6.9998-2.4486 7-7.3965v-8.6035h-14zm2 2h5v5h5v2.1992c-0.00027 3.6124-5 4.8008-5 4.8008v-7h-5v-5z"/>
  </g>
+ <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="19" cy="18" r="2"/>
 </svg>

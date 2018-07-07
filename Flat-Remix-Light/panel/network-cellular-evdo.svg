@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 2.5 2.5 C 2.5 2.5 1.5 2.5 1.5 3.53125 L 1.5 8.5 C 1.5 9.5 2.5 9.5 2.5 9.5 L 9.5 9.5 C 10.5 9.5 10.5 8.5 10.5 8.5 L 10.5 3.5 C 10.5 3.5 10.5 2.5 9.5 2.5 Z M 3.5 3.5 L 5.5 3.5 L 5.5 4.5 L 3.5 4.5 L 3.5 5.5 L 5 5.5 L 5 6.5 L 3.5 6.5 L 3.5 7.5 L 5.5 7.5 L 5.5 8.5 L 3.5 8.5 C 3.5 8.5 2.5 8.5 2.5 7.5 L 2.5 4.5 C 2.5 3.5 3.5 3.5 3.5 3.5 Z M 6 3.5 L 7 3.5 C 7.25 4.835938 7.5 7.5 7.5 7.5 L 8 7.5 L 8.5 3.5 L 9.5 3.5 L 9 7.5 C 9 7.5 9 8.5 8 8.5 L 7.5 8.5 C 7.5 8.5 6.5 8.5 6.5 7.5 Z M 6 3.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+ </defs>
+ <g transform="translate(-249 -527.36)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m253 531.36s-2 0-2 2.0625v9.9375c0 2 2 2 2 2h14c2 0 2-2 2-2v-10s0-2-2-2zm2 2.002h4v2h-4v2h3v2h-3v2h4v2h-4s-2 0-2-2v-6c0-2 2-2 2-2zm5 0h2c0.50346 2.6669 1 8 1 8h1l1-8h2l-1 8s0 2-2 2h-1s-2 0-2-2z"/>
  </g>
 </svg>

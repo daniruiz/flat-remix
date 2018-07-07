@@ -1,21 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 6 2 C 3.785156 2 2 3.785156 2 6 C 2 8.214844 3.785156 10 6 10 C 8.214844 10 9.996094 8.21875 10 6.003906 C 10 6.003906 10 6 10 6 C 10 3.785156 8.214844 2 6 2 Z M 6.042969 3 C 6.824219 3.011719 7.570312 3.328125 8.121094 3.878906 C 9.292969 5.050781 9.292969 6.949219 8.121094 8.121094 C 6.949219 9.292969 5.050781 9.292969 3.878906 8.121094 C 2.707031 6.949219 2.707031 5.050781 3.878906 3.878906 C 4.453125 3.304688 5.234375 2.988281 6.042969 3 Z M 6 3.5 L 6 6 L 8.5 6.003906 L 8.5 6 C 8.5 4.613281 7.386719 3.5 6 3.5 Z M 4 5.5 C 3.722656 5.5 3.5 5.722656 3.5 6 C 3.5 6.277344 3.722656 6.5 4 6.5 C 4.277344 6.5 4.5 6.277344 4.5 6 C 4.5 5.722656 4.277344 5.5 4 5.5 Z M 6 7.5 C 5.722656 7.5 5.5 7.722656 5.5 8 C 5.5 8.277344 5.722656 8.5 6 8.5 C 6.277344 8.5 6.5 8.277344 6.5 8 C 6.5 7.722656 6.277344 7.5 6 7.5 Z M 6 7.5"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
  </defs>
- <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
- </g>
+ <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m11 3c-4.432 0-8 3.568-8 8s3.568 8 8 8c4.428 0 7.994-3.562 8-7.988v-0.012c0-4.432-3.568-8-8-8zm0.088 2a6 6 0 0 1 4.154 1.7578 6 6 0 0 1 0 8.4842 6 6 0 0 1 -8.4842 0 6 6 0 0 1 0 -8.4842 6 6 0 0 1 4.3302 -1.7578zm-0.088 1v5l5 0.008v-0.008c0-2.7733-2.227-5-5-5zm-4 4a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm4 4a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1z"/>
 </svg>

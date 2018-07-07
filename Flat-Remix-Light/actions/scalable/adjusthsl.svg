@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
  <defs>
-  <linearGradient id="linear0" x1="393" x2="393" y1="-63.996" y2="-77.996" gradientTransform="matrix(0.5,0,0,0.5,-190.5,41.498)" gradientUnits="userSpaceOnUse">
-   <stop offset="0" style="stop-color:rgb(19.215686%,21.176471%,23.137255%)"/>
-   <stop offset="1" style="stop-color:rgb(19.215686%,21.176471%,23.137255%);stop-opacity:0"/>
+  <linearGradient id="linearGradient4177" x1="393" x2="393" y1="-63.996" y2="-77.996" gradientTransform="translate(-385,78.996)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#31363b" offset="0"/>
+   <stop style="stop-color:#31363b;stop-opacity:0" offset="1" stop-opacity="0"/>
   </linearGradient>
  </defs>
- <g>
-  <path style="fill:url(#linear0)" d="M 2.5 2.5 L 2.5 9.5 L 9.5 9.5 L 9.5 2.5 Z M 2.5 2.5"/>
- </g>
+ <path style="fill:url(#linearGradient4177)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 z" transform="translate(4 4)"/>
 </svg>

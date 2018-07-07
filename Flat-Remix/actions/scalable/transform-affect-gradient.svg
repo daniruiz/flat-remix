@@ -1,22 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 3 3 L 3 6.5 L 7 6.5 L 7 6 L 9 6 L 9 3 Z M 3 3"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g>
-  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 3 3 L 3 3.5 L 8.5 3.5 L 8.5 6 L 9 6 L 9 3 Z M 3 4.5 L 3 5 L 6.5 5 L 6.5 6.5 L 7 6.5 L 7 4.5 Z M 7.503906 6.507812 L 7.503906 7.503906 L 6.503906 7.503906 L 6.503906 8 L 7.503906 8 L 7.503906 9 L 9.007812 7.753906 Z M 4 7.496094 L 4 8.011719 L 4.5 8.011719 L 4.5 7.496094 Z M 5.007812 7.496094 L 5.007812 8.011719 L 5.992188 8.011719 L 5.992188 7.496094 Z M 5.007812 7.496094"/>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 2 L 2 3 L 2.5 3 L 13 3 L 13 7.5 L 13 8 L 14 8 L 14 7.5 L 14 2 L 2.5 2 L 2 2 z M 2 5 L 2 6 L 2.5 6 L 9 6 L 9 8.5 L 9 9 L 10 9 L 10 8.5 L 10 5 L 2.5 5 L 2 5 z M 11.007812 9.0136719 L 11.007812 11.007812 L 9.0058594 11.007812 L 9.0058594 12.003906 L 11.007812 12.003906 L 11.007812 14 L 14.011719 11.505859 L 11.007812 9.0136719 z M 4 10.992188 L 4 12.021484 L 5 12.021484 L 5 10.992188 L 4 10.992188 z M 6.0175781 10.992188 L 6.0175781 12.021484 L 6.5019531 12.021484 L 7.5039062 12.021484 L 7.9882812 12.021484 L 7.9882812 10.992188 L 7.5039062 10.992188 L 6.5019531 10.992188 L 6.0175781 10.992188 z" transform="translate(4 4)"/>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 2 2 L 2 5 L 2 8 L 2 9 L 10 9 L 10 8 L 14 8 L 14 2 L 2 2 z" transform="translate(4 4)"/>
 </svg>

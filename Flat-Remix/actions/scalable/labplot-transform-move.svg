@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 6 2.5 L 5 4 L 7 4 Z M 4 5 L 2.5 6 L 4 7 Z M 6 5 C 5.449219 5 5 5.449219 5 6 C 5 6.550781 5.449219 7 6 7 C 6.550781 7 7 6.550781 7 6 C 7 5.449219 6.550781 5 6 5 Z M 8 5 L 8 7 L 9.5 6 Z M 5 8 L 6 9.5 L 7 8 Z M 5 8"/>
- </g>
-</svg>
+transform-move.svg

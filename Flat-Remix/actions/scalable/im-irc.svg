@@ -1,22 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 3.703125 3 C 3.703125 3 3 3 3 3.699219 L 3 5.800781 C 3 6.113281 3.210938 6.375 3.5 6.464844 L 3.5 5.199219 C 3.5 4.5 4.203125 4.5 4.203125 4.5 L 7.785156 4.5 C 7.785156 4.5 7.882812 4.511719 8 4.542969 L 8 3.699219 C 8 3 7.285156 3 7.285156 3 Z M 3.703125 3"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g>
-  <path style="fill:rgb(36.078431%,38.039216%,42.352941%)" d="M 4.703125 5 C 4.703125 5 4 5 4 5.699219 L 4 7.800781 C 4 8.1875 4.316406 8.5 4.714844 8.5 L 6.5 8.5 L 7.25 9.5 L 8 8.5 L 8.285156 8.5 C 8.285156 8.5 9 8.5 9 7.800781 L 9 5.699219 C 9 5 8.285156 5 8.285156 5 Z M 4.703125 5"/>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.4042969 6 C 5.4042969 6 3.9980469 6.0003906 3.9980469 7.4003906 L 3.9980469 11.599609 C 3.9980469 12.375219 4.6363044 13 5.4277344 13 L 8.9980469 13 L 10.498047 15 L 11.998047 13 L 12.570312 13 C 12.570312 13 13.998047 12.999609 13.998047 11.599609 L 13.998047 7.4003906 C 13.998047 6.0003906 12.570312 6 12.570312 6 L 5.4042969 6 z" transform="translate(4 4)"/>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 3.40625 2 C 3.40625 2 2 2.0003906 2 3.4003906 L 2 7.5996094 C 2 8.2278094 2.4207 8.7512875 3 8.9296875 L 3 6.4003906 C 3 5.0003906 4.40625 5 4.40625 5 L 11.572266 5 C 11.572266 5 11.768 5.0235375 12 5.0859375 L 12 3.4003906 C 12 2.0003906 10.572266 2 10.572266 2 L 3.40625 2 z" transform="translate(4 4)"/>
 </svg>

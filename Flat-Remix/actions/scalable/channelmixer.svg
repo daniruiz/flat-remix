@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(99.215686%,73.72549%,29.411765%)" d="M 9.5 7 C 9.5 8.378906 8.378906 9.5 7 9.5 C 5.621094 9.5 4.5 8.378906 4.5 7 C 4.5 5.621094 5.621094 4.5 7 4.5 C 8.378906 4.5 9.5 5.621094 9.5 7 Z M 9.5 7"/>
-  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 7.5 7 C 7.5 8.378906 6.378906 9.5 5 9.5 C 3.621094 9.5 2.5 8.378906 2.5 7 C 2.5 5.621094 3.621094 4.5 5 4.5 C 6.378906 4.5 7.5 5.621094 7.5 7 Z M 7.5 7"/>
-  <path style="fill:rgb(30.980392%,93.72549%,25.882353%)" d="M 8.5 5 C 8.5 6.378906 7.378906 7.5 6 7.5 C 4.621094 7.5 3.5 6.378906 3.5 5 C 3.5 3.621094 4.621094 2.5 6 2.5 C 7.378906 2.5 8.5 3.621094 8.5 5 Z M 8.5 5"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <circle style="fill:#fdbc4b" cx="10" cy="10" r="5" transform="translate(4 4)"/>
+ <circle style="fill:#5294e2" cx="6" cy="10" r="5" transform="translate(4 4)"/>
+ <circle style="fill:#4fef42" cx="8" cy="6" r="5" transform="translate(4 4)"/>
 </svg>

@@ -1,23 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 2.75 2 C 2.613281 2 2.5 2.113281 2.5 2.25 L 2.5 2.5 L 1.5 2.5 L 1.5 9.75 C 1.5 9.886719 1.613281 10 1.75 10 L 4.75 10 C 4.886719 10 5 9.886719 5 9.75 L 5 2.5 L 4 2.5 L 4 2.25 C 4 2.113281 3.886719 2 3.75 2 Z M 2.75 2"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
  </defs>
- <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 1.5 7 L 1.5 9.75 C 1.5 9.890625 1.613281 10 1.75 10 L 4.75 10 C 4.886719 10 5 9.890625 5 9.75 L 5 7 Z M 1.5 7"/>
-  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 8.5 2 C 7.113281 2 6 3.339844 6 5 L 8.5 5 Z M 9 2 L 9 5 L 11.5 5 C 11.5 3.339844 10.386719 2 9 2 Z M 6 5.5 L 6 7 C 6 8.660156 7.113281 10 8.5 10 L 9 10 C 10.386719 10 11.5 8.660156 11.5 7 L 11.5 5.5 Z M 6 5.5"/>
+ <g transform="translate(-105 -767.36)">
+  <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m108.5 770.36c-0.27701 0-0.5 0.22301-0.5 0.50001v0.5l-2-0.002v-0.00026l-0.00001 14.502c0 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-14.501-0.50001 0.002h-1.5v-0.5c0-0.277-0.22301-0.50001-0.5-0.50001z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m106 780.36-0.00001 5.5017c-0.00001 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-5.5017z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m120 770.36c-2.77 0-5 2.676-5 6h5zm1 0v6h5c0-3.324-2.23-6-5-6zm-6 7v3c0 3.324 2.23 6 5 6h1c2.77 0 5-2.676 5-6v-3h-5z"/>
  </g>
 </svg>

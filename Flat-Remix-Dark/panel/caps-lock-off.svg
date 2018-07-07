@@ -1,21 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill-rule:evenodd;fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 2 8.601562 L 2 8.875 C 2 9.480469 2.519531 10 3.125 10 L 8.875 10 C 9.480469 10 10 9.480469 10 8.875 L 10 8.601562 C 9.734375 8.84375 9.386719 9 9 9 L 3 9 C 2.613281 9 2.265625 8.84375 2 8.601562 Z M 6.039062 3.648438 L 5.5 5.644531 L 6.589844 5.644531 Z M 5.449219 3 L 6.605469 3 L 8.0625 7.5 L 7.105469 7.5 L 6.800781 6.5 L 5.265625 6.5 L 4.957031 7.5 L 4 7.5 Z M 3.5 2 C 2.992188 2 2.5625 2.382812 2.507812 2.890625 L 2.007812 7.390625 C 1.941406 7.980469 2.402344 8.5 3 8.5 L 9 8.5 C 9.597656 8.5 10.058594 7.980469 9.996094 7.390625 L 9.496094 2.890625 C 9.4375 2.382812 9.011719 2 8.5 2 Z M 3.5 2"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
  <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:currentColor;fill-rule:evenodd;opacity:0.3" class="ColorScheme-Text" d="m 3.0004243,16.203 0,0.547 c 0,1.212 1.0381,2.25 2.25,2.25 l 11.4999997,0 c 1.212,0 2.25,-1.038 2.25,-2.25 l 0,-0.547 c -0.532,0.485 -1.225,0.797 -2,0.797 L 5.0004243,17 c -0.7746,0 -1.4684,-0.312 -2,-0.797 z M 11.0796,6.2969 10,10.289 l 2.1796,0 z M 9.898824,5 l 2.3146,0 2.91,9 -1.91,0 -0.609,-2 -3.0766997,0 -0.6171,2 -1.9102,0 z M 6.0004243,3 c -1.0193228,-1.709e-4 -1.8757271,0.7662125 -1.9883,1.7793 l -1,8.9997 c -0.1316098,1.184951 0.7960628,2.221193 1.9883,2.221 l 11.9999997,0 c 1.192117,1.4e-5 2.119597,-1.036168 1.988,-2.221 l -1,-8.9997 C 17.875864,3.7663264 17.019632,2.999982 16.000424,3 Z"/>
  </g>
 </svg>

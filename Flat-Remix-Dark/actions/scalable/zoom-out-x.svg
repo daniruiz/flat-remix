@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 3.609375 3 C 3.277344 3 3 3.261719 3 3.59375 L 3 5.5 L 4 5.5 L 4 4 L 5.5 4 L 5.5 3 Z M 6 3 L 6 6 L 9 6 L 9 3 Z M 4.5 6 L 3 7.5 L 4.5 9 L 4.5 8 L 6 8 L 6 7 L 4.5 7 Z M 8 6.5 L 8 8 L 6.5 8 L 6.5 9 L 8.390625 9 C 8.726562 9 9 8.738281 9 8.40625 L 9 6.5 Z M 8 6.5"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.2226562 2 C 2.5527963 2 2.0039062 2.5248 2.0039062 3.1875 L 2.0039062 7 L 4.0039062 7 L 4.0039062 4 L 7.0039062 4 L 7.0039062 2 L 3.2226562 2 z M 8 2 L 8 8 L 14 8 L 14 2 L 8 2 z M 5 8 L 2 11 L 5 14 L 5 12 L 8 12 L 8 10 L 5 10 L 5 8 z M 12.003906 9 L 12.003906 12 L 9.0039062 12 L 9.0039062 14 L 12.785156 14 C 13.455016 14 14.003906 13.4752 14.003906 12.8125 L 14.003906 9 L 12.003906 9 z" transform="translate(4 4)"/>
 </svg>

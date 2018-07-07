@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(94.901961%,47.45098%,20.784314%)" d="M 4 3.5 L 5 3.5 L 5 8.5 L 4 8.5 Z M 4 3.5"/>
-  <path style="fill:rgb(1.568627%,53.72549%,41.568627%)" d="M 6 3.5 L 7 3.5 L 7 8.5 L 6 8.5 Z M 6 3.5"/>
-  <path style="fill:rgb(22.745098%,32.54902%,60.784314%)" d="M 8 3.5 L 9 3.5 L 9 8.5 L 8 8.5 Z M 8 3.5"/>
-  <path style="fill:rgb(99.215686%,82.352941%,52.156863%)" d="M 3 3.5 L 4 3.5 L 4 8.5 L 3 8.5 Z M 3 3.5"/>
-  <path style="fill:rgb(11.372549%,60%,95.294118%)" d="M 7 3.5 L 8 3.5 L 8 8.5 L 7 8.5 Z M 7 3.5"/>
-  <path style="fill:rgb(49.803922%,80%,45.490196%)" d="M 5 3.5 L 6 3.5 L 6 8.5 L 5 8.5 Z M 5 3.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <g transform="translate(-417.70999,-527.78998)">
+  <rect style="fill:#f27935" width="2" height="10" x="425.71" y="534.79"/>
+  <rect style="fill:#04896a" width="2" height="10" x="429.71" y="534.79"/>
+  <rect style="fill:#3a539b" width="2" height="10" x="433.71" y="534.79"/>
+  <rect style="fill:#fdd285" width="2" height="10" x="423.71" y="534.79"/>
+  <rect style="fill:#1d99f3" width="2" height="10" x="431.71" y="534.79"/>
+  <rect style="fill:#7fcc74" width="2" height="10" x="427.71" y="534.79"/>
  </g>
 </svg>

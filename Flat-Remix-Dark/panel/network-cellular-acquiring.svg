@@ -1,22 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 9.5 2.503906 L 7.5 4.503906 L 9.5 4.503906 Z M 4.5 7.503906 L 2.5 9.503906 L 9.5 9.503906 L 9.5 7.503906 Z M 4.5 7.503906"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 3.5 5.003906 C 2.945312 5.003906 2.5 5.449219 2.5 6.003906 C 2.5 6.558594 2.945312 7.003906 3.5 7.003906 C 4.054688 7.003906 4.5 6.558594 4.5 6.003906 C 4.5 5.449219 4.054688 5.003906 3.5 5.003906 Z M 6 5.003906 C 5.445312 5.003906 5 5.449219 5 6.003906 C 5 6.558594 5.445312 7.003906 6 7.003906 C 6.554688 7.003906 7 6.558594 7 6.003906 C 7 5.449219 6.554688 5.003906 6 5.003906 Z M 8.5 5.003906 C 7.945312 5.003906 7.5 5.449219 7.5 6.003906 C 7.5 6.558594 7.945312 7.003906 8.5 7.003906 C 9.054688 7.003906 9.5 6.558594 9.5 6.003906 C 9.5 5.449219 9.054688 5.003906 8.5 5.003906 Z M 8.5 5.003906"/>
+ <g transform="translate(-153 -623.36)">
+  <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m171 627.37-4 4h4v-4zm-10 10-4 4h14v-4h-10z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m159 632.37c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm5 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2z"/>
  </g>
 </svg>

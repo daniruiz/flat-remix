@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:none;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 20.5 18 L 20.5 19.5 C 20.5 20.5 20.5 20.5 19.5 20.5 C 18.5 20.5 18.5 20.5 18.5 19.5 L 18.5 17.5 C 18.5 16.5 18.5 16.5 19.5 16.5 L 21 16.5" transform="matrix(0.5,0,0,0.5,0,0)"/>
-  <path style="fill:none;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 16.5 21 L 16.5 18.5 L 14.5 18.5 L 14.5 16 M 16.5 18.5 L 16.5 16" transform="matrix(0.5,0,0,0.5,0,0)"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m19.5 17v1.5c0 1-0 1-1 1-1 0-1-0-1-1l-0-2c-0-1 0-1 1-1h1.5"/>
+ <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m15.5 20v-2.5h-2v-2.5m2 2.5v-2.5"/>
 </svg>

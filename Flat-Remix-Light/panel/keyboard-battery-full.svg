@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
- <g>
-  <path style="fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 3.25 2 C 3.113281 2 3 2.113281 3 2.25 L 3 2.5 L 2 2.5 L 2 9.75 C 2 9.890625 2.113281 10 2.25 10 L 5.25 10 C 5.386719 10 5.5 9.890625 5.5 9.75 L 5.5 2.5 L 4.5 2.5 L 4.5 2.25 C 4.5 2.113281 4.386719 2 4.25 2 Z M 3.25 2"/>
-  <path style="fill-rule:evenodd;fill:rgb(19.215686%,21.176471%,23.137255%)" d="M 7 2.5 C 6.722656 2.5 6.5 2.722656 6.5 3 L 6.5 9.5 C 6.5 9.777344 6.722656 10 7 10 L 9.5 10 C 9.777344 10 10 9.777344 10 9.5 L 10 3 C 10 2.722656 9.777344 2.5 9.5 2.5 Z M 7 4 L 7.5 4 L 7.5 4.5 L 7 4.5 Z M 8 4 L 8.5 4 L 8.5 4.5 L 8 4.5 Z M 9 4.5 L 9.5 4.5 L 9.5 8 L 9 8 Z M 7 5 L 7.5 5 L 7.5 5.5 L 7 5.5 Z M 8 5 L 8.5 5 L 8.5 5.5 L 8 5.5 Z M 7 6 L 7.5 6 L 7.5 6.5 L 7 6.5 Z M 8 6 L 8.5 6 L 8.5 6.5 L 8 6.5 Z M 7 7 L 7.5 7 L 7.5 7.5 L 7 7.5 Z M 8 7 L 8.5 7 L 8.5 7.5 L 8 7.5 Z M 7 8 L 7.5 8 L 7.5 8.5 L 7 8.5 Z M 8 8 L 8.5 8 L 8.5 8.5 L 8 8.5 Z M 8 8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#31363b; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+ </defs>
+ <g transform="translate(-33 -719.36)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m36.5 722.36c-0.277 0-0.5 0.22301-0.5 0.50001v0.5h-2v-0.00026l-0.000015 14.502c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5v-14.5l-0.50002 0.002h-1.5v-0.5c0-0.277-0.223-0.50001-0.5-0.50001z"/>
+  <path fill-rule="evenodd" style="fill:currentColor" class="ColorScheme-Text" d="m44 723.36c-0.554 0-1 0.446-1 1v13c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-13c0-0.554-0.446-1-1-1h-5zm0 3h1v1h-1v-1zm2 0h1v1h-1v-1zm2 1h1v7h-1v-7zm-4 1h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1z"/>
  </g>
 </svg>

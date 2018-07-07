@@ -1,23 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-  </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="12" height="12" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.34902"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="12" height="12" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 2.75 2 C 2.613281 2 2.5 2.113281 2.5 2.25 L 2.5 2.5 L 1.5 2.5 L 1.5 9.75 C 1.5 9.886719 1.613281 10 1.75 10 L 4.75 10 C 4.886719 10 5 9.886719 5 9.75 L 5 2.5 L 4 2.5 L 4 2.25 C 4 2.113281 3.886719 2 3.75 2 Z M 2.75 2"/>
-  </g>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g>
-  <path style="fill:rgb(82.745098%,85.490196%,89.019608%)" d="M 6.5 2 C 6 2 6 2.5 6 2.5 L 6 9.5 C 6 9.5 6 10 6.5 10 L 10.5 10 C 11 10 11 9.5 11 9.5 L 11 2.5 C 11 2.5 11 2 10.5 2 Z M 7 3 L 10 3 L 10 8.5 L 7 8.5 Z M 7 3"/>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(32.156863%,58.039216%,88.627451%)" d="M 1.5 8.5 L 1.5 9.75 C 1.5 9.886719 1.613281 10 1.75 10 L 4.75 10 C 4.886719 10 5 9.886719 5 9.75 L 5 8.5 Z M 1.5 8.5"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m11 3c-1 0-1 1-1 1v14s0 1 1 1h8c1 0 1-1 1-1v-14s0-1-1-1zm0.9998 2.0034h6v11h-6z"/>
+ <path opacity=".35" style="fill:currentColor" class="ColorScheme-Highlight" d="m3.5 3c-0.277 0-0.5 0.223-0.5 0.5v0.5l-2-0.002v-0.00026l-0.00002 14.502c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5v-14.501l-0.50002 0.002h-1.5v-0.5c0-0.277-0.223-0.50001-0.5-0.50001z"/>
+ <path style="fill:currentColor" class="ColorScheme-Highlight" d="m1 16v2.5c0 0.277 0.223 0.5 0.5 0.5h6c0.277 0 0.5-0.223 0.5-0.5v-2.5z"/>
 </svg>
