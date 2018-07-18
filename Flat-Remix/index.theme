@@ -122,7 +122,7 @@ Type=Scalable
 
 [panel]
 Context=Status
-Size=22
+Size=24
 MinSize=1
 MaxSize=48
 Type=Scalable

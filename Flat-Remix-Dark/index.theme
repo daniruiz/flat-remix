@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Flat-Remix
+Name=Flat-Remix-Dark
 Comment=Flat Remix ICON theme for dark interfaces
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
@@ -122,7 +122,7 @@ Type=Scalable
 
 [panel]
 Context=Status
-Size=22
+Size=24
 MinSize=1
 MaxSize=48
 Type=Scalable
