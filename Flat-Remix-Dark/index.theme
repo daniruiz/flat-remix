@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Flat-Remix-Dark
-Comment=Flat Remix ICON theme for dark interfaces
+Name=Flat-Remix-Light
+Comment=Flat Remix ICON theme for light interfaces
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
 Example=folder
@@ -122,8 +122,8 @@ Type=Scalable
 
 [panel]
 Context=Status
-Size=24
-MinSize=1
+Size=48
+MinSize=48
 MaxSize=48
 Type=Scalable
 
