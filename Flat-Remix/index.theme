@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Flat-Remix-Light
-Comment=Flat Remix ICON theme for light interfaces
+Name=Flat-Remix
+Comment=Flat Remix ICON theme
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
 Example=folder
