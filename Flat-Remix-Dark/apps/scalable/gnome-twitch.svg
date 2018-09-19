@@ -3,28 +3,6 @@
   <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
    <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
   </filter>
-  <mask id="mask0">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
-   </g>
-  </mask>
-  <clipPath id="clip1">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface5" clip-path="url(#clip1)">
-   <path style="fill:rgb(0%,0%,0%)" d="M 24 330 L 24 342 C 24 351.972656 32.027344 360 42 360 L 342 360 C 351.972656 360 360 351.972656 360 342 L 360 330 C 360 339.972656 351.972656 348 342 348 L 42 348 C 32.027344 348 24 339.972656 24 330 Z M 24 330"/>
-  </g>
-  <mask id="mask1">
-   <g filter="url(#alpha)">
-    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
-   </g>
-  </mask>
-  <clipPath id="clip2">
-   <rect width="384" height="384" x="0" y="0"/>
-  </clipPath>
-  <g id="surface8" clip-path="url(#clip2)">
-   <path style="fill:rgb(100%,100%,100%)" d="M 42 18 C 32.027344 18 24 26.027344 24 36 L 24 42 C 24 32.027344 32.027344 24 42 24 L 342 24 C 351.972656 24 360 32.027344 360 42 L 360 36 C 360 26.027344 351.972656 18 342 18 Z M 42 18"/>
-  </g>
   <mask id="mask2">
    <g filter="url(#alpha)">
     <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
@@ -37,11 +15,11 @@
    <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 96 72 L 84 120 L 84 300 L 132 300 L 132 324 L 156 324 L 180 300 L 216 300 L 300 216 L 300 72 Z M 120 84 L 288 84 L 288 210 L 258 240 L 192 240 L 156 276 L 156 240 L 120 240 Z M 168 120 L 168 192 L 192 192 L 192 120 Z M 228 120 L 228 192 L 252 192 L 252 120 Z M 228 120"/>
   </g>
  </defs>
- <g>
-  <use mask="url(#mask0)" xlink:href="#surface5"/>
-  <path style="fill:rgb(55.686275%,26.666667%,67.843137%)" d="M 360 336 L 360 36 C 360 26.058594 351.941406 18 342 18 L 42 18 C 32.058594 18 24 26.058594 24 36 L 24 336 C 24 345.941406 32.058594 354 42 354 L 342 354 C 351.941406 354 360 345.941406 360 336 Z M 360 336"/>
-  <use mask="url(#mask1)" xlink:href="#surface8"/>
-  <use mask="url(#mask2)" xlink:href="#surface11"/>
-  <path style="fill-rule:evenodd;fill:rgb(100%,100%,100%)" d="M 96 66 L 84 114 L 84 294 L 132 294 L 132 318 L 156 318 L 180 294 L 216 294 L 300 210 L 300 66 Z M 120 78 L 288 78 L 288 204 L 258 234 L 192 234 L 156 270 L 156 234 L 120 234 Z M 168 114 L 168 186 L 192 186 L 192 114 Z M 228 114 L 228 186 L 252 186 L 252 114 Z M 228 114"/>
+ <g transform="matrix(1.3023256,0,0,1.3023256,-58.046515,-89.441865)">
+  <path d="m 97.00152,92.30266 h 189.99696 l 5.1574,134.00849 -74.25289,67.20345 -120.90147,-1.81726 z" style="fill:#ffffff"/>
+  <g transform="matrix(1.0044643,0,0,1.0044643,-0.8571456,20.236605)">
+   <use width="100%" height="100%" x="0" y="0" mask="url(#mask2)" xlink:href="#surface11"/>
+   <path d="m 96,66 -12,48 v 180 h 48 v 24 h 24 l 24,-24 h 36 l 84,-84 V 66 Z m 24,12 h 168 v 126 l -30,30 h -66 l -36,36 v -36 h -36 z m 48,36 v 72 h 24 v -72 z m 60,0 v 72 h 24 v -72 z m 0,0" style="fill:#8c42ab;fill-rule:evenodd"/>
+  </g>
  </g>
 </svg>
