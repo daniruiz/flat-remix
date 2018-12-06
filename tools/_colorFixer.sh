@@ -46,7 +46,7 @@ function findNearestColor {
     echo $bestColor
 }
 
-for file in $(find -name "$FILE_NAME" -maxdepth 1 -type f -printf "%f\n")
+for file in $(find -iname "$FILE_NAME" -maxdepth 1 -type f -printf "%f\n")
 do
     echo ===================================================
     echo $file
@@ -56,9 +56,11 @@ do
     do
         if [[ ${file_color:0:1} = '#' ]]
         then
-            file_color=$(hexToRgb $file_color)
+            file_color_rgb=$(hexToRgb $file_color)
+            new_color=$(findNearestColor $file_color_rgb)
+        else
+            new_color=$(findNearestColor $file_color)
         fi
-        new_color=$(findNearestColor $file_color)
         echo $file_color '->' $new_color
 
         svg=$(sed "s/$file_color/$new_color/g" <<< $svg)
