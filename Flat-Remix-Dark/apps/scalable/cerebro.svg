@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384"> <defs> <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/> </filter> <mask id="mask0"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/> </g> </mask> <clipPath id="clip1"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface5" clip-path="url(#clip1)"> <path style="fill:rgb(0%,0%,0%)" d="M 192 30 C 99.214844 30 24 105.214844 24 198 C 24 290.785156 99.214844 366 192 366 C 284.785156 366 360 290.785156 360 198 C 360 105.214844 284.785156 30 192 30 Z M 192 30"/> </g> <mask id="mask1"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/> </g> </mask> <clipPath id="clip2"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface8" clip-path="url(#clip2)"> <path style="fill:rgb(100.000%,100.000%,100.000%)" d="M 192 24 C 99.214844 24 24 99.214844 24 192 C 24.035156 192.8125 24.078125 193.625 24.128906 194.4375 C 26.066406 103.097656 100.640625 30.050781 192 30 C 283.753906 30.058594 358.488281 103.726562 359.871094 195.46875 C 359.925781 194.3125 359.96875 193.15625 360 192 C 360 99.214844 284.785156 24 192 24 Z M 192 24"/> </g> </defs> <g> <use mask="url(#mask0)" xlink:href="#surface5"/> <path style="fill:rgb(90.196%,90.196%,90.196%)" d="M 192 24 C 99.214844 24 24 99.214844 24 192 C 24 284.785156 99.214844 360 192 360 C 284.785156 360 360 284.785156 360 192 C 360 99.214844 284.785156 24 192 24 Z M 192 24"/> <path style="fill:none;stroke-width:5;stroke:rgb(29.803%,29.803%,29.803%)" d="M 46.39974 39.89974 L 32 48.10026 L 17.5 39.89974 L 17.5 24.10026 L 32 15.89974 L 46.39974 24.10026" transform="matrix(6,0,0,6,0,0)"/> <path style="fill:none;stroke-width:3;stroke:rgb(54.901%,25.882%,67.058%)" d="M 40 36.5 L 32 41 L 23.5 36.19987 L 23.5 27.80013 L 32 23 L 40 27.5" transform="matrix(6,0,0,6,0,0)"/> <use mask="url(#mask1)" xlink:href="#surface8"/> </g> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 192 30 C 99.214844 30 24 105.214844 24 198 C 24 290.785156 99.214844 366 192 366 C 284.785156 366 360 290.785156 360 198 C 360 105.214844 284.785156 30 192 30 Z M 192 30"/>
+  </g>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
+   </g>
+  </mask>
+  <clipPath id="clip2">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface8" clip-path="url(#clip2)">
+   <path style="fill:rgb(100.000%,100.000%,100.000%)" d="M 192 24 C 99.214844 24 24 99.214844 24 192 C 24.035156 192.8125 24.078125 193.625 24.128906 194.4375 C 26.066406 103.097656 100.640625 30.050781 192 30 C 283.753906 30.058594 358.488281 103.726562 359.871094 195.46875 C 359.925781 194.3125 359.96875 193.15625 360 192 C 360 99.214844 284.785156 24 192 24 Z M 192 24"/>
+  </g>
+ </defs>
+ <g>
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:#ffffff" d="M 192 24 C 99.214844 24 24 99.214844 24 192 C 24 284.785156 99.214844 360 192 360 C 284.785156 360 360 284.785156 360 192 C 360 99.214844 284.785156 24 192 24 Z M 192 24"/>
+  <path style="fill:none;stroke-width:5;stroke:rgb(29.803%,29.803%,29.803%)" d="M 46.39974 39.89974 L 32 48.10026 L 17.5 39.89974 L 17.5 24.10026 L 32 15.89974 L 46.39974 24.10026" transform="matrix(6,0,0,6,0,0)"/>
+  <path style="fill:none;stroke-width:3;stroke:rgb(54.901%,25.882%,67.058%)" d="M 40 36.5 L 32 41 L 23.5 36.19987 L 23.5 27.80013 L 32 23 L 40 27.5" transform="matrix(6,0,0,6,0,0)"/>
+  <use mask="url(#mask1)" xlink:href="#surface8"/>
+ </g>
+</svg>
