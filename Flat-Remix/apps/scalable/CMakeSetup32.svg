@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384"> <defs> <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/> </filter> <mask id="mask0"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/> </g> </mask> <clipPath id="clip1"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface5" clip-path="url(#clip1)"> <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 360.820312 361.179688 L 208.75 244.390625 L 212.441406 299.148438 Z M 360.820312 361.179688"/> </g> <mask id="mask1"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/> </g> </mask> <clipPath id="clip2"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface8" clip-path="url(#clip2)"> <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 23.238281 360.761719 L 192.003906 290.433594 L 138.675781 269.191406 Z M 23.238281 360.761719"/> </g> <mask id="mask2"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"/> </g> </mask> <clipPath id="clip3"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface11" clip-path="url(#clip3)"> <path style="fill-rule:evenodd;fill:rgb(0%,0%,0%)" d="M 192.222656 23.601562 L 159.949219 260.382812 L 206.738281 225.714844 Z M 192.222656 23.601562"/> </g> </defs> <g> <path style="fill:rgb(100.000%,100.000%,100.000%)" d="M 123.800781 192.375 L 259.664062 192.375 L 259.664062 320.644531 L 123.800781 320.644531 Z M 123.800781 192.375"/> <path style="fill:rgb(83.137%,9.803%,9.803%)" d="M 360.75 360.75 L 212.550781 303.828125 L 192 23.25 Z M 360.75 360.75"/> <use mask="url(#mask0)" xlink:href="#surface5"/> <path style="fill:rgb(9.803%,63.137%,52.941%)" d="M 23.25 360.75 L 143.328125 270.546875 L 360.75 360.75 Z M 23.25 360.75"/> <use mask="url(#mask1)" xlink:href="#surface8"/> <path style="fill:rgb(21.176%,48.235%,94.117%)" d="M 23.25 360.75 L 206.945312 226.058594 L 192 23.25 Z M 23.25 360.75"/> <use mask="url(#mask2)" xlink:href="#surface11"/> </g> </svg>
+<svg width="512" height="512" version="1.1" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath>
+   <rect width="384" height="384"/>
+  </clipPath>
+  <clipPath>
+   <rect width="384" height="384"/>
+  </clipPath>
+  <clipPath>
+   <rect width="384" height="384"/>
+  </clipPath>
+ </defs>
+ <path d="m192.00586 30.74415-168.75 337.5h0.0044l-0.01611 0.0117 0.02783-0.0117h337.48388z" style="opacity:.3"/>
+ <path d="m123.80078 192.375h135.86328v128.26953h-135.86328z" style="fill:#ffffff"/>
+ <path d="m192.08593 30.687986-168.74999 337.49999 183.60937-134.62939l5.69092 77.70703 148.1997 56.92236z" style="fill:#0a0a0a;opacity:.3"/>
+ <path d="m360.75 360.75-148.19922-56.92188-20.55078-280.57812z" style="fill:#d41717"/>
+ <path d="m23.25 360.75 120.07812-90.20313 217.42188 90.20313z" style="fill:#17a185"/>
+ <path d="m23.238281 360.76172 168.76563-70.32813-48.67578-19.88671z" style="opacity:.3"/>
+ <path d="M 23.25,360.75 206.94531,226.05859 192,23.25 Z m 0,0" style="fill:#357af0"/>
+ <path d="m 208.75,244.39063 3.69141,54.7578 L 360.75,360.75 Z" style="opacity:.3"/>
+ <path d="M 159.94922,260.38281 192,23.25 206.73828,225.71485 Z" style="opacity:.3"/>
+</svg>
