@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" version="1.1" viewBox="0 0 384 384">
+ <defs>
+  <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+   <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 307.5 30 L 76.5 30 C 67.386719 30 60 37.523438 60 46.800781 L 60 349.199219 C 60 358.476562 67.386719 366 76.5 366 L 307.5 366 C 316.613281 366 324 358.476562 324 349.199219 L 324 46.800781 C 324 37.523438 316.613281 30 307.5 30 Z M 307.5 30"/>
+  </g>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/>
+   </g>
+  </mask>
+  <clipPath id="clip3">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface11" clip-path="url(#clip3)">
+   <path style="fill:rgb(0%,0%,0%)" d="M 264 282 C 264 321.765625 231.765625 354 192 354 C 152.234375 354 120 321.765625 120 282 C 120 242.234375 152.234375 210 192 210 C 231.765625 210 264 242.234375 264 282 Z M 264 282"/>
+  </g>
+  <mask id="mask3">
+   <g filter="url(#alpha)">
+    <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/>
+   </g>
+  </mask>
+  <clipPath id="clip4">
+   <rect width="384" height="384" x="0" y="0"/>
+  </clipPath>
+  <g id="surface14" clip-path="url(#clip4)">
+   <path style="fill:rgb(100.000%,100.000%,100.000%)" d="M 76.5 24 C 67.359375 24 60 31.496094 60 40.804688 L 60 46.804688 C 60 37.496094 67.359375 30 76.5 30 L 307.5 30 C 316.640625 30 324 37.496094 324 46.804688 L 324 40.804688 C 324 31.496094 316.640625 24 307.5 24 Z M 76.5 24"/>
+  </g>
+ </defs>
+ <g>
+  <use width="100%" height="100%" x="0" y="0" mask="url(#mask0)" xlink:href="#surface5"/>
+  <path style="fill:#cfcfcf" d="M 307.5,24 H 76.5 C 67.386719,24 60,31.523438 60,40.800781 V 343.19922 C 60,352.47656 67.386719,360 76.5,360 h 231 c 9.11328,0 16.5,-7.52344 16.5,-16.80078 V 40.800781 C 324,31.523438 316.61328,24 307.5,24 Z m 0,0"/>
+  <use width="100%" height="100%" x="0" y="0" mask="url(#mask2)" xlink:href="#surface11"/>
+  <path style="fill:#ffffff" d="m 264,276 c 0,39.76562 -32.23438,72 -72,72 -39.76563,0 -72,-32.23438 -72,-72 0,-39.76563 32.23437,-72 72,-72 39.76562,0 72,32.23437 72,72 z m 0,0"/>
+  <path style="fill:#b3b3b3" d="m 228,276 c 0,19.88281 -16.11719,36 -36,36 -19.88281,0 -36,-16.11719 -36,-36 0,-19.88281 16.11719,-36 36,-36 19.88281,0 36,16.11719 36,36 z m 0,0"/>
+  <use width="100%" height="100%" x="0" y="0" mask="url(#mask3)" xlink:href="#surface14"/>
+  <rect width="240" height="144" x="72" y="36" style="paint-order:markers stroke fill" rx="6.102" ry="6.102"/>
+ </g>
+</svg>
