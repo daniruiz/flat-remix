@@ -1,4 +1,6 @@
-![Flat Remix](https://cdn.rawgit.com/daniruiz/Flat-Remix/master/logo.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/assets/logo.png"/>
+</p>
 
 ###### Flat-Remix is licensed under the GNU General Public License v3.0
 <hr>
@@ -7,7 +9,7 @@ Flat remix is a pretty simple icon theme inspired on material design. It is most
 <br><br>
 
 <p align="center">
-<img src ="https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/preview.png" />
+<img src="https://raw.githubusercontent.com/daniruiz/Flat-Remix/master/assets/preview.png"/>
 </p>
 <br><br>
 
