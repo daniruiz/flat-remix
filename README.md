@@ -51,7 +51,7 @@ sudo dnf install flat-remix
 ```
 
 ##### Arch based distributions
- - [`flat-remix-git`](https://aur.archlinux.org/packages/flat-remix-git/) (AUR)
+ - [`flat-remix`](https://aur.archlinux.org/packages/flat-remix/) (AUR)
 
 <hr/>
 
