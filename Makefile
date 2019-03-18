@@ -3,7 +3,7 @@
 
 PREFIX ?= /usr
 IGNORE ?=
-THEMES ?= Flat-Remix Flat-Remix-Dark Flat-Remix-Light
+THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
 
 # excludes IGNORE from THEMES list
 THEMES := $(filter-out $(IGNORE), $(THEMES))
@@ -14,7 +14,7 @@ install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share/icons
 
-# skip building icon caches when packaging
+	# skip building icon caches when packaging
 	$(if $(DESTDIR),,$(MAKE) $(THEMES))
 
 $(THEMES):
