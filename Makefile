@@ -24,16 +24,30 @@ uninstall:
 	-rm -rf $(foreach theme,$(THEMES),$(DESTDIR)$(PREFIX)/share/icons/$(theme))
 
 _get_version:
-	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
+	$(eval VERSION ?= $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
 
 dist: _get_version
 	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
+aur_release: _get_version
+	cd aur; \
+	sed "s/pkgver=.*/pkgver=$(VERSION)/" -i PKGBUILD; \
+	makepkg --printsrcinfo > .SRCINFO; \
+	git commit -a -m "$(VERSION)"; \
+	git push origin
+
+copr_release: _get_version
+	sed "s/Version:.*/Version: $(VERSION)/" -i flat-remix.spec
+	git add flat-remix.spec
+	git commit -m "Update flat-remix.spec version $(VERSION)"
+	git push origin
+
 release: _get_version
 	git tag -f $(VERSION)
-	git push origin
 	git push origin --tags
+	$(MAKE) copr_release
+	$(MAKE) aur_release
 
 undo_release: _get_version
 	-git tag -d $(VERSION)

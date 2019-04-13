@@ -1,0 +1,3 @@
+[submodule "flat-remix"]
+	path = aur
+	url = ssh://aur.archlinux.org/flat-remix.git
