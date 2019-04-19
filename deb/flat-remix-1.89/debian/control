@@ -1,0 +1,22 @@
+Source: flat-remix
+Section: misc
+Priority: optional
+Maintainer: Daniel Ruiz de Alegría <daniel@drasite.com>
+Build-Depends: debhelper (>= 9)
+Homepage: https://drasite.com/flat-remix
+
+Package: flat-remix
+Architecture: any
+Description: Flat Remix ICON theme
+ Flat remix is a pretty simple icon theme inspired on material design following a modern design using "flat" colors with high contrasts and sharp borders.
+ .
+ Themes:
+  • Flat Remix: main theme
+  • Flat Remix Dark: for dark interfaces
+  • Flat Remix Light: for light interfaces
+ .
+ Folder variants:
+  • Blue Folders
+  • Green Folders
+  • Red Folders
+  • Yellow Folders
