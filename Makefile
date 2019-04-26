@@ -24,34 +24,40 @@ uninstall:
 	-rm -rf $(foreach theme,$(THEMES),$(DESTDIR)$(PREFIX)/share/icons/$(theme))
 
 _get_version:
-	$(eval VERSION ?= $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
+	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
+
+_get_tag:
+	$(eval TAG := $(shell git describe --abbrev=0 --tags))
+	@echo $(TAG)
 
 dist: _get_version
 	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
-aur_release: _get_version
-	cd aur; \
-	sed "s/pkgver=.*/pkgver=$(VERSION)/" -i PKGBUILD; \
-	makepkg --printsrcinfo > .SRCINFO; \
-	git commit -a -m "$(VERSION)"; \
-	git push origin
-
-copr_release: _get_version
-	sed "s/Version:.*/Version: $(VERSION)/" -i flat-remix.spec
-	git add flat-remix.spec
-	git commit -m "Update flat-remix.spec version $(VERSION)"
-	git push origin
-
 release: _get_version
 	git tag -f $(VERSION)
-	git push origin --tags
-	$(MAKE) copr_release
 	$(MAKE) aur_release
+	$(MAKE) copr_release
+	git push origin --tags
 
-undo_release: _get_version
-	-git tag -d $(VERSION)
-	-git push --delete origin $(VERSION)
+aur_release: _get_tag
+	cd aur; \
+	sed "s/pkgver\s*=.*/pkgver=$(TAG)/" -i PKGBUILD .SRCINFO; \
+	makepkg --printsrcinfo > .SRCINFO; \
+	git commit -a -m "$(TAG)"; \
+	git push origin;
+
+	git commit aur -m "$(TAG)"
+	git push origin
+
+copr_release: _get_tag
+	sed "s/Version:.*/Version: $(TAG)/" -i flat-remix-gtk.spec
+	git commit flat-remix-gtk.spec -m "Update flat-remix-gtk.spec version $(TAG)"
+	git push origin
+
+undo_release: _get_tag
+	-git tag -d $(TAG)
+	-git push --delete origin $(TAG)
 
 
 .PHONY: $(THEMES) all install uninstall _get_version dist release undo_release
