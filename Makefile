@@ -51,8 +51,8 @@ aur_release: _get_tag
 	git push origin
 
 copr_release: _get_tag
-	sed "s/Version:.*/Version: $(TAG)/" -i flat-remix-gtk.spec
-	git commit flat-remix-gtk.spec -m "Update flat-remix-gtk.spec version $(TAG)"
+	sed "s/Version:.*/Version: $(TAG)/" -i flat-remix.spec
+	git commit flat-remix.spec -m "Update flat-remix.spec version $(TAG)"
 	git push origin
 
 undo_release: _get_tag
