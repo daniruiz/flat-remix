@@ -22,18 +22,9 @@
 
 #### Manual installation
 
-1. Download and uncompress the zip file.
-1. Move "Flat Remix" folder to ".icons" in your home directory.
-1. Run ```gsettings set org.gnome.desktop.interface icon-theme "Flat-Remix-Blue"``` or select "Flat-Remix" via your desktop specific tweaks application.
-
-#### Terminal installation
-
-```sh
-cd /tmp && rm -rf flat-remix &&
-git clone https://github.com/daniruiz/flat-remix &&
-mkdir -p ~/.icons && cp -r flat-remix/Flat-Remix* ~/.icons/ &&
-gsettings set org.gnome.desktop.interface icon-theme "Flat-Remix-Blue"
-```
+1. Download and extract the zip file.
+1. Move "Flat-Remix-Blue" folder to ".icons" (./local/share/icons for KDE) in your home directory.
+1. Run ```gsettings set org.gnome.desktop.interface icon-theme "Flat-Remix-Blue"``` or select "Flat-Remix-Blue" via your desktop specific tweaks application.
 
 ##### Ubuntu based distributions
 
