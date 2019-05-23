@@ -4,6 +4,8 @@
 PREFIX ?= /usr
 IGNORE ?=
 THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
+PKGNAME = flat-remix
+MAINTAINER = Daniel Ruiz de Alegría <daniel@drasite.com>
 
 # excludes IGNORE from THEMES list
 THEMES := $(filter-out $(IGNORE), $(THEMES))
@@ -24,7 +26,7 @@ uninstall:
 	-rm -rf $(foreach theme,$(THEMES),$(DESTDIR)$(PREFIX)/share/icons/$(theme))
 
 _get_version:
-	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
+	$(eval VERSION ?= $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
 
 _get_tag:
@@ -35,32 +37,40 @@ dist: _get_version
 	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
 release: _get_version
+	$(MAKE) aur_release VERSION=$(VERSION)
+	$(MAKE) copr_release VERSION=$(VERSION)
 	git tag -f $(VERSION)
-	$(MAKE) aur_release
-	$(MAKE) copr_release
 	git push origin --tags
 
-aur_release: _get_tag
+aur_release: _get_version _get_tag
 	cd aur; \
-	sed "s/pkgver\s*=.*/pkgver=$(TAG)/" -i PKGBUILD .SRCINFO; \
-	makepkg --printsrcinfo > .SRCINFO; \
-	git commit -a -m "$(TAG)"; \
-	git push origin;
+	sed "s/$(TAG)/$(VERSION)/g" -i PKGBUILD .SRCINFO; \
+	git commit -a -m "Update aur version $(VERSION)"; \
+	git push origin master;
 
-	git commit aur -m "$(TAG)"
-	git push origin
+	git commit aur -m "$(VERSION)"
+	git push origin master
 
-copr_release: _get_tag
-	sed "s/Version:.*/Version: $(TAG)/" -i flat-remix.spec
-	git commit flat-remix.spec -m "Update flat-remix.spec version $(TAG)"
-	git push origin
+	$(MAKE) launchpad_release
+
+copr_release: _get_version _get_tag
+	sed "s/$(TAG)/$(VERSION)/g" -i $(PKGNAME).spec
+	git commit $(PKGNAME).spec -m "Update $(PKGNAME).spec version $(VERSION)"
+	git push origin master
+
+launchpad_release: _get_version _get_tag
+	cp -a Flat-Remix* Makefile deb/$(PKGNAME)
+	sed "s/$(TAG)/$(VERSION)/g" -i deb/$(PKGNAME)/debian/changelog-template
+	cd deb/$(PKGNAME)/debian/ && echo " -- $(MAINTAINER)  $$(date -R)" | cat changelog-template - > changelog
+	cd deb/$(PKGNAME) && debuild -S -d
+	dput ppa deb/$(PKGNAME)_$(VERSION)_source.changes
 
 undo_release: _get_tag
 	-git tag -d $(TAG)
 	-git push --delete origin $(TAG)
 
 
-.PHONY: $(THEMES) all install uninstall _get_version dist release undo_release
+.PHONY: all install $(THEMES) uninstall _get_version _get_tag dist release aur_release copr_release launchpad_release undo_release
 
 # .BEGIN is ignored by GNU make so we can use it as a guard
 .BEGIN:
