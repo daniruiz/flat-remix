@@ -1,3 +1,34 @@
+[20190525]
+ * Fix makefile launchpad_release
+ * Add zoom app icons
+ * Fix payday2 app icon shadows for KDE
+ * Update supertuxkart app icon
+ * Update tuxguitar app icon
+ * Add UberWriter app icon
+ * Add ephemeral app icon
+ * Add com.github.cassidyjames.palette app icon symlink
+ * Add brave-browser-dev and brave-browser-nightly app icons
+ * Add github-desktop app icons
+ * Add colorpicker.svg app icon symlink
+ * Add appimagekit-colorpicker.svg app icon symlink
+ * Add makefile CHANGELOG autogeneration function
+ * Update ksnakeduel app icon
+ * Update opera-developer app icon
+ * Update nvim app icon
+ * Update marble app icon
+ * Update maxthon app icon
+ * Update supermeatboy app icon
+ * Update notepadqq app icon
+ * Update metro redux app icon
+ * Update mono app icon
+ * Change mail icons colors
+ * Add launchpad automated release
+ * Update FUNDING.yml
+ * Create FUNDING.yml
+ * Update manual installation explanation
+ * Update flat-remix.spec version 20190503
+ * 20190503
+
 [20190503]
  * Add some color to mail icon @charlesg99 :wink:
  * Fix mimetype icon shadows for KDE
