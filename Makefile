@@ -37,6 +37,7 @@ dist: _get_version
 	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
 release: _get_version
+	$(MAKE) generate_changelog VERSION=$(VERSION)
 	$(MAKE) aur_release VERSION=$(VERSION)
 	$(MAKE) copr_release VERSION=$(VERSION)
 	git tag -f $(VERSION)
@@ -45,10 +46,10 @@ release: _get_version
 aur_release: _get_version _get_tag
 	cd aur; \
 	sed "s/$(TAG)/$(VERSION)/g" -i PKGBUILD .SRCINFO; \
-	git commit -a -m "Update aur version $(VERSION)"; \
+	git commit -a -m "$(VERSION)"; \
 	git push origin master;
 
-	git commit aur -m "$(VERSION)"
+	git commit aur -m "Update aur version $(VERSION)"
 	git push origin master
 
 	$(MAKE) launchpad_release
@@ -69,6 +70,15 @@ undo_release: _get_tag
 	-git tag -d $(TAG)
 	-git push --delete origin $(TAG)
 
+generate_changelog: _get_version _get_tag
+	git checkout $(TAG) CHANGELOG
+	echo [$(VERSION)] > /tmp/out
+	git log --pretty=format:' * %s' $(TAG)..HEAD >> /tmp/out
+	echo >> /tmp/out
+	echo | cat - CHANGELOG >> /tmp/out
+	mv /tmp/out CHANGELOG
+	git commit CHANGELOG -m "Update CHANGELOG version $(VERSION)"
+	git push origin master
 
 .PHONY: all install $(THEMES) uninstall _get_version _get_tag dist release aur_release copr_release launchpad_release undo_release
 
