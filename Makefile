@@ -64,6 +64,8 @@ launchpad_release: _get_version
 	cd deb/$(PKGNAME)/debian/ && echo " -- $(MAINTAINER)  $$(date -R)" | cat changelog-template - > changelog
 	cd deb/$(PKGNAME) && debuild -S -d
 	dput ppa deb/$(PKGNAME)_$(VERSION)_source.changes
+	git checkout deb
+	git clean -df deb
 
 undo_release: _get_tag
 	-git tag -d $(TAG)
