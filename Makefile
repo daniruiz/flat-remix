@@ -40,6 +40,7 @@ release: _get_version
 	$(MAKE) generate_changelog VERSION=$(VERSION)
 	$(MAKE) aur_release VERSION=$(VERSION)
 	$(MAKE) copr_release VERSION=$(VERSION)
+	$(MAKE) launchpad_release
 	git tag -f $(VERSION)
 	git push origin --tags
 
@@ -52,16 +53,14 @@ aur_release: _get_version _get_tag
 	git commit aur -m "Update aur version $(VERSION)"
 	git push origin master
 
-	$(MAKE) launchpad_release
-
 copr_release: _get_version _get_tag
 	sed "s/$(TAG)/$(VERSION)/g" -i $(PKGNAME).spec
 	git commit $(PKGNAME).spec -m "Update $(PKGNAME).spec version $(VERSION)"
 	git push origin master
 
-launchpad_release: _get_version _get_tag
+launchpad_release: _get_version
 	cp -a Flat-Remix* Makefile deb/$(PKGNAME)
-	sed "s/$(TAG)/$(VERSION)/g" -i deb/$(PKGNAME)/debian/changelog-template
+	sed "s/{}/$(VERSION)/g" -i deb/$(PKGNAME)/debian/changelog-template
 	cd deb/$(PKGNAME)/debian/ && echo " -- $(MAINTAINER)  $$(date -R)" | cat changelog-template - > changelog
 	cd deb/$(PKGNAME) && debuild -S -d
 	dput ppa deb/$(PKGNAME)_$(VERSION)_source.changes
