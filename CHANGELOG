@@ -1,3 +1,18 @@
+[20190603]
+ * Small fixes before release
+ * Fix vidcutter blue icon
+ * Fix video app icon looks blue for some distros
+ * Move tweak app icons' symlinks to preferences-desktop-tweaks.svg
+ * Fix touchpad icon KDE shadows
+ * Symlink krunner.svg to system-run.svg
+ * Update plasma-search app icon
+ * Clean/minify plasma.svg code
+ * Symlink preferences-desktop-plasma.svg and plasma.svg app icons
+ * Update preferences-desktop-plasma app icons
+ * Fix index.theme names
+ * Add org.gnome.IconPreview.Palette.svg app icon
+ * Clean deb directory after launchpad_release finishes
+
 [20190525]
  * Fix makefile launchpad_release
  * Add zoom app icons
