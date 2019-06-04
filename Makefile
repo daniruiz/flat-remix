@@ -78,6 +78,7 @@ generate_changelog: _get_version _get_tag
 	echo >> /tmp/out
 	echo | cat - CHANGELOG >> /tmp/out
 	mv /tmp/out CHANGELOG
+	$$EDITOR CHANGELOG
 	git commit CHANGELOG -m "Update CHANGELOG version $(VERSION)"
 	git push origin master
 
