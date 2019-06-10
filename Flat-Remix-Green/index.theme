@@ -124,7 +124,7 @@ Type=Scalable
 Context=Status
 Size=24
 MinSize=1
-MaxSize=48
+MaxSize=24
 Type=Scalable
 
 [places/scalable]
