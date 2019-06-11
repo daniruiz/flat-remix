@@ -1,20 +1,20 @@
+[20190611]
+ * Fix app menu uses actions icons for apps
+ * Update panel icons; Change panel maxsize to 24px
+
 [20190603]
- * Small fixes before release
  * Fix vidcutter blue icon
  * Fix video app icon looks blue for some distros
  * Move tweak app icons' symlinks to preferences-desktop-tweaks.svg
  * Fix touchpad icon KDE shadows
  * Symlink krunner.svg to system-run.svg
  * Update plasma-search app icon
- * Clean/minify plasma.svg code
  * Symlink preferences-desktop-plasma.svg and plasma.svg app icons
  * Update preferences-desktop-plasma app icons
  * Fix index.theme names
  * Add org.gnome.IconPreview.Palette.svg app icon
- * Clean deb directory after launchpad_release finishes
 
 [20190525]
- * Fix makefile launchpad_release
  * Add zoom app icons
  * Fix payday2 app icon shadows for KDE
  * Update supertuxkart app icon
@@ -37,16 +37,9 @@
  * Update metro redux app icon
  * Update mono app icon
  * Change mail icons colors
- * Add launchpad automated release
- * Update FUNDING.yml
- * Create FUNDING.yml
- * Update manual installation explanation
- * Update flat-remix.spec version 20190503
- * 20190503
 
 [20190503]
  * Add some color to mail icon @charlesg99 :wink:
  * Fix mimetype icon shadows for KDE
  * Add new mimetypes symlinks
- * Update flat-remix.spec version 20190427
 
