@@ -24,10 +24,18 @@ Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symb
 
 [actions/scalable]
 Context=Actions
+Size=16
+Type=Fixed
+
+[actions/scalable]
+Context=Actions
+Size=22
+Type=Fixed
+
+[actions/scalable]
+Context=Actions
 Size=24
-MinSize=1
-MaxSize=24
-Type=Scalable
+Type=Fixed
 
 [actions/symbolic]
 Context=Actions
@@ -49,6 +57,21 @@ Size=512
 MinSize=1
 MaxSize=512
 Type=Scalable
+
+[apps/scalable]
+Context=Applications
+Size=16
+Type=Fixed
+
+[apps/scalable]
+Context=Applications
+Size=22
+Type=Fixed
+
+[apps/scalable]
+Context=Applications
+Size=24
+Type=Fixed
 
 [apps/symbolic]
 Context=Applications
