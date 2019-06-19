@@ -1,3 +1,21 @@
+[20190619]
+ * Symlink status bluetooth icons with apps ones; Update bluetooth-disabled app icon
+ * Resize and update battery status icons
+ * Resize and update 16px status icons
+ * Symlink status avatar icon with apps avatar icon
+ * Fix kde shadows and update status volume icons
+ * Separate 512px and 16px status icons
+ * Optimize ac-adapter icon
+ * Symlink status ac-adapter with apps ac-adapter icon
+ * Fix kde shadows airplane-mode status icon
+ * Update staruml app icon
+ * Add abrowser app icon
+ * Add 4diac-ide app icon
+ * Add multiple doom app icons
+ * Add oomox app icon
+ * Add akira app icon
+ * Change mail colors again
+
 [20190611]
  * Fix app menu uses actions icons for apps
  * Update panel icons; Change panel maxsize to 24px
