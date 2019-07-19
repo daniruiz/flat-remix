@@ -34,7 +34,24 @@ _get_tag:
 	@echo $(TAG)
 
 dist: _get_version
-	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
+	color_variants="-Blue -Green -Red -Yellow"; \
+	theme_variants="- -Dark -Light"; \
+	count=1; \
+	for color_variant in $$color_variants; \
+	do \
+		for theme_variant in $$theme_variants; \
+		do \
+			[ "$$theme_variant" = '-' ] && theme_variant=''; \
+			file="Flat-Remix$${color_variant}$${theme_variant}"; \
+			if [ -d "$$file" ]; \
+			then \
+				count_pretty=$$(echo "0$${count}" | tail -c 3); \
+				tar -c "$$file" | \
+						xz -z - > "$${count_pretty}-$${file}_$(VERSION).tar.xz"; \
+				count=$$((count+1)); \
+			fi; \
+		done; \
+	done; \
 
 release: _get_version
 	$(MAKE) generate_changelog VERSION=$(VERSION)
@@ -43,6 +60,7 @@ release: _get_version
 	$(MAKE) launchpad_release
 	git tag -f $(VERSION)
 	git push origin --tags
+	$(MAKE) dist
 
 aur_release: _get_version _get_tag
 	cd aur; \
