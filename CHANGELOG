@@ -1,3 +1,17 @@
+[20190823]
+ * Update new Visual Studio Code icons; Fixes #119
+ * Fix rocket-league app icon KDE shadow
+ * Update lmms app icon
+ * Update typora app icon
+ * Symlink mintBackup to deja-dup
+ * Update deja-dup app icon
+ * Update stellarium app icon
+ * Update seafile app icon
+ * Update office-address-book app icon
+ * Update kipi-expoblending app icon
+ * Update kipi-dngconverter app icon
+ * Change warning icon symbol color
+
 [20190815]
  * Update rocket-league app icon
  * Update veracrypt app icon
