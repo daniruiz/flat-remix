@@ -1,3 +1,28 @@
+[20190830]
+ * Fix evolution online/offline status icon does not scale; Fixes #126
+ * Update insomnia app icon
+ * Add slic3r app icon
+ * Add gnome PasswordSafe app icon
+ * Add qrshare app icon
+ * Add azpainter app icon
+ * Add crow-translate app icon; Fixes #118
+ * Add subsurface app icon
+ * Add Alva app icon
+ * Add kde neon distribution logo
+ * Update thermal-monitor app icon
+ * Add Datovka app icon
+ * Add com.github.parnold-x.timer app icon
+ * Add jamovi app icon
+ * Add artemanufrij app icon symlink
+ * Add freedoom1 app icon
+ * Add php app icons
+ * Add burp app icon
+ * Add gnome podcast app icon
+ * Add white background to war-thunder app icon
+ * Update gramps app icon
+ * Update stack app icon
+ * Change veracrypt app icon colors
+
 [20190823]
  * Update new Visual Studio Code icons; Fixes #119
  * Fix rocket-league app icon KDE shadow
