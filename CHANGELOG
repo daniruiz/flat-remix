@@ -1,3 +1,30 @@
+[20190908]
+ * Update regedit app icon
+ * Add centos distribution logo
+ * Add PopOS distribution logo
+ * Add yuzu app icon
+ * Fix modem-manager app icon KDE shadows
+ * Add pop-shop app icon symlink
+ * Add com.system76.Popsicle.svg app icon symlink
+ * Add folder-desktop places icon symlink
+ * Add wps-office-pdfadmin app icons
+ * Add deepin-draw app icon symlink
+ * Move drawing applications symlinks to applications-graphics-drawing.svg
+ * Add deepin-repair-tool app icon
+ * Move download app icon and add deepin-download symlink
+ * Fix deepin-system-monitor wrong symlink
+ * Add dde-introduction app icon
+ * Add deepin-cloud-scan-configurator symlink to deepin-cloud-scan-config-helper app icon
+ * Add deepin-cloud-scan-config-helper app icon
+ * Add deepin-manual app icon
+ * Add deepin cloud printer app icons
+ * Add deepin-launcher app icon
+ * Add deepin-feedback app icon
+ * Add deepin-toggle-desktop app icon
+ * Add preferences-system-splash app icon
+ * Add livepatch app icon
+ * Change org.gnome.DejaDup.svg wrong symlink with yast-snapper
+
 [20190830]
  * Fix evolution online/offline status icon does not scale; Fixes #126
  * Update insomnia app icon
