@@ -1,3 +1,13 @@
+[20191018]
+ * Add go mimetype file
+ * Add shadowsocks-qt5 app icon
+ * Flip memory card device icon
+ * Add visual studio and blender symbolic app icons 
+ * Add org.gnome.Nibbles app icon symlink
+ * Add kali-menu app icon
+ * Fix kontact and mugshot app icon symlinks
+ * Fix xfwm4 tweaks wrong symlinks
+
 [20190908]
  * Update regedit app icon
  * Add centos distribution logo
