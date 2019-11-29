@@ -1,3 +1,29 @@
+[20191122]
+ * Improve user-desktop place icon colors
+ * Add kali-docs app icon symlink
+ * Add kali-bugs app icon symlink
+ * Increase bugs app icon contrast for better visibility on dark themes
+ * Add exploit-db logo
+ * Add offensive-security logo
+ * Add vulnhub app icon
+ * Add python faraday app icon
+ * Add armitage app icon
+ * Add netsniff app icon
+ * Add netsniff app icon
+ * Add aircrack-ng app icon
+ * Add king-phisher app icon
+ * Update zenmap app icons
+ * Add kali-recordmydesktop app icon
+ * Add kali-set app icon
+ * Add kali-hydra symlink app icon
+ * Add kali-fern-wifi-cracker symlink app icon
+ * Add kali-burpsuite symlink app icon
+ * Change mini.xterm symlink to utilities-terminal.svg
+ * Change xfce menu icons
+ * Fix xfce app icons
+ * Fix xfce panel ac-adapter-xymbolic too big
+ * Add kali panel menu icon
+
 [20191018]
  * Add go mimetype file
  * Add shadowsocks-qt5 app icon
