@@ -1,3 +1,38 @@
+[20191216]
+ * Change actions and symbolic icons color
+ * Remove gradient background from preferences-desktop-sound app icon
+ * Update firefox-trunk app icon
+ * Update firefox-developer app icon
+ * Update firefox app icon
+ * Add sqlmap app icon
+ * Add medusa app icon
+ * Add wpscan app icon
+ * Add webscarab app icon
+ * Add beef-xss app icon
+ * Add nikto app icon
+ * Add backdoor-factory app icon
+ * Add autopsy app icon
+ * Add apktool app icon
+ * Add exe2hex app icon
+ * Add metasploit app icon
+ * Add kali-wireshark app symlink
+ * Add kali-hardware-hacking-trans kali-menu category icon
+ * Add kali-stress-testing-trans kali-menu category icon
+ * Add kali-system-services-trans kali-menu category icon
+ * Add kali-social-engineering-trans kali-menu category icon
+ * Add kali-reverse-engineering-trans kali-menu category icon
+ * Add ali-exploitation-tools-trans kali-menu category icon
+ * Add kali-web-application-trans kali-menu category icon
+ * Add kali-forensics-trans kali-menu category icon
+ * Add kali-sniffing-spoofing-trans kali-menu category icon
+ * Add kali-maintaining-access-trans kali-menu category icon
+ * Add kali-truecrypt symlink app icon
+ * Add kali-reporting-tools-trans kali-menu category icon
+ * Add kali-password-attacks-trans kali-menu category icon
+ * Add kali-vuln-assessment-trans kali-menu category icon
+ * Add kali-info-gathering-trans kali-menu category icon
+ * Symlink kali-forums kali-tools kali-www to kali-menu app icon
+
 [20191122]
  * Improve user-desktop place icon colors
  * Add kali-docs app icon symlink
