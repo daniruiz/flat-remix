@@ -1,3 +1,33 @@
+[20191223]
+ * Add unix-privesc-check app icon
+ * Add hashcat app icon
+ * Add kismet app icon
+ * Add mitmproxy app icon
+ * Add mimikatz app icon
+ * Add hashdeep app icon
+ * Add metagoofil app icon
+ * Add kali-p0f app icon symlink
+ * Add sqlninja app icon
+ * Add sparta app icon
+ * Add weevely app icon
+ * Add recon-ng app icon
+ * Add netdiscover app icon
+ * Add ike-skan app icon
+ * Add maltego app icon
+ * Add afl app icon
+ * Add bulk extractor app icon
+ * Add cowpatty app icon
+ * Add javasnoop app icon
+ * Add johnny app icon
+ * Add john the ripper app icon
+ * Add shelter app icon
+ * Add commix app icon
+ * Update setoolkit app icon
+ * Update zenmap app icon
+ * Update setoolkit app icon aligment
+ * Fix netsniff app icon
+ * Fix autopsy app icon
+
 [20191216]
  * Change actions and symbolic icons color
  * Remove gradient background from preferences-desktop-sound app icon
