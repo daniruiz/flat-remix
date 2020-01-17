@@ -1,3 +1,35 @@
+[20200116]
+ * Add ettercap app icon
+ * Add radare app icon
+ * Add proxychains app icon
+ * Add msfpc app icon
+ * Add pixiewps app icon
+ * Add reaver app icon
+ * Add binwalk app icon
+ * Add legion app icon
+ * Add pipal app icon
+ * Add cewl app icon
+ * Add macchanger and network-card app icons
+ * Add ncrack app icon
+ * Add clang app icon
+ * Add guymager app icon
+ * Add ophcrack app icon
+ * Add cutycapt app icon
+ * Add responder app icon
+ * Add skipfish app icon
+ * Add wifite app icon
+ * Add mdk3 app icon
+ * Add sidguesser app icon
+ * Add ollydbg app icon
+ * Add oscanner app icon
+ * Add dmitry app icon
+ * Add chrootkit app icon
+ * Add lynis app icon
+ * Add kali-exploit-db app icon
+ * Add bettercap app icon
+ * Add kali-training app icon symlink
+ * Change science category symlink icon
+
 [20191223]
  * Add unix-privesc-check app icon
  * Add hashcat app icon
