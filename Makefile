@@ -91,14 +91,14 @@ undo_release: _get_tag
 
 generate_changelog: _get_version _get_tag
 	git checkout $(TAG) CHANGELOG
-	echo [$(VERSION)] > /tmp/out
-	git log --pretty=format:' * %s' $(TAG)..HEAD >> /tmp/out
-	echo >> /tmp/out
-	echo | cat - CHANGELOG >> /tmp/out
-	mv /tmp/out CHANGELOG
+	mv CHANGELOG CHANGELOG.old
+	echo [$(VERSION)] > CHANGELOG
+	printf "%s\n\n" "$$(git log --pretty=format:' * %s' $(TAG)..HEAD)" >> CHANGELOG
+	cat CHANGELOG.old >> CHANGELOG
+	rm CHANGELOG.old
 	$$EDITOR CHANGELOG
 	git commit CHANGELOG -m "Update CHANGELOG version $(VERSION)"
-	git push origin master
+	git push origin HEAD
 
 .PHONY: all install $(THEMES) uninstall _get_version _get_tag dist release aur_release copr_release launchpad_release undo_release generate_changelog
 
