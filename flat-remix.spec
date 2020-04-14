@@ -10,7 +10,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
 
 %description
-Flat remix is a pretty simple icon theme inspired on material design following a modern design using "flat" colors with high contrasts and sharp borders.
+Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 
 Themes:
  • Flat Remix: main theme
