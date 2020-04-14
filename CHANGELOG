@@ -1,3 +1,85 @@
+[20200414]
+ * Update zim app icon
+ * Add bed app icon
+ * Add vega app icon
+ * Add affcat app icon
+ * Add ace app icon
+ * Add recstudio app icon
+ * Update kali-* link icons
+ * Update hydra app icon
+ * Add ferret-sidejack app icon
+ * Add tnscmd10g app icon
+ * Update crunch app icon
+ * Update exploit-db app icon
+ * Add nessus app icons
+ * Add jsql app icons
+ * Add ssdeep app icons
+ * Update flasm app icons
+ * Update sqldict app icons
+ * Add bbqsql app icon
+ * Add mdb-sql app icon
+ * Add sqlsus app icon
+ * Add galleta app icon
+ * Update volatility app icon
+ * Update foremost app icon
+ * Update foremost app icon
+ * Add foremost app icon
+ * Add sqldict app icon
+ * Replace kali-www symlink to kali-menu with kali logo
+ * Add bytecode-viewer app icons
+ * Add jd-gui app icons
+ * Add multiple debbuger app icons
+ * Add dex2jar app icon
+ * Update flasm app icon
+ * Update volafox app icon
+ * Add yara app icon
+ * Add chirp app icon
+ * Add mfterm app icon
+ * Add mfoc app icon
+ * Add gnome 3.36 parental control app icon
+ * Update gnome-extensions app icon
+ * Add 3.36 gnome-extensions app icon
+ * Update driftnet app icon
+ * Add driftnet app icon
+ * Add rainbowcrack app icon
+ * Add rcracki-mt app icon
+ * Update pyrit app icon
+ * Add nishang app icon
+ * Update termineter app icon
+ * Add shellnoob app icon
+ * Add eyewitness app icon
+ * Update backdoor-factory app icon
+ * Add hamster-sidejack app icon
+ * Add openvas app icon
+ * Add paros app icon
+ * Convert svg text to path
+ * Add powersploit app icon
+ * Add wordlist app icon
+ * Add jadx app icon
+ * Add veil app icon
+ * Add volatility app icon
+ * Add volafox app icon
+ * Add w3af app icon
+ * Add xplico app icon
+ * Fix watobo app icon
+ * Add watobo app icon
+ * Add golismero app icon
+ * Update aircrack app icon
+ * Add pyrit app icon
+ * Add dradis app icon
+ * Add rkhunter app icon
+ * Add apache-users app icon
+ * Add blkcalc app icon
+ * Add blkcat app icon
+ * Add blkls app icon
+ * Add 0trace app icon
+ * Add preferences-desktop-cursors app icon
+ * Add 188 app symlinks
+ * Add wfuzz app icon
+ * Add theHarvester app icon
+ * Update WPScan app icon
+ * Add missing kali-categories icon
+
 [20200116]
  * Add ettercap app icon
  * Add radare app icon
