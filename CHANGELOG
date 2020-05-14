@@ -1,3 +1,31 @@
+[20200511]
+ * Add gnome on-screen keyboard key icons
+ * Change panel icons' color for light variant
+ * Change action icons' color
+ * Update panel icons
+ * Move colorpicker hicolor icon to force inkscape use the 'symbolic' like one
+ * Set all symbolic icons to the same color
+ * Update action icons from Papirus icon theme
+ * Recover previous ac-adapter-symbolic icon
+ * Update symbolic icons from Papirus icon theme
+ * Sync kali-menu icons
+ * Add vfeed app icon
+ * Add magictree app icon
+ * Add phishing-frenzy app icon
+ * Fix: Replace all text elements with paths
+ * Add jboss-dbpwaudit app icon
+ * Add jboss-autopwn app icon
+ * Add gqrx app icon
+ * Update edb48 app icon
+ * Add edb48 app icon
+ * Add cutter app icon
+ * Update hydra app icon symlinks
+ * Update netbeans app icon
+ * Add nmapsi4 app icon
+ * Add alarm app icons
+ * Add compton app icon
+ * Add minicom app icon symlink
+
 [20200414]
  * Update zim app icon
  * Add bed app icon
