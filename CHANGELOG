@@ -1,3 +1,39 @@
+[20200623]
+ * Add apostrophe app icon
+ * Add new qgis app icon
+ * Add Alacritty app icon symlink
+ * Add alacritty app icon
+ * Add sslsplit app icon
+ * Add tcpreplay app icon
+ * Add chntpw app icon
+ * Add dnschef app icon
+ * Add bully app icon
+ * Remove broken symlinks
+ * Change colors for synaptic's package icons
+ * Add spooftooth app icon
+ * Add onesixtyone app icon
+ * Add patator app icon
+ * Add netmask app icon
+ * Add masscan app icon
+ * Improve burp app icon
+ * Improve wifite app icon
+ * Add davtest app icon
+ * Add spike app icon
+ * Add voiphopper app icon
+ * Add sbd app icon
+ * Add wapiti app icon
+ * Add cadaver app icon
+ * Add dbd app icon
+ * Add laudanum app icon
+ * Add scrounge-ntfs app icon
+ * Add scalpel app icon
+ * Add pdfid app icon
+ * Add dirb and dirbuster app icons
+ * Add pdf-parser app icon
+ * Add magicrescue app icon
+ * New xfce menu icon
+ * Add whatweb app icon
+
 [20200511]
  * Add gnome on-screen keyboard key icons
  * Change panel icons' color for light variant
