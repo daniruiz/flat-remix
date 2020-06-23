@@ -1,14 +1,8 @@
-# GNU make is required to run this file. To install on *BSD, run:
-#   gmake PREFIX=/usr/local install
-
-PREFIX ?= /usr
-IGNORE ?=
-THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
 PKGNAME = flat-remix
 MAINTAINER = Daniel Ruiz de Alegría <daniel@drasite.com>
+PREFIX ?= /usr
+THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
 
-# excludes IGNORE from THEMES list
-THEMES := $(filter-out $(IGNORE), $(THEMES))
 
 all:
 
@@ -57,7 +51,7 @@ release: _get_version
 	$(MAKE) generate_changelog VERSION=$(VERSION)
 	$(MAKE) aur_release VERSION=$(VERSION)
 	$(MAKE) copr_release VERSION=$(VERSION)
-	$(MAKE) launchpad_release
+	$(MAKE) launchpad_release VERSION=$(VERSION)
 	git tag -f $(VERSION)
 	git push origin --tags
 	$(MAKE) dist
@@ -77,17 +71,14 @@ copr_release: _get_version _get_tag
 	git push origin master
 
 launchpad_release: _get_version
-	cp -a Flat-Remix* Makefile deb/$(PKGNAME)
-	sed "s/{}/$(VERSION)/g" -i deb/$(PKGNAME)/debian/changelog-template
-	cd deb/$(PKGNAME)/debian/ && echo " -- $(MAINTAINER)  $$(date -R)" | cat changelog-template - > changelog
-	cd deb/$(PKGNAME) && debuild -S -d
-	dput ppa deb/$(PKGNAME)_$(VERSION)_source.changes
-	git checkout deb
-	git clean -df deb
-
-undo_release: _get_tag
-	-git tag -d $(TAG)
-	-git push --delete origin $(TAG)
+	rm -rf /tmp/$(PKGNAME)
+	mkdir -p /tmp/$(PKGNAME)/$(PKGNAME)_$(VERSION)
+	cp -a * /tmp/$(PKGNAME)/$(PKGNAME)_$(VERSION)
+	cd /tmp/$(PKGNAME)/$(PKGNAME)_$(VERSION) ; \
+	sed "s/{}/$(VERSION)/g" -i debian/changelog ; \
+	echo " -- $(MAINTAINER)  $$(date -R)" >> debian/changelog ; \
+	debuild -S -d ; \
+	dput ppa /tmp/$(PKGNAME)/$(PKGNAME)_$(VERSION)_source.changes
 
 generate_changelog: _get_version _get_tag
 	git checkout $(TAG) CHANGELOG
@@ -101,8 +92,3 @@ generate_changelog: _get_version _get_tag
 	git push origin HEAD
 
 .PHONY: all install $(THEMES) uninstall _get_version _get_tag dist release aur_release copr_release launchpad_release undo_release generate_changelog
-
-# .BEGIN is ignored by GNU make so we can use it as a guard
-.BEGIN:
-	@head -3 Makefile
-	@false
