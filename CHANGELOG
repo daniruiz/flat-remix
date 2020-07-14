@@ -1,3 +1,78 @@
+[20200710]
+ * Add asleap app icon
+ * Add dns2tcp app icon
+ * Add dnsenum app icon
+ * Add dnsrecon app icon
+ * Add enum4linux app icon
+ * Add ffind app icon
+ * Add fierce app icon
+ * Add fls app icon
+ * Add fping app icon
+ * Add fsstat app icon
+ * Add hashid app icon
+ * Add hfind app icon
+ * Add hping3 app icon
+ * Add icat app icon
+ * Add ifind app icon
+ * Add ils app icon
+ * Add img_cat app icon
+ * Add img_stat app icon
+ * Add iodine app icon
+ * Add istat app icon
+ * Add jcat app icon
+ * Add jfs app icon
+ * Add lbd app icon
+ * Add loaddb icon
+ * Add mactime app icon
+ * Add miredo app icon
+ * Add mmcat app icon
+ * Add mmls app icon
+ * Add mmls mmstat fsstat app icons
+ * Add nbt-scan app icon
+ * Add pass-the-hash app icon
+ * Add proxytunnel app icon
+ * Add ptunnel app icon
+ * Add pwnat app icon
+ * Add rebind app icon
+ * Add rsmangler app icon
+ * Add samdump2 app icon
+ * Add sigfind app icon
+ * Add smbmap app icon
+ * Add snmp-check app icon
+ * Add sorter app icon
+ * Add srch-string app icon
+ * Add ssldump app icon
+ * Add sslh app icon
+ * Add sslscan app icon
+ * Add sslsplit app icon
+ * Add sslyze app icon
+ * Add stunnel4 app icon
+ * Add swaks app icon
+ * Add thcping6 app icon
+ * Add thc-pptp-bruter app icon
+ * Add tsk_comparedir app icon
+ * Add tsk_gettimes app icon
+ * Add tsk_recover app icon
+ * Add udptunnel app icon
+ * Add wafw00f app icon
+ * Improve blkstat app icon
+ * Improve dirb and dirbuster app icon
+ * Improve dnschef app icon
+ * Improve gnome-extensions app icon
+ * Improve hydra app icon
+ * Improve jls app icon
+ * Improve magicrescue app icon
+ * Improve masscan app icon
+ * Improve nbtscan app icon
+ * Improve pixiewps app icon
+ * Improve sdb app icon
+ * Improve dbd app icon
+ * Improve skipfish app icon
+ * Improve system-monitor icon
+ * Improve theharvester app icon
+ * Improve voiphopper app icon
+ * Improve wifite app icon
+
 [20200623]
  * Add apostrophe app icon
  * Add new qgis app icon
