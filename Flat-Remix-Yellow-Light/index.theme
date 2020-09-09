@@ -53,7 +53,7 @@ Type=Scalable
 
 [apps/scalable]
 Context=Applications
-Size=512
+Size=128
 MinSize=1
 MaxSize=512
 Type=Scalable
@@ -82,7 +82,7 @@ Type=Scalable
 
 [categories/scalable]
 Context=Categories
-Size=512
+Size=128
 MinSize=1
 MaxSize=512
 Type=Scalable
@@ -96,7 +96,7 @@ Type=Scalable
 
 [devices/scalable]
 Context=Devices
-Size=512
+Size=128
 MinSize=1
 MaxSize=512
 Type=Scalable
@@ -152,7 +152,7 @@ Type=Scalable
 
 [places/scalable]
 Context=Places
-Size=512
+Size=128
 MinSize=1
 MaxSize=512
 Type=Scalable
