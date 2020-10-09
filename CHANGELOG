@@ -1,3 +1,34 @@
+[20201009]
+ * Add 750 new app icon symlinks
+ * Update hitori app icon
+ * Update nvidia app icon
+ * Update weader app icon
+ * Update mail app icon
+ * Add new gnome-parental-control symlink
+ * Update recipes app icon
+ * Update lightsoff app icon
+ * Update tetravex app icon
+ * Update simplescan app icon
+ * Update quadrapassel app icon
+ * Update sudoku app icon
+ * Update gnome-robots app icon
+ * Resize tali app icon
+ * Update cronometer app icon
+ * Fix icons for KDE
+ * Update glade app icon
+ * Update gnome-usage app-icon
+ * Update iagno app icon
+ * Fix evince app icon symlink
+ * Update gimp app icon
+ * Update lutris app icon
+ * Update peek app icon
+ * Update clock app icon
+ * Update camera app icon
+ * Update camera-web app icon
+ * Improve color-palette
+ * Fix issue with qt apps
+ * Fix relative symlinks
+
 [20200710]
  * Add asleap app icon
  * Add dns2tcp app icon
