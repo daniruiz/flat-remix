@@ -1,3 +1,24 @@
+[20201017]
+ * Update musique app icon
+ * Update file-manager app icon
+ * Update maps app icon
+ * Minify app icons
+ * Update deja-dup app icon
+ * Update gnome password-sage app icon
+ * Add gnome-keysign app icon
+ * Update games app icon
+ * Update mpv app icon
+ * Update blender app icon
+ * Update gnome-tali app icon
+ * Update accerciser app icon
+ * Reduce shadows for some app icons
+ * Update gnome-boxes app icon
+ * Update discord app icon
+ * Fix broken icon input-touchpad-off
+ * Remove symbolic icons from scalable directory
+ * Update desktop-theme app icon
+ * Fix wrong edit-paste symbolic icon
+
 [20201009]
  * Add 750 new app icon symlinks
  * Update hitori app icon
