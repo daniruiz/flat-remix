@@ -51,7 +51,7 @@ release: _get_version
 	$(MAKE) generate_changelog VERSION=$(VERSION)
 	$(MAKE) aur_release VERSION=$(VERSION)
 	$(MAKE) copr_release VERSION=$(VERSION)
-	$(MAKE) launchpad_release VERSION=$(VERSION)
+	#$(MAKE) launchpad_release VERSION=$(VERSION)
 	git tag -f $(VERSION)
 	git push origin --tags
 	$(MAKE) dist
@@ -78,7 +78,7 @@ launchpad_release: _get_version
 	sed "s/{}/$(VERSION)/g" -i debian/changelog ; \
 	echo " -- $(MAINTAINER)  $$(date -R)" >> debian/changelog ; \
 	debuild -S -d ; \
-	dput ppa /tmp/$(PKGNAME)/$(PKGNAME)_$(VERSION)_source.changes
+	dput ppa:daniruiz/flat-remix /tmp/$(PKGNAME)/$(PKGNAME)_$(VERSION)_source.changes
 
 generate_changelog: _get_version _get_tag
 	git checkout $(TAG) CHANGELOG
