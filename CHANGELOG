@@ -1,3 +1,19 @@
+[20201112]
+ * Add package-available-locked status icon
+ * Update emblem icons
+ * Fix broken symlink for preferences-desktop-keyboard-symbolic.svg
+ * Update action symbolic icons
+ * Update app symbolic icons
+ * Update device symbolic icons
+ * Update places symbolic icons
+ * Update status symbolic icons
+ * Update panel icons
+ * Update action icons for the light theme
+ * Update action icons for the dark theme
+ * Update action icons
+ * Use symbolic icon for edit-find
+ * Fix edit-find app icon
+
 [20201017]
  * Update musique app icon
  * Update file-manager app icon
