@@ -1,3 +1,22 @@
+[20201217]
+ * Copy missing icons to Blue variants
+ * Add 9 new device icons
+ * Add 940 new app icon symlinks
+ * Update media-optical device icon
+ * Update 8tracks app icon
+ * Update amarok app icon
+ * Update java app icon
+ * Update ring app icon
+ * Update textwrangler app icon
+ * Update kfoldersync app icon
+ * Update all wine app icons
+ * Add kde-frameworks app icon
+ * Add spiderfoot app icon
+ * Add thunderbolt device icon
+ * Add new xfce-notification app icon symlink
+ * Add new mousepad app icon symlink
+ * Add missing gnome-screenshot symbolic icons
+
 [20201112]
  * Add package-available-locked status icon
  * Update emblem icons
