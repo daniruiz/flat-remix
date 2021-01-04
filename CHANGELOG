@@ -1,3 +1,24 @@
+[20210104]
+ * Add desktop-profiler app icon
+ * Add 3 extra mimetype icons
+ * Add depth shadows to mimetype icons
+ * Fix shadows for mimetype icons
+ * Add kotlin swift and rust mimetype icons
+ * Update system-log-out icon
+ * Add xfce4-sample-plugin app icon
+ * Add xfce4-statusnotifier-plugin app icon
+ * Add eyes app icons
+ * Improve preferences-color app icon
+ * Differentiate xfce-terminal-settings and xfce-terminal icons
+ * Add ebook-reader app icon symlink
+ * Remove emotes, fallback to system provided icons
+ * Extra icons for Xfce 4.16
+ * Differentiate color settings and appearance settings
+ * Update mouse icon
+ * Update keyboard icon
+ * Update regedit app icon
+ * Add symlinks for xfce 4.16 icon naming
+
 [20201217]
  * Copy missing icons to Blue variants
  * Add 9 new device icons
