@@ -1,3 +1,10 @@
+[20210115]
+ * Add 64 new mimetype icons
+ * Update all mimetype icons
+ * Add symbolic icons for xfsm-*
+ * Add missing app icon xfsm-lock
+ * Use power icon for xfce4-battery-plugin
+
 [20210104]
  * Add desktop-profiler app icon
  * Add 3 extra mimetype icons
