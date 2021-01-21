@@ -1,3 +1,22 @@
+[20210121]
+ * Add custom desktop icons for color-folder script
+ * Add new color-folder script and templates
+ * Change background for text-x-meson mimetype icon
+ * Add image-x-cursor mimetype icon
+ * Add application-x-firmware mimetype icon
+ * Add application-vnd.iccprofile mimetype icon
+ * Add flatpak mimetype icons
+ * Change background for text-x-csharp mimetype icon
+ * Change font for text-x-c mimetype icon
+ * Improve text-x-patch mimetype icon
+ * Update gnome-freecell app icon
+ * Update meld app icon
+ * Add foliate app icon
+ * Update video app icons
+ * Remove transparent elements from video mimetype icon
+ * Add element app icon
+ * Redesign master-pdf-editor app icon
+
 [20210115]
  * Add 64 new mimetype icons
  * Update all mimetype icons
