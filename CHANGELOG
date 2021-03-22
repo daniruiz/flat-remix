@@ -1,3 +1,13 @@
+[20210322]
+ * Add stoken-gui app icon
+ * Add AppImageLauncher app icon
+ * Add fractal app icon
+ * Update seahorse app icon
+ * Update multiwriter app icon
+ * Fix photoshop mime icon
+ * Revert size of ac-adapter symbolic icon for Xfce 4.16
+ * Add airgeddon icon
+
 [20210121]
  * Add custom desktop icons for color-folder script
  * Add new color-folder script and templates
