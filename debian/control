@@ -9,14 +9,3 @@ Package: flat-remix
 Architecture: any
 Description: Flat Remix ICON theme
  Flat remix is a pretty simple icon theme inspired on material design following a modern design using "flat" colors with high contrasts and sharp borders.
- .
- Themes:
-  • Flat Remix: main theme
-  • Flat Remix Dark: for dark interfaces
-  • Flat Remix Light: for light interfaces
- .
- Folder variants:
-  • Blue Folders
-  • Green Folders
-  • Red Folders
-  • Yellow Folders
