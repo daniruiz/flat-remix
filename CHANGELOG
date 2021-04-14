@@ -1,3 +1,14 @@
+[20210414]
+ * Update packaging
+ * Add black, brown, cyan, grey, magenta, orange, teal and violet folder variants
+ * Fix photoshop mimetype icon
+ * Fix panel icons for Flat-Remix-Red-Light
+ * Remove /mimetypes/scalable/scalable/ duplicated icons
+ * Only keep dark and light variants
+ * Add starkiller app icon
+ * Add powershell-empire app icon
+ * Add crackmapexec app icon
+
 [20210322]
  * Add stoken-gui app icon
  * Add AppImageLauncher app icon
