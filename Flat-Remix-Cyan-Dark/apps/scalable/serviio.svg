@@ -1,0 +1,224 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath id="clip2-08">
+			<path d="m111 119h177v23h-177z"/>
+		</clipPath>
+		<clipPath>
+			<path d="m368.64 199.88c0-93.234-75.602-168.75-168.75-168.75-93.152 0-168.75 75.516-168.75 168.75s75.598 168.75 168.75 168.75c93.148 0 168.75-75.516 168.75-168.75z"/>
+		</clipPath>
+		<clipPath id="clip4-06">
+			<path d="m177 130h45v89h-45z"/>
+		</clipPath>
+		<clipPath>
+			<path d="m368.64 199.88c0-93.234-75.602-168.75-168.75-168.75-93.152 0-168.75 75.516-168.75 168.75s75.598 168.75 168.75 168.75c93.148 0 168.75-75.516 168.75-168.75z"/>
+		</clipPath>
+		<clipPath id="clip6">
+			<path d="m111 207h177v89h-177z"/>
+		</clipPath>
+		<clipPath>
+			<path d="m368.64 199.88c0-93.234-75.602-168.75-168.75-168.75-93.152 0-168.75 75.516-168.75 168.75s75.598 168.75 168.75 168.75c93.148 0 168.75-75.516 168.75-168.75z"/>
+		</clipPath>
+		<clipPath id="clip1-6">
+			<rect width="384" height="384"/>
+		</clipPath>
+		<g clip-path="url(#clip1-6)">
+			<g clip-path="url(#clip2-08)"></g>
+			<g clip-path="url(#clip4-06)"></g>
+			<g clip-path="url(#clip6)"></g>
+		</g>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+		<clipPath>
+			<rect width="384" height="384"/>
+		</clipPath>
+	</defs>
+	<path d="m360 343.2v-302.39c0-9.2773-7.5234-16.797-16.801-16.797h-302.39c-9.2773 0-16.797 7.5195-16.797 16.797v302.39c0 9.2773 7.5195 16.801 16.797 16.801h302.39c9.2773 0 16.801-7.5234 16.801-16.801z" style="fill:#ffc72e"/>
+	<path d="m192 91.504c-45.668 0.11328-86.328 28.941-101.55 72h-30.445l48 72 48-72h-26.203c12.832-22.23 36.535-35.949 62.207-36 30.562 0.0352 57.773 19.367 67.871 48.215l16.125-24.215 23.066 34.594c-6.7578-54.004-52.641-94.543-107.06-94.594zm84 72-48 72h26.203c-12.836 22.23-36.535 35.945-62.207 35.996-30.562-0.0352-57.773-19.363-67.871-48.215l-16.129 24.215-23.063-34.594c6.7578 54.004 52.641 94.543 107.06 94.594 45.672-0.11327 86.332-28.941 101.55-71.996h30.445l-48-72z" style="opacity:.3"/>
+	<path d="m192 84.004c-45.668 0.11328-86.328 28.941-101.55 72h-30.445l48 72 48-72h-26.203c12.832-22.23 36.535-35.949 62.207-36 30.562 0.0352 57.773 19.367 67.871 48.215l16.125-24.215 23.066 34.594c-6.7578-54.004-52.641-94.543-107.06-94.594zm84 72-48 72h26.203c-12.836 22.23-36.535 35.945-62.207 35.996-30.562-0.0352-57.773-19.363-67.871-48.215l-16.129 24.215-23.063-34.594c6.7578 54.004 52.641 94.543 107.06 94.594 45.672-0.11328 86.332-28.941 101.55-71.996h30.445l-48-72z" style="fill:#272a34"/>
+	<path transform="scale(.75)" d="m32.01 447.6v10c0 12.37 10.027 22.4 22.396 22.4h403.19c12.37 0 22.4-10.031 22.4-22.4v-10c0 12.37-10.031 22.4-22.4 22.4h-403.19c-12.37 0-22.396-10.031-22.396-22.4z" style="opacity:.3;stroke-width:1.3333"/>
+	<path transform="scale(.75)" d="m54.406 32.01c-12.37 0-22.396 10.027-22.396 22.396v10c0-12.37 10.027-22.396 22.396-22.396h403.19c12.37 0 22.4 10.027 22.4 22.396v-10c0-12.37-10.031-22.396-22.4-22.396h-403.19z" style="fill:#fff;opacity:.3;stroke-width:1.3333"/>
+</svg>

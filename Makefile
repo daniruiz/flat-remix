@@ -6,6 +6,20 @@ THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
 
 all:
 
+generate_folder_variants:
+	find color-folder -type d -name 'places-*' ! -name 'places-blue' \
+	| while read folder_variant; do \
+		color_variant=$$(echo $$folder_variant | sed -E 's/.*-([a-z])([a-z]+)$$/\U\1\L\2/g'); \
+		for variant in Dark Light; do \
+			new_theme="Flat-Remix-$${color_variant}-$${variant}"; \
+			rm -rf $$new_theme; \
+			cp -a "Flat-Remix-Blue-$${variant}" $$new_theme; \
+			rm -rf "$${new_theme}/places/scalable/"; \
+			cp -a $$folder_variant "$${new_theme}/places/scalable/"; \
+			sed -i "s/Name=.*/Name=$${new_theme}/" "$${new_theme}/index.theme"; \
+		done; \
+	done
+
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share/icons
