@@ -1,3 +1,11 @@
+[20210518]
+ * Add recapp icon
+ * Add org.gnome.Connections.svg app icon
+ * Update virtualbox icon
+ * Update terminal icons
+ * Update web-browser icon
+ * Add ghidra icon
+
 [20210414]
  * Update packaging
  * Add black, brown, cyan, grey, magenta, orange, teal and violet folder variants
