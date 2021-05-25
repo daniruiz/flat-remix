@@ -2,6 +2,7 @@ PKGNAME = flat-remix
 MAINTAINER = Daniel Ruiz de Alegría <daniel@drasite.com>
 PREFIX ?= /usr
 THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
+COLOR_VARIANTS ?= Blue Green Red Yellow Black Brown Cyan Grey Magenta Orange Teal Violet
 
 
 all:
@@ -42,22 +43,16 @@ _get_tag:
 	@echo $(TAG)
 
 dist: _get_version
-	color_variants="-Blue -Green -Red -Yellow"; \
-	theme_variants="- -Dark -Light"; \
+	variants="Light Dark"; \
 	count=1; \
-	for color_variant in $$color_variants; \
+	for color_variant in $(COLOR_VARIANTS); \
 	do \
-		for theme_variant in $$theme_variants; \
+		for variant in $$variants; \
 		do \
-			[ "$$theme_variant" = '-' ] && theme_variant=''; \
-			file="Flat-Remix$${color_variant}$${theme_variant}"; \
-			if [ -d "$$file" ]; \
-			then \
-				count_pretty=$$(echo "0$${count}" | tail -c 3); \
-				tar -c "$$file" | \
-						xz -z - > "$${count_pretty}-$${file}_$(VERSION).tar.xz"; \
-				count=$$((count+1)); \
-			fi; \
+			count_pretty=$$(echo "0$${count}" | tail -c 3); \
+			tar -c "Flat-Remix-$${color_variant}-$${variant}"* | \
+				xz -z - > "$${count_pretty}-Flat-Remix-$${color_variant}-$${variant}_$(VERSION).tar.xz"; \
+			count=$$((count+1)); \
 		done; \
 	done; \
 
