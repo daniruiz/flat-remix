@@ -1,3 +1,15 @@
+[20210620]
+ * Add 130 new symlink icons
+ * Add icon for ungoogled-chromium
+ * Make terminal icons more square
+ * Fix web-browser icon for kde
+ * Use network icon for network-manager instead of web-browser
+ * Update gnome-characters icon
+ * Improve keyboard related icons
+ * Update system-users icon
+ * Adapt makefile dist for the new color variants
+ * Update debian's changelog ubuntu release
+
 [20210518]
  * Add recapp icon
  * Add org.gnome.Connections.svg app icon
