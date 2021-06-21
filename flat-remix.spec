@@ -8,6 +8,7 @@ Group:          User Interface/Desktops
 Source:         https://github.com/daniruiz/%{name}/archive/%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
+BuildRequires:  cmake
 
 %description
 Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
