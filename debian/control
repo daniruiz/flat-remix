@@ -2,10 +2,10 @@ Source: flat-remix
 Section: misc
 Priority: optional
 Maintainer: Daniel Ruiz de Alegría <daniel@drasite.com>
-Build-Depends: debhelper-compat (= 9)
+Build-Depends: debhelper-compat (= 12)
 Homepage: https://drasite.com/flat-remix
 
 Package: flat-remix
-Architecture: any
+Architecture: all
 Description: Flat Remix ICON theme
  Flat remix is a pretty simple icon theme inspired on material design following a modern design using "flat" colors with high contrasts and sharp borders.
