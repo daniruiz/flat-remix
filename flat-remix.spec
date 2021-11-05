@@ -39,5 +39,6 @@ fi
 %files
 %license LICENSE
 %doc README.md AUTHORS
-%{_datadir}/icons/Flat-Remix-*
+%dir %{_datadir}/icons/Flat-Remix-*/
+%{_datadir}/icons/Flat-Remix-*/
 %ghost %{_datadir}/icons/Flat-Remix-*/icon-theme.cache
