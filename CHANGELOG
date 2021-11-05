@@ -1,3 +1,28 @@
+[20211105]
+ * Copy all new app icons to each theme variant
+ * Make crackmapexec and ffuf icons larger
+ * Update cutecom app icon
+ * Add powershell app icon
+ * Add ffuf app icon
+ * Add preferences-system-backup app icon
+ * Improve app icons including Kali's logo
+ * Add kali-tweaks app icon
+ * Add 65 new symlinks for app icons
+ * Add kde desktop-activities app icon
+ * Add kde window-decorations app icon
+ * Add applications-all app icon
+ * Update launchpad_release script
+ * Update debian packaging
+ * Add app icon for virt-manager
+ * Update filezilla icon
+ * Change gnome-tweaks app icon colors
+ * Improve clocks icon shadow
+ * Minify lightcord app icon
+ * Merge pull request #175 from TFP-dev/lightcord-icon
+ * Add symlinks for kali-tools
+ * Add Lightcord icon
+ * Add fedora build-dependency
+
 [20210620]
  * Add 130 new symlink icons
  * Add icon for ungoogled-chromium
