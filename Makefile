@@ -46,15 +46,12 @@ _get_tag:
 dist: _get_version
 	variants="Light Dark"; \
 	count=1; \
-	for color_variant in $(COLOR_VARIANTS); \
+	for variant in $(COLOR_VARIANTS); \
 	do \
-		for variant in $$variants; \
-		do \
 			count_pretty=$$(echo "0$${count}" | tail -c 3); \
-			tar -c "Flat-Remix-$${color_variant}-$${variant}"* | \
-				xz -z - > "$${count_pretty}-Flat-Remix-$${color_variant}-$${variant}_$(VERSION).tar.xz"; \
+			tar -c "Flat-Remix-$${variant}"* | \
+				xz -z - > "$${count_pretty}-Flat-Remix-$${variant}_$(VERSION).tar.xz"; \
 			count=$$((count+1)); \
-		done; \
 	done; \
 
 release: _get_version
