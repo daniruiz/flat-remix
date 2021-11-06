@@ -1,3 +1,9 @@
+[20211106]
+ * Improve fedora package spec file
+ * Reduce size of theme using symlinked folders
+ * Fedora installation avoid creating 'Flat-Remix-*' directory
+ * Package themes only by color variant
+
 [20211105]
  * Copy all new app icons to each theme variant
  * Make crackmapexec and ffuf icons larger
