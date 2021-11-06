@@ -22,23 +22,24 @@ Flat Remix is an icon theme inspired by material design. It is mostly flat using
 %build
 
 %post
-for theme in /usr/share/icons/Flat-Remix*
+for theme in %{_datadir}/icons/Flat-Remix*
 do
-    gtk-update-icon-cache --force /usr/share/icons/${theme} || :
+    touch --no-create %{_datadir}/icons/${theme} &> /dev/null || :
+    gtk-update-icon-cache --force %{_datadir}/icons/${theme} &> /dev/null || :
 done
 
 
 %postun
 if [ $1 -eq 0 ]; then
-    for theme in /usr/share/icons/Flat-Remix*
+    for theme in %{_datadir}/icons/Flat-Remix*
     do
-        gtk-update-icon-cache --force /usr/share/icons/${theme} || :
+        touch --no-create %{_datadir}/icons/${theme} &> /dev/null || :
+        gtk-update-icon-cache --force %{_datadir}/icons/${theme} &> /dev/null || :
     done
 fi
 
 %files
 %license LICENSE
 %doc README.md AUTHORS
-%dir %{_datadir}/icons/Flat-Remix-*/
 %{_datadir}/icons/Flat-Remix-*/
 %ghost %{_datadir}/icons/Flat-Remix-*/icon-theme.cache
