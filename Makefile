@@ -63,9 +63,10 @@ release: _get_version
 	git push origin --tags
 	$(MAKE) dist
 
-aur_release: _get_version _get_tag
+aur_release: _get_version
 	cd aur; \
-	sed "s/$(TAG)/$(VERSION)/g" -i PKGBUILD .SRCINFO; \
+	sed "s/pkgver=.*/pkgver=$(VERSION)/" -i PKGBUILD; \
+	sed "s/pkgver =.*/pkgver = $(VERSION)/" -i .SRCINFO; \
 	git commit -a -m "$(VERSION)"; \
 	git push origin master;
 
