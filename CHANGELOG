@@ -1,3 +1,12 @@
+[20211214]
+ * Improve fedora package spec file
+ * Copy new icons to all theme variants
+ * Add dark panel variants
+ * Fix icon size of battery panel icons in Xfce
+ * Update icons from Papirus icon theme
+ * Fix aur release script
+ * Add all theme folders to fedora spec file
+
 [20211106]
  * Improve fedora package spec file
  * Reduce size of theme using symlinked folders
