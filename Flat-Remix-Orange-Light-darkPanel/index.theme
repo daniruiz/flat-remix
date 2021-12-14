@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Flat-Remix-Orange-Light
+Name=Flat-Remix-Orange-Light-darkPanel
 Comment=Flat Remix ICON theme for light interfaces with dark panel
 Inherits=breeze,elementary,gnome,hicolor
 
@@ -20,19 +20,24 @@ PanelSizes=16,22,24,32,48,64
 DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status/scalable/16,status/scalable/32,status/scalable/512,status/symbolic
+Directories=actions/16,actions/18,actions/22,actions/24,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status/scalable/16,status/scalable/32,status/scalable/512,status/symbolic
 
-[actions/scalable]
+[actions/16]
 Context=Actions
 Size=16
 Type=Fixed
 
-[actions/scalable]
+[actions/18]
+Context=Actions
+Size=18
+Type=Fixed
+
+[actions/22]
 Context=Actions
 Size=22
 Type=Fixed
 
-[actions/scalable]
+[actions/24]
 Context=Actions
 Size=24
 Type=Fixed
