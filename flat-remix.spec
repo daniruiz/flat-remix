@@ -41,28 +41,5 @@ fi
 %files
 %license LICENSE
 %doc README.md AUTHORS
-%{_datadir}/Flat-Remix-Black-Dark
-%{_datadir}/Flat-Remix-Black-Light
-%{_datadir}/Flat-Remix-Blue-Dark
-%{_datadir}/Flat-Remix-Blue-Light
-%{_datadir}/Flat-Remix-Brown-Dark
-%{_datadir}/Flat-Remix-Brown-Light
-%{_datadir}/Flat-Remix-Cyan-Dark
-%{_datadir}/Flat-Remix-Cyan-Light
-%{_datadir}/Flat-Remix-Green-Dark
-%{_datadir}/Flat-Remix-Green-Light
-%{_datadir}/Flat-Remix-Grey-Dark
-%{_datadir}/Flat-Remix-Grey-Light
-%{_datadir}/Flat-Remix-Magenta-Dark
-%{_datadir}/Flat-Remix-Magenta-Light
-%{_datadir}/Flat-Remix-Orange-Dark
-%{_datadir}/Flat-Remix-Orange-Light
-%{_datadir}/Flat-Remix-Red-Dark
-%{_datadir}/Flat-Remix-Red-Light
-%{_datadir}/Flat-Remix-Teal-Dark
-%{_datadir}/Flat-Remix-Teal-Light
-%{_datadir}/Flat-Remix-Violet-Dark
-%{_datadir}/Flat-Remix-Violet-Light
-%{_datadir}/Flat-Remix-Yellow-Dark
-%{_datadir}/Flat-Remix-Yellow-Light
+%{_datadir}/icons/Flat-Remix*
 %ghost %{_datadir}/icons/Flat-Remix-*/icon-theme.cache
