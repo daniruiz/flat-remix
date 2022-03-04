@@ -1,3 +1,7 @@
+[20220304]
+ * Fix copr release script
+ * Fix symlink actions folders in Light themes
+
 [20211214]
  * Improve fedora package spec file
  * Copy new icons to all theme variants
