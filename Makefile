@@ -1,6 +1,6 @@
 PKGNAME = flat-remix
 MAINTAINER = Daniel Ruiz de Alegría <daniel@drasite.com>
-UBUNTU_RELEASE = impish
+UBUNTU_RELEASE = jammy
 PREFIX ?= /usr
 THEMES ?= $(patsubst %/index.theme,%,$(wildcard ./*/index.theme))
 COLOR_VARIANTS ?= Blue Green Red Yellow Black Brown Cyan Grey Magenta Orange Teal Violet
