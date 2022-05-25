@@ -1,5 +1,5 @@
 Name:           flat-remix
-Version: 20220304
+Version: 20220525
 Release:        1
 License:        GPLv3
 Summary:        Flat Remix icon theme
