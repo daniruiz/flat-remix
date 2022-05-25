@@ -1,3 +1,13 @@
+[20220525]
+ * Copy new icons to all variants
+ * Update light 'panel' icons
+ * Update dark 'panel' icons
+ * Update light 'actions' icons
+ * Update dark 'actions' icons
+ * Update kali tool icons
+ * Update symbolic icons and add missing gnome 42 ones
+ * Prepare for ubuntu release
+
 [20220304]
  * Fix copr release script
  * Fix symlink actions folders in Light themes
