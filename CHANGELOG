@@ -1,3 +1,16 @@
+[20230622]
+ * Sync updates to all theme variants
+ * Update light action and panel icons
+ * Add new kali icons
+ * Add new app symlinks
+ * Update icons from Papirus
+ * Sync icons for all variants
+ * Update faraday icon
+ * Add symlink for peass-ng
+ * fix size of ac-adapter icon in xfce-panel
+ * Add peass app icon
+ * Remove window symbolic icons from elementary
+
 [20220525]
  * Copy new icons to all variants
  * Update light 'panel' icons
