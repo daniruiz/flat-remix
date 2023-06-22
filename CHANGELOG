@@ -1,4 +1,5 @@
 [20230622]
+ * Fix symlinks for actions/symbolic
  * Sync updates to all theme variants
  * Update light action and panel icons
  * Add new kali icons
