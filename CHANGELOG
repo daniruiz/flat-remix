@@ -1,5 +1,24 @@
+[20240201]
+ * Add sparrow-wifi app icon
+ * Improve gimp app icon colors
+ * Merge remote-tracking branch 'TFP-dev/gimp-redesign'
+ * Add missing app icon for KDE backups
+ * Generate all theme variants
+ * Update action, panel and symbolic icons from Papirus icon theme
+ * Update kali icons
+ * Add extra app icon symlinks
+ * Add flatseal app icon
+ * Add corectrl app icon
+ * Add mission-center app icon
+ * Add loupe app icon
+ * Add gnome-snapshot app icon
+ * Add nvtop app icon
+ * Add updated kali icons
+ * Update CHANGELOG version 20230622
+ * Updated Gimp icon in preview
+ * Gimp icon redesign
+
 [20230622]
- * Fix symlinks for actions/symbolic
  * Sync updates to all theme variants
  * Update light action and panel icons
  * Add new kali icons
