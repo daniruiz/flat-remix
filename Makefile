@@ -22,6 +22,11 @@ generate_folder_variants:
 		done; \
 	done
 
+generate_theme_variants:
+	find . -name "Flat-Remix-*-Dark" ! -name Flat-Remix-Black-Dark -exec sh -c 'rm -rf $$1/apps/scalable/; cp -a Flat-Remix-Black-Dark/apps/scalable/ $$1/apps/scalable/' _ {} \;
+	find . -name "Flat-Remix-*-Light" ! -name Flat-Remix-Black-Light -exec sh -c 'rm -rf $$1/panel/; cp -a Flat-Remix-Black-Light/panel/ $$1/panel/' _ {} \;
+	find . -name "Flat-Remix-*-Light" ! -name Flat-Remix-Black-Light -exec sh -c 'rm -rf $$1/actions/[12]*; cp -a Flat-Remix-Black-Light/actions/[12]* $$1/actions/' _ {} \;
+
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share/icons
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share/icons
