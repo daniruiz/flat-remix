@@ -63,21 +63,6 @@ MinSize=1
 MaxSize=512
 Type=Scalable
 
-[apps/scalable]
-Context=Applications
-Size=16
-Type=Fixed
-
-[apps/scalable]
-Context=Applications
-Size=22
-Type=Fixed
-
-[apps/scalable]
-Context=Applications
-Size=24
-Type=Fixed
-
 [apps/symbolic]
 Context=Applications
 Size=16
