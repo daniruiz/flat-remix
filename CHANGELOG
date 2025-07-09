@@ -1,3 +1,28 @@
+[20250709]
+ * Generate index.theme files for all color variants
+ * Add missing trash symbolic icon
+ * Generate all color theme variants
+ * Update Makefile and remove fedora packages
+ * Remove debian packaging files
+ * Update actions icons for light theme
+ * Update panel icons for light theme
+ * Update index.theme for light theme
+ * Update index.theme
+ * Add new app icon symlinks
+ * Add new app icons for GNOME and KDE
+ * Add new app icons for xfce
+ * Remove old category icons
+ * Add new app icons for kali
+ * Update animations icons
+ * Update status icons
+ * Update categories icons
+ * Update devices icons
+ * Update panel icons
+ * Update actions icons
+ * Add Adwaita icon them to Inherits list
+ * Add script to update theme variants
+ * Add gtkhash app icon
+
 [20240201]
  * Add sparrow-wifi app icon
  * Improve gimp app icon colors
