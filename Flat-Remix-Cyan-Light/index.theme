@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Flat-Remix-Cyan-Light
 Comment=Flat Remix ICON theme for light interfaces
-Inherits=breeze,elementary,gnome,hicolor
+Inherits=breeze,elementary,Adwaita,gnome,hicolor
 
 Example=folder
 
@@ -45,24 +45,25 @@ Type=Fixed
 [actions/symbolic]
 Context=Actions
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [animations]
 Context=Animations
 Size=24
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [apps/scalable]
 Context=Applications
 Size=128
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
+# Hacky trick for Xfce icons - - - - - - - - - - - - - - - - - - - - - - - - - -
 [apps/scalable]
 Context=Applications
 Size=16
@@ -77,115 +78,117 @@ Type=Fixed
 Context=Applications
 Size=24
 Type=Fixed
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [apps/symbolic]
 Context=Applications
-Size=16
-MinSize=1
+Size=512
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [categories/scalable]
 Context=Categories
-Size=128
-MinSize=1
+Size=512
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [categories/symbolic]
 Context=Actions
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [devices/scalable]
 Context=Devices
-Size=128
-MinSize=1
+Size=512
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [devices/symbolic]
 Context=Devices
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [emblems/scalable]
 Context=Emblems
 Size=24
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [emblems/symbolic]
 Context=Emblems
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [mimetypes/scalable]
 Context=MimeTypes
 Size=48
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [mimetypes/symbolic]
 Context=MimeTypes
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [panel]
 Context=Status
 Size=24
-MinSize=1
+MinSize=16
 MaxSize=24
 Type=Scalable
 
 [places/scalable]
 Context=Places
-Size=128
-MinSize=1
+Size=512
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [places/symbolic]
 Context=Places
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [status/scalable/16]
 Context=Status
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [status/scalable/32]
 Context=Status
 Size=32
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [status/scalable/512]
 Context=Status
-Size=16
-MinSize=1
+Size=512
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [status/symbolic]
 Context=Status
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
+
