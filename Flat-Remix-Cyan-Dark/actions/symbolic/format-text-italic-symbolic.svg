@@ -1,3 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#5c616c" d="M 5.9544,3 5.1727,5 H 11.173 C 11.603,5 11.934,5.61 11.782,6 L 11.391,7 H 6.3909 C 5.4709,7 4.5024,7.38 3.7617,7.97 3.025,8.55 2.4997,9.28 2.2182,10 1.9368,10.72 1.9214,11.45 2.2047,12.03 2.488,12.61 3.1356,13 4.0456,13 H 11.046 L 13.782,6 C 14.419,4.37 13.634,3 11.954,3 Z M 5.6091,9 H 10.609 L 9.8273,11 H 4.8273 C 4.4273,11 4.3003,10.89 4.2168,10.72 4.1332,10.55 4.1088,10.28 4.2182,10 4.3277,9.72 4.5332,9.45 4.7497,9.28 4.9622,9.12 5.1891,9 5.6091,9 Z"/>
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
+  </style>
+ </defs>
+ <g transform="matrix(1,0,-0.21338,1,2.1911,0)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,3 V 5 H 9 C 9,5 10,5 10,6 V 7 H 5 C 2,7 2,10 2,10 2,10 2,13 5,13 H 11 C 11,13 12,13 12,12 V 6 C 12,3 9,3 9,3 Z M 5,9 H 10 V 11 H 5 C 4,11 4,10 4,10 4,10 4,9 5,9 Z"/>
+ </g>
 </svg>
