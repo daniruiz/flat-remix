@@ -1,3 +1,11 @@
+[20251119]
+ * Update makefile task to generate theme color variants
+ * Generate all icon themes
+ * Add new kali app icons
+ * Update panel icons
+ * Update actions icons
+ * Update symbolic icons
+
 [20250709]
  * Generate index.theme files for all color variants
  * Add missing trash symbolic icon
